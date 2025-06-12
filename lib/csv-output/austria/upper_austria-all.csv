@@ -1,0 +1,986 @@
+skz,name,street,zip,city,phone,email,website,principal,school_type
+401011,"VS 1, Stelzhamerschule",Tegetthoffstraße 23,4020,Linz,0732 656 053-21,s401011@schule-ooe.at,http://vs1-linz.jimdo.com,Frau Stefanie Luisa Rieder,Základní škola
+401014,Polytechnische Schule Urfahr,Hinsenkamplatz 3,4040,Linz,0732 700 901-11,s401014@schule-ooe.at,http://www.pts-urfahr.at,Herr Christian Bauer,Polytechnická škola
+401015,Berufsschule Linz 6,Ferihumerstraße 28,4040,Linz,+43 732 7720 36200,bs-linz6.post@ooe.gv.at,http://www.bs-linz6.ac.at,Frau Nina Jelinek,Odborné učiliště
+401016,"Akademisches Gymnasium Linz, Spittelwiese",Spittelwiese 14,4020,Linz,0732 772 635,s401016@bildung.gv.at,http://www.akadgymlinz.eduhi.at,Herr Gerhard Beuer,Všeobecná střední škola (gymnázium)
+401022,"TNMS3, Technische Naturwissenschaftliche Mittelschule 3 – Linz",Figulystraße 15,4020,Linz,0732 652 619,s401022@schule-ooe.at,https://www.tnms3-linz.at,Frau Sandra Mayerhofer,Nižší střední škola
+401023,"Allgem. Sonderschule 2, Diesterwegschule<br>Schule für individuelle Förderung",Khevenhüllerstraße 3,4020,Linz,0732 663 045,s401023@schule-ooe.at,http://www.aso2linz.com,Herr Martin Pühringer,Speciální škola
+401025,Berufsschule Linz 7,Ferihumerstraße 28,4040,Linz,0732 77 20-36300,bs-linz7.post@ooe.gv.at,http://www.bs-linz7.ac.at,Frau Barbara Hunger-Kirchberger,Odborné učiliště
+401026,"Bundesrealgymnasium Linz, Fadingerstraße",Fadingerstraße 4,4020,Linz,0732 778 170,s401026@bildung.gv.at,http://www.fadi.at,Frau Sylvia Bäck,Všeobecná střední škola (gymnázium)
+401031,"VS 4, Mozartschule",Volksfeststraße 7-11,4020,Linz,0732 778 144,s401031@schule-ooe.at,http://schulen.eduhi.at/vs4.linz,Herr Johannes Greul,Základní škola
+401032,"Mittelschule 5, Otto-Glöckel-Schule Linz",Dürrnbergerstraße 1,4020,Linz,0732 654 108,s401032@schule-ooe.at,https://www.ms5linz.at/,Frau Martina Rabl,Nižší střední škola
+401035,Berufsschule Linz 3,Makartstraße 3,4020,Linz,0732 77 20-35900,bs-linz3.post@ooe.gv.at,http://www.bs-linz3.ac.at,Herr Rainer Hacker,Odborné učiliště
+401036,Gymnasium und Realgymnasium des Schulvereins Kollegium Aloisianum Linz,Freinbergstraße 32,4020,Linz,0732 774 121-52,s401036@bildung.gv.at,https://www.aloisianum.at,Herr Michael Haderer,Všeobecná střední škola (gymnázium)
+401041,"VS 6, Römerbergschule",Donatusgasse 3,4020,Linz,0732 776 367,s401041@schule-ooe.at,https://roemerbergschule.at,Frau Nicole Staufner,Základní škola
+401043,Allgem. Sonderschule 4<br>Schule für Alle am Teistlergut,Teistlergutstraße 23,4040,Linz,0732 732 577,s401043@schule-ooe.at,http://www.schule.fuer.alle.eduhi.at,Frau Lucia Straßer-Kreisel,Speciální škola
+401046,"Bundesoberstufenrealgymnasium Linz, Honauerstraße",Honauerstraße 24,4020,Linz,0732 776 111-0,s401046@bildung.gv.at,http://www.borglinz.at,Herr Jürgen Eder,Všeobecná střední škola (gymnázium)
+401051,"VS 8, Goetheschule",Südtirolerstraße 13,4020,Linz,0732 662 015,s401051@schule-ooe.at,http://www.goetheschule-linz.at,Frau Michaela Kainmüller,Základní škola
+401055,Berufsschule Linz 5,Glimpfingerstraße 8a,4020,Linz,0732 77 20-36100,bs-linz5.post@ooe.gv.at,http://www.bs-linz5.ac.at,Herr Alexander Kriegner,Odborné učiliště
+401056,"Bundesgymnasium und wirtschaftskundliches Bundesrealgymnasium Linz, Körnerstraße",Körnerstraße 9,4020,Linz,0732 774 252,s401056@bildung.gv.at,http://www.koernerschule.at,Frau Wilbirg Binder,Všeobecná střední škola (gymnázium)
+401061,"VS 10, Grillparzerschule",Grillparzerstraße 49,4020,Linz,0732 652 396,s401061@schule-ooe.at,https://www.vs10linz.at,Frau Nina Reumayr,Základní škola
+401062,"Mittelschule 11, Diesterwegschule",Khevenhüllerstraße 3,4020,Linz,0732 663 832-12,s401062@schule-ooe.at,http://www.nms11.at,Herr Michael Haas,Nižší střední škola
+401063,Landesschulzentrum für Hör- und Sehbildung<br>Michael-Reitter-Landessonderschule und Sonderpädagogisches Zentrum für Sinnesbeeinträchtigte,Kapuzinerstraße 40a,4020,Linz,0732 77 20 - 55400,s401063@schule-ooe.at,http://www.lszhs.eduhi.at,Frau Irene Mühlbach,Speciální škola
+401065,Berufsschule Linz 1,Reindlstraße 48-50,4040,Linz,0732 77 20-35700,bs-linz1.post@ooe.gv.at,http://www.bs-linz1.ac.at,Frau Edith Eisner,Odborné učiliště
+401066,Bischöfliches Gymnasium Petrinum Linz,Petrinumstraße 12,4040,Linz,0732 736 581-4411,s401066@bildung.gv.at,https://www.petrinum.at,Herr Stefan Hametner,Všeobecná střední škola (gymnázium)
+401071,"VS 12, Otto-Glöckel-Schule",Wiener Straße 42,4020,Linz,0732 656 016,s401071@schule-ooe.at,,Frau Petra Wurdinger,Základní škola
+401072,"Musikmittelschule 12, Harbachschule<br>Musikmittelschule",Keplerstraße 13a,4040,Linz,0732 732 115,s401072@schule-ooe.at,http://www.harbachschule.at,Frau Bettina Pointner,Nižší střední škola
+401073,"Allgem. Sonderschule 6, Neue Heimat<br>""Schule für dich und mich""",Flötzerweg 61a,4030,Linz,0732 383 228,s401073@schule-ooe.at,https://www.aso6.at,Herr Manfred Keplinger,Speciální škola
+401075,Berufsschule Linz 2,Wiener Straße 181,4020,Linz,0732 77 20-35800,bs-linz2.post@ooe.gv.at,http://www.bs-linz2.ac.at,Frau Petra Burg,Odborné učiliště
+401076,"Oberstufenrealgymnasium der Diözese Linz, Stifterstraße<br>Adalbert Stifter Gymnasium",Stifterstraße 27,4020,Linz,0732 776 2-12,s401076@bildung.gv.at,http://www.stiftergym.org,Herr Andreas Thiel,Všeobecná střední škola (gymnázium)
+401081,"VS 14, Weberschule",Webergasse 1,4040,Linz,0732 731 188,s401081@schule-ooe.at,http://www.weberschule.at/,Frau Helga Zeiringer,Základní škola
+401082,"Mittelschule 14, Spallerhofschule Linz",Tungassingerstraße 23,4020,Linz,0732 341 570,s401082@schule-ooe.at,https://www.nms14linz.at,Herr Robert Adelsmair,Nižší střední škola
+401083,Heilstättenschule Linz,Willingerstraße 22,4020,Linz,0732 349 271-53,s401083@schule-ooe.at,https://www.heilstaettenschule-linz.at,Herr Michael Kropf,Speciální škola
+401085,Berufsschule Linz 8,Glimpfingerstraße 8b,4020,Linz,0732 77 20-36400,bs-linz8.post@ooe.gv.at,http://www.bs-linz8.ac.at,Herr Georg Burg,Odborné učiliště
+401086,"Bundesgymnasium und Bundesrealgymnasium Linz, Khevenhüllerstraße",Khevenhüllerstraße 1,4020,Linz,0732 667 279,s401086@bildung.gv.at,http://www.khev.at,Herr Andreas Pree,Všeobecná střední škola (gymnázium)
+401091,"VS 17, Löwenfeldschule",Zeppelinstraße 44,4030,Linz,0732 302 777,s401091@schule-ooe.at,,Frau Gertrud Pramhas,Základní škola
+401092,"Mittelschule 15, Leonardo da Vinci Schule Linz<br>NMS mit künstlerisch-kreativem Schwerpunkt",Jahnstraße 3-5,4040,Linz,0732 731 495,s401092@schule-ooe.at,http://www.hs15kreativ.at,Frau Sibylle Essl,Nižší střední škola
+401095,Berufsschule Linz 9,Wiener Straße 181,4020,Linz,0732 77 20-36500,bs-linz9.post@ooe.gv.at,http://www.bs-linz9.ac.at,Herr Stefan Hutter,Odborné učiliště
+401102,"Mittelschule 17, Dr.-Karl-Renner-Schule Linz",Flötzerweg 88,4030,Linz,0732 383 687,s401102@schule-ooe.at,https://www.mittelschule17-linz.at/,Frau Sonja Ablinger,Nižší střední škola
+401105,Berufsschule Linz 10,Glimpfingerstraße 8d,4020,Linz,0732 77 20-36600,bs-linz10.post@ooe.gv.at,http://www.bs-linz10.ac.at,Frau Hildegard Hunger,Odborné učiliště
+401106,"Gymnasium und wirtschaftskundliches Realgymnasium des Schulvereins der Kreuzschwestern in Linz, Stockhofstraße",Stockhofstraße 10,4020,Linz,0732 664 871-2301,s401106@bildung.gv.at,http://www.kslinz.at/ahs,Herr Stefan Schuhmann,Všeobecná střední škola (gymnázium)
+401111,"VS 21, Spallerhofschule",Tungassingerstraße 23,4020,Linz,0732 346 129,s401111@schule-ooe.at,http://schulen.eduhi.at/vs21-linz,Frau Ulrike Geier,Základní škola
+401114,Polytechnische Schule Linz I,Tungassingerstraße 23,4020,Linz,0732 346 306,s401114@schule-ooe.at,http://www.poly.at,Frau Daniela Stumptner,Polytechnická škola
+401116,"Bundesgymnasium und Bundesrealgymnasium für Berufstätige Linz, Spittelwiese",Spittelwiese 14,4020,Linz,0732 772 637,s401116@bildung.gv.at,http://www.abendgym.at,Frau Maria-Luise Walser,Všeobecná střední škola (gymnázium)
+401121,"VS 23, Dr.-Adolf-Schärf-Schule",Resselstraße 8,4030,Linz,0732 307 035,s401121@schule-ooe.at,http://vs23-linz.jimdo.com,Frau Karin Wascher,Základní škola
+401126,"Bundesrealgymnasium Linz, Hamerlingstraße",Hamerlingstraße 18,4020,Linz,0732 652 062-0,s401126@bildung.gv.at,http://www.brghamerling.eduhi.at,Herr Michael Schneider,Všeobecná střední škola (gymnázium)
+401136,"Bundesgymnasium und Bundesrealgymnasium Linz, Ramsauerstraße",Ramsauerstraße 94,4020,Linz,0732 341 424,s401136@bildung.gv.at,http://www.bg-rams.ac.at,Herr Thomas Riedl,Všeobecná střední škola (gymnázium)
+401146,"Bundesrealgymnasium Linz, Landwiedstraße",Landwiedstraße 82,4020,Linz,0732 38 38 32,s401146@bildung.gv.at,https://www.brglandwied.at/,Herr Herwig Wingert,Všeobecná střední škola (gymnázium)
+401156,"Bundesgymnasium und Bundesrealgymnasium Linz, Peuerbachstraße",Peuerbachstraße 35,4040,Linz,0732 732 614,s401156@bildung.gv.at,http://www.georgvonpeuerbach.at,Herr Herbert Kirschner,Všeobecná střední škola (gymnázium)
+401171,"VS 33, Dorfhalleschule",Franckstraße 70,4020,Linz,0732 654 533,s401171@schule-ooe.at,https://www.vs33-linz.at,Herr Franz Waltenberger,Základní škola
+401172,"Mittelschule 10, Löwenfeldschule Linz",Zeppelinstraße 44,4020,Linz,0732 307 245,s401172@schule-ooe.at,https://www.löwenfeldschule.at,Herr Sebastian Letzbor,Nižší střední škola
+401181,"VS 35, Volksschule Neue Heimat<br>Schule der Vielfalt",Siemensstraße 58,4030,Linz,0732 380 638,s401181@schule-ooe.at,https://www.vs35.at,Frau Hedwig Beuer,Základní škola
+401186,Bundesrealgymnasium solarCity Linz,Heliosallee 140-142,4030,Linz,0732 32 00 81,s401186@bildung.gv.at,http://www.brg-solarcity.at,Frau Sabine Wansch,Všeobecná střední škola (gymnázium)
+401191,"VS 37, Karlhofschule",Hölderlinstraße 9,4040,Linz,0732 732 575,s401191@schule-ooe.at,https://www.karlhofschule.at,Frau Daniela Bachmann,Základní škola
+401196,Privates Reformpädagogisches Oberstufenrealgymnasium des evangelischen Schulerhaltervereins Linz,Peter-Behrens-Platz 4,4020,Linz,,s401196@bildung.gv.at,,Frau Ulrike Schmidt-Zachl,Všeobecná střední škola (gymnázium)
+401202,"Mittelschule 18, Dr.-Karl-Renner-Schule Linz",Flötzerweg 88,4030,Linz,0732 38061721,s401202@schule-ooe.at,https://www.mittelschule18linz.at/,Herr Reinhard Straßer-Kreisel,Nižší střední škola
+401222,"Musikmittelschule 22, Dr.-Ernst-Koref-Schule<br>Musikschwerpunkt",Ramsauerstraße 61,4020,Linz,0732 343 005,s401222@schule-ooe.at,http://www.hs22-linz.eduhi.at,Herr Roland Kaffenda,Nižší střední škola
+401231,"VS 9, Froschbergschule",Ziegeleistraße 29,4020,Linz,0732 655 041,s401231@schule-ooe.at,https://www.froschbergschule.at,Frau Barbara Lauseker,Základní škola
+401232,"Mittelschule 23, Ebelsberger Schule Linz",Ebelsberger Schloßweg 26,4033,Linz,0732 301 658-13,s401232@schule-ooe.at,http://www.ms23-linz.at,Herr Alfred Klement,Nižší střední škola
+401252,Priv. Mittelschule des Schulvereins der Kreuzschwestern,Stockhofstraße 10,4020,Linz,0732 664 871-2303,s401252@schule-ooe.at,http://www.schulen.kreuzschwestern.at,Herr Thomas Sinnhuber,Nižší střední škola
+401262,Private Mittelschule Linz des Vereins für Franziskanische Bildung,Brucknerstraße 8,4020,Linz,0732 652 256,s401262@schule-ooe.at,https://www.brucknerschule.com/,Frau Petra Ratschenberger,Nižší střední škola
+401271,"VS 16, Sonnensteinschule",Jahnstraße 7,4040,Linz,0732 731 450,s401271@schule-ooe.at,http://vs16.jimdo.com,Frau Doris Gruber,Základní škola
+401282,Europaschule - Linz<br>Praxismittelschule der Pädagogischen Hochschule Oberösterreich,Lederergasse 35,4020,Linz,0732 74 70-3500,s401282@schule-ooe.at,http://www.europaschule-linz.at,,Nižší střední škola
+401291,"VS 20, Diesterwegschule",Khevenhüllerstraße 3,4020,Linz,0732 66 30 46,s401291@schule-ooe.at,http://www.vs-diesterweg.at,Frau Edeltraut Kufleitner,Základní škola
+401292,Adalbert-Stifter-Praxismittelschule der priv. Pädagogischen Hochschule der Diözese Linz,Salesianumweg 5,4020,Linz,0732 772 666-4751,s401292@schule-ooe.at,http://www.stifterschule.at,,Nižší střední škola
+401302,"Mittelschule 27, Bertha-von-Suttner-Schule Linz<br>Informatik-NMS",Dornacherstraße 35,4040,Linz,0732 750 829,s401302@schule-ooe.at,http://www.nms27.at,Frau Sabine Stwora,Nižší střední škola
+401312,"Mittelschule 26, Ferdinand-Hüttner-Schule Linz",Wieningerstraße 15,4020,Linz,0732 382 627,s401312@schule-ooe.at,http://www.nms26-linz.at,Frau Anita Wöß,Nižší střední škola
+401321,"VS 26, E.V.A. Harbachschule",Keplerstraße 11,4040,Linz,0732 732 022,s401321@schule-ooe.at,http://www.vsharbach.at,Herr Gregor Mayr,Základní škola
+401322,Sportmittelschule Linz-Kleinmünchen,Meindlstraße 25,4030,Linz,0732 305 262,s401322@schule-ooe.at,https://www.sportmittelschulelinz.at,Herr Johann Freudenthaler,Nižší střední škola
+401331,"VS 28, Dr.-Karl-Renner-Schule",Flötzerweg 61,4030,Linz,0732 38 36 47,s401331@schule-ooe.at,http://www.dr-karl-renner-schule.at,Herr Peter Walchshofer,Základní škola
+401341,"VS 30, Dr.-Ernst-Koref-Schule<br>Volksschule mit musikalischer Schwerpunktsetzung",Ramsauerstraße 61,4020,Linz-Bindermichl,0732 343 536,s401341@schule-ooe.at,http://www.vs30linz.at,Frau Christa Konrad,Základní škola
+401351,"VS 32, Keferfeldschule<br>Volksschule mit kreativem Schwerpunkt",Seeauerweg 1,4020,Linz,0732 670 016,s401351@schule-ooe.at,https://www.vs32-linz.com,Frau Birgit Rödhammer,Základní škola
+401391,"VS 39, Margarethenschule",St. Margarethen 23,4020,Linz,0732 774 622-11,s401391@schule-ooe.at,http://www.margarethenschule.eduhi.at,Frau Bettina Karlhuber,Základní škola
+401401,"VS 40, Mengerschule",Mengerstraße 25,4040,Linz,0732 245 529,s401401@schule-ooe.at,http://mengerschule.jimdo.com,Frau Herta Keber,Základní škola
+401411,"VS 41, Pöstlingbergschule",Samhaberstraße 48,4040,Linz,0732 731 446,s401411@schule-ooe.at,https://klassenpinnwand.at/vs41poestlingbergschule,Frau Nikola Mader,Základní škola
+401417,Höhere Technische Bundeslehranstalt Linz 1<br>HTL1 BAU UND DESIGN,Goethestraße 17,4020,Linz,0732 662 602,s401417@bildung.gv.at,http://www.htl1.at,Herr Christian Armbruster,Technická škola
+401419,Schule für Sozialbetreuungsberufe des Konvents der Barmherzigen Brüder in Linz,Kaplanhofstraße 40,4020,Linz,0732 234217,s401419@bildung.gv.at,http://https://www.barmherzige-brueder.at/unit/issn/gehoerlosigkeit/arbeitbildung/viscom,,Humanitně zaměřená škola
+401421,"VS 42, Magdalenaschule",Oberbairinger Straße 1,4040,Linz,0732 250 439,s401421@schule-ooe.at,https://www.vsmagdalena.at,Frau Elisabeth Lonsing,Základní škola
+401428,"Bundeshandelsakademie und Bundeshandelsschule Linz, Rudigierstraße",Rudigierstraße 6,4020,Linz,0732 772 206,s401428@bildung.gv.at,http://www.hak-linz.at,Frau Barbara Hansmaier-Strassern,Obchodní škola
+401431,"VS 43, Stadlerschule",Stadlerstraße 45,4020,Linz,0732 344 039,s401431@schule-ooe.at,http://vs43.eduhi.at,Herr Hermann Bauer,Základní škola
+401439,Höhere gewerbliche Bundeslehranstalt (Fachrichtung Mode und Bekleidungstechnik) Linz,Blütenstraße 23,4040,Linz,0732 738 347,s401439@bildung.gv.at,http://www.hblalentia.at,Frau Denise da Silva-Deplanque,Humanitně zaměřená škola
+401441,"VS 44, Volksschule Pichling",Rathfeldstraße 69,4030,Linz,0732 320 199,s401441@schule-ooe.at,https://vs44-pichling.at,Frau Nina Ortner,Základní škola
+401451,"VS 45, Hausleitnerschule<br>Lernwerkstatt für Kopf-Herz und Hand",Hausleitnerweg 52,4020,Linz,0732 347 210,s401451@schule-ooe.at,https://www.vs45.at,Frau Karin Auzinger,Základní škola
+401459,Fachschulen für wirtschaftliche Berufe der Schwestern Oblatinnen des Hl. Franz von Sales,Kapellenstraße 8-10,4040,Linz,0732 731 485,s401459@bildung.gv.at,http://www.fachschulen-oblatinnen.at,Herr Wolfgang Waxenegger,Humanitně zaměřená škola
+401461,"VS 46, Theodor-Grill-Schule",Im Scharmühlwinkel 3,4030,Linz,0732 302 015,s401461@schule-ooe.at,http://vs46.jimdo.com,Frau Magdalena Czepl,Základní škola
+401467,Höhere Technische Bundeslehranstalt Linz 2<br>LiTEC Linzer Technikum,Paul-Hahn-Straße 4,4020,Linz,0732 770 301,s401467@bildung.gv.at,https://www.litec.ac.at,Frau Anja Weiermann,Technická škola
+401471,"VS 47, Dr.-Adolf-Schärf-Schule",Resselstraße 4-6,4030,Linz,0732 302 728-11,s401471@schule-ooe.at,http://vs47linz.my.canva.site,Herr Franz Bicek,Základní škola
+401479,Schule für Sozialbetreuungsberufe der Caritas für Betreuung und Pflege Linz,Schiefersederweg 53,4040,Linz,0732 732 466,s401479@bildung.gv.at,http://www.fachschule-sozialberufe.at,Frau Ursula Robausch-Weichhart,Humanitně zaměřená škola
+401481,"VS 48, Edmund-Aigner-Schule",Händelstraße 42,4020,Linz,0732 653 144,s401481@schule-ooe.at,,Frau Doris Grinzinger,Základní škola
+401491,"VS 49, Robinson-Schule",Kaltenhauserstraße 2,4040,Linz,0732 733 278,s401491@schule-ooe.at,http://www.robinson-schule.eduhi.at,Frau Barbara Brandstätter,Základní škola
+401501,Europaschule - Linz<br>Praxisvolksschule der Pädagogischen Hochschule Oberösterreich,Lederergasse 35,4020,Linz,0732 74 70-3500,s401501@schule-ooe.at,http://www.europaschule-linz.at,,Základní škola
+401531,Adalbert-Stifter-Praxisvolksschule der Priv. Pädagogischen Hochschule der Diözese Linz,Kapuzinerstraße 51,4020,Linz,0732 772 666-4781,s401531@schule-ooe.at,https://pvs.ph-linz.at,Herr Stefan Radinger,Základní škola
+401540,Konservatorium für Kirchenmusik der Diözese Linz,Petrinumstraße 12/16,4020,Linz,0732 736 581-4445,s401540@bildung.gv.at,http://www.kons-linz.at,,Humanitně zaměřená škola
+401541,"VS 2, Bertha von Suttner-Schule",Dornacher Straße 33,4040,Linz,0732 245 837,s401541@schule-ooe.at,http://www.vs2linz.jimdo.at,Frau Michaela Forstner,Základní škola
+401546,Europagymnasium Linz-Auhof,Aubrunnerweg 4,4040,Linz,0732 245 867,s401546@bildung.gv.at,http://www.europagym.at,Frau Andrea Obermayr-Rauter,Všeobecná střední škola (gymnázium)
+401548,Bundeshandelsakademie und Bundeshandelsschule Linz-Auhof,Aubrunnerweg 4,4040,Linz,0732 245 491,s401548@bildung.gv.at,https://www.balinzauhof.at,Frau Irene Ackerlauer,Obchodní škola
+401551,"VS 50, Ferdinand-Hüttner-Schule",Wieningerstraße 17,4020,Linz,0732 382 638,s401551@schule-ooe.at,http://vs50linz.schule.at,Frau Gabriele Kanakis,Základní škola
+401561,"VS 51, Auhofschule",Aubrunnerweg 43,4040,Linz,0732 245 553,s401561@schule-ooe.at,https://vs51.jimdofree.com,Frau Herta Keber,Základní škola
+401569,Höhere Bundeslehranstalt für wirtschaftliche Berufe Linz-Auhof,Aubrunnerweg 4,4040,Linz,0732 750 903,S401569@bildung.gv.at,http://www.hlwauhof.at/,Frau Petra Reisinger,Humanitně zaměřená škola
+401571,Freie Waldorfschule,Baumbachstraße 11,4020,Linz,0732 776 259,s401571@schule-ooe.at,http://www.waldorfschule-linz.at,,Základní škola
+401581,"VS 3, Auwiesenschule",Allendeplatz 1,4030,Linz,0732 305 293,s401581@schule-ooe.at,http://schulen.eduhi.at/vs3-linz,Frau Birgit Feiner,Základní škola
+401591,"VS 52, Volksschule Solarcity-Pichling",Heliosallee 140-142,4033,Linz-Ebelsberg,0732 321 793-11,s401591@schule-ooe.at,http://schulen.eduhi.at/vs52-linz,Frau Sabine Strack,Základní škola
+401601,Priv. Volksschule des Schulvereins der Siebenten-Tags-Adventisten,Thanhoferstraße 13,4030,Linz,0732 603 413,s401601@schule-ooe.at,http://www.privatschule-linz.at,,Základní škola
+401609,Höhere Bundeslehranstalt für künstlerische Gestaltung Linz,Garnisonstraße 25,4020,Linz,0732 775 301,s401609@bildung.gv.at,https://www.hbla-kunst.at,Herr Peter Klimitsch,Humanitně zaměřená škola
+401610,Bildungsanstalt für Elementarpädagogik des Schulvereins der Kreuzschwestern Linz,Stockhofstraße 10,4020,Linz,0732 664 871-2326,s401610@bildung.gv.at,http://www.ksl.eduhi.at/bafep,Frau Doris Christina Mayer,Humanitně zaměřená škola
+401611,Priv. Volksschule des Schulvereins der Kreuzschwestern,Stockhofstraße 10,4020,Linz,0732 664 871-2303,s401611@schule-ooe.at,http://www.schulen.kreuzschwestern.at,,Základní škola
+401619,"Höhere Bundeslehranstalt für wirtschaftliche Berufe Linz, Landwiedstraße",Landwiedstraße 80,4020,Linz,0732 382 698,s401619@bildung.gv.at,http://www.hblw-landwied.at,Frau Regina Traunmüller,Humanitně zaměřená škola
+401621,Private Volksschule Linz des Vereins für franziskanische Bildung,Brucknerstraße 8,4020,Linz,0732 652 256,s401621@schule-ooe.at,https://www.brucknerschule.com,,Základní škola
+401631,Privatschule „Anton Bruckner International School Upper Austria“ des Vereins „ABIS - Association of Anton Bruckner International School“<br>Privatschule „Anton BrucknerInternational School Upper Austria“ des Vereins„ABIS - Association of Anton Bruckner International School“Genehmigung des Organisationsstatutes ab dem Schuljahr 2022/23,Wildbergstraße 18,4040,Linz,0732 757 061,s401631@schule-ooe.at,http://www.antonbruckner-is.at,Frau Gabriele Untersperger,Základní škola
+401649,Schule für Sozialbetreuungsberufe der Caritas für Menschen mit Behinderung Linz,Salesianumweg 3,4020,Linz,0732 772 666-23,s401649@bildung.gv.at,https://www.sob-linz.at/,Frau Cornelia Zefferer,Humanitně zaměřená škola
+401651,Volksschule der Privatschule für Bildung und Entfaltung Linz GmbH,Am Fünfundzwanziger Turm 22,4020,Linz,,s401651@schule-ooe.at,http://www.bel-privatschule.at,,Základní škola
+401660,Pädagogische Hochschule Oberösterreich,Kaplanhofstraße 40,4020,Linz,0732 74 70-0,personalabteilung@ph-ooe.at,https://ph-ooe.at,,Střední a vyšší školy pro přípravu učitelů
+401661,"Privatschule ""Freie Schule Linz"" des Vereins ""Selbstbestimmtes Lernen""",Bockgasse 16,4020,Linz,,s401661@schule-ooe.at,http://www.freie-schule.at,,Základní škola
+401670,Private Pädagogische Hochschule der Diözese Linz,Salesianumweg 3,4020,Linz,0732 772 666,office@ph-linz.at,https://www.phdl.at,,Jiné
+401671,"Private Schule ""Die Lerche - Ambleside Schule Linz""",Lissagasse 4,4020,Linz,0650 2526930,s401671@schule-ooe.at,https://dielerche.at,Frau Sabine Altmüller,Základní škola
+401681,"Schule für verbundenes Lernen des Vereins ""Verein für Freudvolles Wachsen und Soziales und Kognitives Lernen""",Schiefersederweg 53,4040,Linz,,info@freudvolleswachsen.at,,,Základní škola
+401689,Höhere Lehranstalt für wirtschaftliche Berufe des Schulvereins der Kreuzschwestern Linz,Stockhofstraße 10,4020,Linz,0732 664 871-2301,kslinzsek@eduhi.at,http://https://www.schulen.kreuzschwestern.at/de/hlw-linz,Herr Stefan Schuhmann,Humanitně zaměřená škola
+401730,HBLA Elmberg,Elbergerweg 65,4040,Linz,0732 2456 03,direktion@elmberg.at,https://www.elmberg.at/,,Zemědělská škola
+401820,Bundessportakademie Linz,Auf der Gugl 30,4020,Linz,0732 652-322,infoLinz@bspa.at,http://linz.bspa.at,,Jiné
+401830,"Bundesbildungsanstalt für Elementarpädagogik Linz, Lederergasse",Lederergasse 32d,4020,Linz,0732 776 113,office@bafep-linz.at,http://www.bafep-linz.at,Frau Monika Pfligl-Puchner,Humanitně zaměřená škola
+401840,Bildungsanstalt für Sozialpädagogik - Kolleg für Sozialpädagogik der Diözese Linz,Salesianumweg 3,4020,Linz,0732 772 666 4753,barbara.gut@spk-linz.at,http://www.phdl.at/studium/kolleg_sozialpaedagogik/das_kolleg/,Frau Barbara Gut,Humanitně zaměřená škola
+402011,Volksschule Promenade/Berggasse<br>Dr. Rudolf Kirchschläger-Schule,Promenade 16,4400,Steyr,07252 530 73-30,s402011@schule-ooe.at,http://www.vspromenade.com,Frau Beatrix Brunner,Základní škola
+402012,Mittelschule/Musikmittelschule Steyr Promenade<br>Dr. Rudolf Kirchschläger-Schule1,Promenade 16,4400,Steyr,07252 530 73-10,s402012@schule-ooe.at,http://schulen.eduhi.at/hs1-promenade.steyr,Frau Irene Daichendt,Nižší střední škola
+402013,Landesschule Steyr-Gleink Sondererziehungsschule,Gleinker Hauptstraße 7,4407,Steyr-Gleink,07252 730 52-1,s402013@schule-ooe.at,http://lss-steyr-gleink.ac.at,Herr Andreas Aichinger,Speciální škola
+402015,Berufsschule Steyr 1,Otto-Pensel-Straße 14,4400,Steyr,0732 77 20-37200,bs-steyr1.post@ooe.gv.at,http://www.bs-steyr1.ac.at,Herr Harald Ebenhofer,Odborné učiliště
+402016,"Bundesrealgymnasium Steyr, Michaelerplatz",Michaelerplatz 6,4400,Steyr,07252 722 55,s402016@bildung.gv.at,https://brgsteyr.at,Herr Gerald Bachmayr,Všeobecná střední škola (gymnázium)
+402021,Volksschule Resthof,Resthofstraße 40,4400,Steyr,07252 808 00-10,s402021@schule-ooe.at,http://www.vs-resthof.jimdo.com,Frau Kerstin Öllinger,Základní škola
+402022,"Mittelschule 1, Steyr-Ennsleite<br>Kopernikusschule",Kopernikusstraße 12a,4400,Steyr,07252 429 96-10,s402022@schule-ooe.at,http://schulen.eduhi.at/hs1ennsleite_steyr,Frau Brigitte Strasser,Nižší střední škola
+402026,"Bundesgymnasium und Bundesrealgymnasium Steyr, Leopold-Werndl-Straße",Leopold-Werndl-Straße 5,4400,Steyr,07252 522 56,s402026@bildung.gv.at,https://www.bg-steyr.at,Herr Florian Bachofner-Mayr,Všeobecná střední škola (gymnázium)
+402033,Sonderschule 1 Industriestraße - Steyrdorfschule,Industriestraße 4,4400,Steyr,07252 760 77,s402033@schule-ooe.at,http://https://steyrdorfschule.jimdofree.com,Frau Daniela Kerbl,Speciální škola
+402041,Volksschule Ennsleite<br>Otto-Glöckel-Schule,Otto-Glöckel-Straße 6,4400,Steyr,07252 435 26-30,s402041@schule-ooe.at,https://www.vs-ennsleite.at,Frau Christina Zeller,Základní škola
+402042,Sportmittelschule Steyr,Taschelried 1,4400,Steyr,07252 844 02-10,s402042@schule-ooe.at,https://www.sms-steyr.com/,Herr Nikolaus Felbermayr,Nižší střední škola
+402051,Volksschule Punzerstraße,Punzer-Straße 73-75,4400,Steyr,07252 731 66-30,s402051@schule-ooe.at,http://punzerschule.jimdo.com,Frau Eva Maria Anselgruber,Základní škola
+402062,Mittelschule 2 Steyr-Ennsleite (Ganztagsschule)<br>Otto-Glöckel-Schule,Otto-Glöckel-Straße 6,4400,Steyr,07252 429 96-20,s402062@schule-ooe.at,https://www.gts-ennsleite.at,Frau Monika Freimund,Nižší střední škola
+402072,Mittelschule Steyr-Münichholz<br>Karl-Punzer-Schule,Karl-Punzer-Straße 73-75,4400,Steyr,07252 731 66-20,s402072@schule-ooe.at,https://www.nmsmuenichholz.at/,Herr Günther Briedl,Nižší střední škola
+402081,Volksschule Tabor,Taschelried 1,4400,Steyr,07252 844 37-40,s402081@schule-ooe.at,http://www.vstabor.at/,Frau Martina Reiter,Základní škola
+402082,"Mittelschule 2, Steyr-Tabor",Taschelried 1,4400,Steyr,07252 879 39-20,s402082@schule-ooe.at,https://www.nmstabor.at/,Herr Andreas Mörtlitz,Nižší střední škola
+402091,Volksschule Wehrgraben,Wehrgrabengasse 22,4400,Steyr,07252 712 01-10,s402091@schule-ooe.at,http://www.volksschule-wehrgraben.com,Frau Christina Herpel,Základní škola
+402092,Mittelschule St. Anna der Vereinigung von Ordensschulen Österreichs,Annaberg 4,4400,Steyr,07252 720 93-15,s402092@schule-ooe.at,http://www.phs.st.anna.eduhi.at/,Herr Sebastian Ragl,Nižší střední škola
+402102,Priv. Mittelschule Rudigier des Schulvereins der Kreuzschwestern Steyr,Hochhauserstraße 1,4400,Steyr,07252 531 40-13,s402102@schule-ooe.at,http://www.nms-rudigier.at,Herr Günter Josef Berger,Nižší střední škola
+402121,Volksschule Plenklberg,Karl-Punzer-Straße 3,4400,Steyr,07252 722 62-10,s402121@schule-ooe.at,http://vs-plenklberg.jimdo.com,Frau Elisabeth Wilhelm,Základní škola
+402131,Volksschule Gleink,Safrangarten 2,4407,Steyr-Gleink,07252 730 66,s402131@schule-ooe.at,http://vsgleink.schule.at,Frau Carina Roswitha Haimann,Základní škola
+402141,Volksschule St. Anna der Vereinigung von Ordensschulen Österreichs<br>Volksschule mit musikalischer Schwerpunktsetzung,Annaberg 4,4400,Steyr,07252 720 93 14,s402141@schule-ooe.at,http://schulen.eduhi.at/vs.st.anna/,Frau Ulrike Silber,Základní škola
+402151,"""ImPuls Schule Steyr"" Volksschule und 402151 - Evangelische Tagesschule für ganzheitliches Lernen des Evangelischen Vereins für ganzheitliches Lernen in Steyr",Albert-Lortzing-Straße 19,4400,Steyr,07252 810 68,s402151@schule-ooe.at,,Frau Ursula Lammer,Základní škola
+402417,Höhere Technische Bundeslehranstalt Steyr,Schlüsselhofgasse 63,4400,Steyr,07252 729 14-0,s402417@bildung.gv.at,http://www.htl-steyr.ac.at,Frau Sandra Losbichler,Technická škola
+402428,Bundeshandelsakademie und Bundeshandelsschule Steyr,Leopold-Werndl-Straße 7,4400,Steyr,07252 526 49,s402428@bildung.gv.at,http://www.hak-steyr.at,Frau Ute Wiesmayr,Obchodní škola
+402439,Höhere Bundeslehranstalt für wirtschaftliche Berufe Steyr,Leopold-Werndl-Straße 7,4400,Steyr,07252 543 79,s402439@bildung.gv.at,http://schulen.eduhi.at/hbla-steyr,Herr Ewald Staltner,Humanitně zaměřená škola
+402489,Schule für Sozialbetreuungsberufe Steyr,Leopold-Werndl-Straße 7,4400,Steyr,07252 702 09,s402489@bildung.gv.at,http://www.sob-steyr.at,Herr Ewald Staltner,Humanitně zaměřená škola
+402810,Bundesbildungsanstalt für Elementarpädagogik Steyr,Neue-Welt-Gasse 2,4400,Steyr,07252 462 88,s402810@bildung.gv.at,https://www.bafep-steyr.at,Frau Ingrid Bründl,Humanitně zaměřená škola
+403012,"Mittelschule 1, Wels-Stadtmitte<br>Interessens- und Berufsorientierte MS",Rainerstraße 5,4600,Wels,07242 235 6230,s403012@schule-ooe.at,http://www.ibhs.wels.eduhi.at,Frau Gisela Steinwendtner,Nižší střední škola
+403013,Integrativen Schulzentrums (ISZ) Wels-Stadt Dr. Schärf- Schule<br>Integrativen Schulzentrums (ISZ) Wels-Stadt Dr.-Schärf-Schule,Porzellangasse 46,4600,Wels,07242 235 6520,s403013@schule-ooe.at,https://www.isz-wels.at,Frau Manuela Rittenschober,Speciální škola
+403014,Polytechnische Schule Wels-Stadt,Eisenhowerstraße 18,4600,Wels,07242 235-6570,s403014@schule-ooe.at,http://schulen.eduhi.at/pts-wels/default.htm,Herr Daniel Watzinger,Polytechnická škola
+403015,Berufsschule Wels 1,Linzer Straße 68,4600,Wels,0732 77 20-37500,bs-wels1.post@ooe.gv.at,http://www.bs-wels1.ac.at,Herr David Breitwieser,Odborné učiliště
+403016,"Bundesgymnasium und Bundesrealgymnasium Wels, Anton-Bruckner-Straße",Anton-Bruckner-Straße 16,4600,Wels,07242 442 83,s403016@bildung.gv.at,http://www.brucknergym.at,Herr Florian Koblinger,Všeobecná střední škola (gymnázium)
+403022,"Mittelschule 2, Wels-Pernau",Handel-Mazzetti-Straße 5,4600,Wels,07242 235-6410,s403022@schule-ooe.at,http://schulen.eduhi.at/ecs.wels-pernau,Frau Nadine Arzt,Nižší střední škola
+403026,"Wirtschaftskundliches Realgymnasium und Oberstufenrealgymnasium Wels des Vereins für Bildung und Erziehung der Franziskanerinnen von Vöcklabruck, Vogelweiderstraße",Schubertstraße 51,4600,Wels,07242 474 28 30,s403026@bildung.gv.at,https://www.franziskus-gym.at,Frau Elisabeth Schoberleitner,Všeobecná střední škola (gymnázium)
+403031,"Volksschule 5, Mauth",Kopernikusstraße 1b,4600,Wels,07242 235 62 60,s403031@schule-ooe.at,http://vs5.wels.eduhi.at,Frau Claudia Klein,Základní škola
+403032,"Mittelschule 6, Wels-Vogelweide",Porzellangasse 46,4600,Wels,07242 235 6480,s403032@schule-ooe.at,http://www.hs6.wels.eduhi.at,Frau Henriette Steinauer,Nižší střední škola
+403035,Berufsschule Wels 3,Carl-Blum-Straße 8,4600,Wels,0732 77 20-37700,bs-wels3.post@ooe.gv.at,http://www.bs-wels3.ac.at,Herr Karl Kammerer,Odborné učiliště
+403036,"Bundesgymnasium und Bundesrealgymnasium Wels, Dr.-Schauer-Straße",Dr.-Schauer-Straße 9,4600,Wels,07242 450 61,s403036@bildung.gv.at,http://intra2.bgwels.eduhi.at,Herr Ernst Stoiber,Všeobecná střední škola (gymnázium)
+403041,"Volksschule 8, Vogelweide",Dr.-Breitwieser-Straße 1,4600,Wels,07242 235 63 20,s403041@schule-ooe.at,http://vs8wels.eduhi.at,Frau Ulrike Fellinger,Základní škola
+403046,"Bundesrealgymnasium Wels, Wallererstraße",Wallererstraße 25,4600,Wels,07242 446 04,s403046@bildung.gv.at,http://www.brgwels.at,Frau Karin Schachner,Všeobecná střední škola (gymnázium)
+403051,"Volksschule 10, Lichtenegg",Schulstraße 2,4600,Wels,07242 235 63 90,s403051@schule-ooe.at,http://vs10-wels.at,Herr Michael Müller,Základní škola
+403052,"Mittelschule 8, Wels-Lichtenegg<br>Medien & Kreatives Gestalten",Zeileisstraße 1,4600,Wels,07242 235-6512,s403052@schule-ooe.at,https://www.ms8wels.at,Herr Johannes Moshammer,Nižší střední škola
+403061,"Volksschule 2, Stadtmitte",Rainerstraße 5,4601,Wels,07242 235-6220,s403061@schule-ooe.at,http://vs2-wels.eduhi.at,Frau Daniela Riha,Základní škola
+403062,"Mittelschule 5/Mozartschule, Wels-Neustadt<br>mit schulautonomen musischen Schwerpunktklassen",Mozartstraße 18-20,4600,Wels,07242 235-6450,s403062@schule-ooe.at,https://www.mozartschule-wels.at/,Frau Dagmar Föger,Nižší střední škola
+403081,"Volksschule 6, Neustadt",Grillparzerstraße 2,4600,Wels,,s403081@schule-ooe.at,https://vs6wels.jimdo.com,Frau Bettina Gattinger,Základní škola
+403082,"Sportmittelschule 3, Wels-Pernau<br>Sportmittelschule",Handel-Mazzetti-Straße 5,4600,Wels,07242 235-6420,s403082@schule-ooe.at,http://www.sms-wels.at,Frau Lieselotte Hölzl,Nižší střední škola
+403091,"Volksschule 9, Vogelweide",Dr.-Breitwieser-Straße 1,4600,Wels,07242 235 63 30,s403091@schule-ooe.at,http://schulen.eduhi.at/vs9-wels,Frau Marianne Furtlehner,Základní škola
+403092,Mittelschule d. Franziskanerinnen Wels,Vogelweiderstraße 2-4,4602,Wels,07242 474 28-12,s403092@schule-ooe.at,http://www.franziskusnms.at,Frau Doris Neuhofer,Nižší střední škola
+403101,"Volksschule 11, Lichtenegg",Schulstraße 3,4600,Wels,07242 235 64 00,s403101@schule-ooe.at,https://vs11wels.jimdo.com/,Herr Philipp Reisegger,Základní škola
+403111,"Volksschule 4, Pernau",Handel-Mazzetti-Straße 2,4600,Wels,07242 235 63 60,s403111@schule-ooe.at,https://vs4-wels.jimdofree.com,Frau Elke Leitner-Kraml,Základní škola
+403121,"Volksschule 7, Puchberg",Prunnerstraße 4,4600,Wels,07242 235-6470,s403121@schule-ooe.at,http://vs7puchberg.jimdo.com,Frau Andrea Kager,Základní škola
+403131,Volksschule 3 - Elfriede Grünberg Schule,Dr.-Schauer-Straße 2,4600,Wels,07242 235 62 50,s403131@schule-ooe.at,http://vs3.wels.eduhi.at,Herr Christian Colic,Základní škola
+403141,"""daVinci-Schule"" der ""3F Sozial- und Friedensprojektentwicklungs gemeinnützige GmbH""",Da Vinci-Weg 1,4600,Wels,0650 411 38 38,s403141@schule-ooe.at,http://www.davinciakademie.at,,Základní škola
+403151,Privatschule mit reformpädagogischem Schwerpunkt,Stadtplatz 52,4600,Wels,0650/9877344,leonardoschule@gmx.at,,,Základní škola
+403418,Bundeshandelsakademie und Bundeshandelsschule Wels<br>aufgrund der Schulzusammenlegung HAK1 und HAK 2 zur gemeinsamen HAK Wels unter der SKZ: 403418,Stelzhamerstraße 20,4600,Wels,07242 443 30-54,s403418@bildung.gv.at,http://www.hak1wels.at,Herr Andreas Führer,Obchodní škola
+403419,"Schule für Sozialbetreuungsberufe des Evangelischen Diakoniewerkes Gallneukirchen, Schwerpunkt Altenarbeit",Dr.-Schauer-Straße 5,4600,Wels,07724 50 48-410,s403419@bildung.gv.at,http://https://ausbildung.diakoniewerk.at/home?utm_source=zukunftsberufe.at,Frau Susanne Kunze,Humanitně zaměřená škola
+403427,"Höhere Technische Lehranstalt für Lebensmitteltechnologie, Getreide- und Biotechnologie des Landes OÖ",Carl-Blum-Straße 4,4600,Wels,0732 77 20-34600,htl-lmt-gw-wels.post@ooe.gv.at,http://www.htllmt.at,Frau Gisela Wenger-Oehn,Technická škola
+403439,Höhere Bundeslehranstalt für wirtschaftliche Berufe Wels,Wallererstraße 32,4600,Wels,07242 640 68,s403439@bildung.gv.at,http://www.hblw-wels.at,Frau Karin Reiter-Forstinger,Humanitně zaměřená škola
+403457,Höhere Technische Bundeslehranstalt Wels,Fischergasse 30,4600,Wels,07242 658 01-0,s403457@bildung.gv.at,https://www.htl-wels.at,Herr Bertram Geigl,Technická škola
+403497,"Meisterschule für Müller, Bäcker und Konditoren des Landes Oberösterreich in Wels",Carl-Blum-Straße 4,4600,Wels,07242 471 74,office@htllmt.at,http://www.htllmt.at,Frau Gisela Wenger-Oehn,Technická škola
+404012,Mittelschule Hochburg-Ach,Athalerstraße 1,5122,Hochburg-Ach,07727 23 02,s404012@schule-ooe.at,https://www.ms-hochburg-ach.at,Herr Christian Deubler,Nižší střední škola
+404016,Bundesgymnasium und Bundesrealgymnasium Braunau am Inn,Trentinerplatz 1,5280,Braunau am Inn,07722 630 23,s404016@bildung.gv.at,http://www.gymbraunau.at,Herr Johann Sebastian Plank,Všeobecná střední škola (gymnázium)
+404021,Volksschule Altheim,Schulgasse 23,4950,Altheim,07723 424 07-72,s404021@schule-ooe.at,http://www.vsaltheim.at,Frau Gabriele Hajbi,Základní škola
+404022,Digitale Technische Naturwissenschaftliche Mittelschule Altheim,Schulgasse 23,4950,Altheim,07723 431 44-74,s404022@schule-ooe.at,http://www.nmsaltheim.at,Herr Ferdinand Reiter,Nižší střední škola
+404023,Allgem. Sonderschule Braunau,Kolpingplatz 2,5280,Braunau,07722 846 24,s404023@schule-ooe.at,http://schulen.eduhi.at/pestalozzi-br/,Frau Claudia Kobler,Speciální škola
+404026,Oberstufenrealgymnasium mit Instrumentalunterricht des Schulvereins der Siebenten-Tags-Adventisten St. Peter,Bogenhofen 1,4963,St. Peter am Hart,07722 631 25-116,org.direktion@bogenhofen.at,http://www.bogenhofen.at,"Herr Gerson Engel, MSc MEd",Všeobecná střední škola (gymnázium)
+404031,Volksschule Aspach,Schulstraße 2,5252,Aspach,07755 73 44,s404031@schule-ooe.at,,Frau Silvia Salomon,Základní škola
+404032,Mittelschule Aspach,Schulstraße 1,5252,Aspach,07755 73 22-81,s404032@schule-ooe.at,http://www.msaspach.at/,Frau Marianne Österbauer,Nižší střední škola
+404033,Allgem. Sonderschule Mattighofen,Trattmannsberger Weg 4c,5230,Mattighofen,0664 780 266 80,s404033@schule-ooe.at,https://www.spzmattighofen.at,Frau Ursula Rothauer-Stadler,Speciální škola
+404035,Berufsschule Mattighofen,Feldstraße 3,5230,Mattighofen,07742 22 71,bs-mattighofen.post@ooe.gv.at,http://www.bs-mattighofen.ac.at,Herr Bernhard Leitgeb,Odborné učiliště
+404041,Volksschule Auerbach,Auerbach 14,5224,Auerbach,07747 53 05,s404041@schule-ooe.at,http://vsauerbach.jimdo.com,,Základní škola
+404042,Mittelschule Braunau,Auf der Schanz 6,5280,Braunau,07722 820 70-41,s404042@schule-ooe.at,https://www.ms-braunau.at/,Herr Samuel Reiter,Nižší střední škola
+404051,Volksschule Braunau,Auf der Schanz 12,5280,Braunau,07722 820 73,s404051@schule-ooe.at,http://vsbraunau-stadt.jimdo.com,Frau Petra Edhofer,Základní škola
+404062,Mittelschule Braunau-Ranshofen<br>Ganztagsschule,Pfalzstraße 15,5282,Braunau-Ranshofen,07722 630 03,s404062@schule-ooe.at,https://www.ms-ranshofen.at,Herr Wolfgang Korinek,Nižší střední škola
+404064,Polytechnische Schule Mattighofen,Trattmannsbergerweg 4b,5230,Mattighofen,07742 37 62 12,s404064@schule-ooe.at,http://www.pts-mattighofen.eduhi.at,Frau Anna Frauscher,Polytechnická škola
+404081,Volksschule Braunau-Laab,Höfterstraße 41,5280,Braunau,07722 630 38,s404081@schule-ooe.at,http://vslaab.eduhi.at,Frau Karin Gubisch-Fuhrmann,Základní škola
+404082,Mittelschule Mattighofen,Trattmannsbergerweg 4b,5230,Mattighofen,07742 376 232,s404082@schule-ooe.at,https://www.tnmsmattighofen.at,Frau Hedwig Schindecker,Nižší střední škola
+404091,Volksschule Braunau-Ranshofen,Pfalzstraße 17,5282,Braunau-Ranshofen,07722 629 16-30,s404091@schule-ooe.at,http://www.regenbogenvsranshofen.jimdo.com,,Základní škola
+404092,Mittelschule Mauerkirchen,Obermarkt 4,5270,Mauerkirchen,07724 2338,s404092@schule-ooe.at,http://schulen.eduhi.at/hs.mauerkirchen,Frau Tamara Kvapil,Nižší střední škola
+404101,Volksschule Burgkirchen,Neukirchner Straße 2,5274,Burgkirchen,07724 22 12-15,s404101@schule-ooe.at,,Frau Andrea Hager,Základní škola
+404102,Mittelschule Ostermiething,Schulstraße 9,5121,Ostermiething,06278 62 64,s404102@schule-ooe.at,http://www.nms-ostermiething.at,Herr Hermann Pohn,Nižší střední škola
+404104,Polytechnische Schule Braunau,Auf der Schanz 8,5280,Braunau,07722 842 00,s404104@schule-ooe.at,https://www.pts-braunau.at/,Herr Günter Haider,Polytechnická škola
+404111,Volksschule Eggelsberg,Marktplatz 15,5142,Eggelsberg,07748 24 01,s404111@schule-ooe.at,,Herr Werner Ziekel,Základní škola
+404112,Mittelschule Neukirchen,Schulstraße 12,5145,Neukirchen a.d. Enknach,07729 225 52-50,s404112@schule-ooe.at,https://www.ms-neukirchen.at,Herr Manuel Josef Kronberger,Nižší střední škola
+404121,Volksschule Feldkirchen,Feldkirchen 13,5143,Feldkirchen,07748 23 65-230,s404121@schule-ooe.at,http://vsfeldkirchen.binsofrei.at,Frau Elfriede Guggenberger,Základní škola
+404122,Musikmittelschule Eggelsberg,Marktplatz 11,5142,Eggelsberg,07748 61 03,s404122@schule-ooe.at,https://www.nmmse.at/,Frau Hannelore Kirchgaßner,Nižší střední škola
+404131,Volksschule Franking,Franking 3,5131,Franking,06277 81 41,s404131@schule-ooe.at,http://schulen.eduhi.at/vsfranking/,Frau Andrea Maria Tischlinger,Základní škola
+404132,Mittelschule Munderfing,Schulstraße 9,5222,Munderfing,07744 63 49,s404132@schule-ooe.at,http://www.hsmunderfing.at,Frau Sigrid Probst,Nižší střední škola
+404141,Volksschule Friedburg,Schulstraße 2,5211,Friedburg,07746 22 40,s404141@schule-ooe.at,,Herr Leopold Herzog,Základní škola
+404142,Mittelschule St. Pantaleon,Am Kuglberg 12,5120,St. Pantaleon,06277 64 45,s404142@schule-ooe.at,http://schulen.eduhi.at/hs.st.pantaleon/,Frau Michaela Huber,Nižší střední škola
+404151,Volksschule Geretsberg,Geretsberg 29,5132,Geretsberg,07748 71 57,s404151@schule-ooe.at,http://vs-geretsberg.webnode.at,,Základní škola
+404152,Mittelschule St. Johann,St. Johann 45,5242,St. Johann am Walde,07743 86 06,s404152@schule-ooe.at,http://https://www.ms-saigahans.at/,Frau Agnes Erlinger,Nižší střední škola
+404161,Volksschule Gilgenberg,Gilgenberg 56,5133,Gilgenberg a. Weilhart,07728 80 01,s404161@schule-ooe.at,,Frau Jutta Pemwieser,Základní škola
+404162,Mittelschule Friedburg,Schulstraße 1,5211,Friedburg,07746 23 33,s404162@schule-ooe.at,http://www.nms-friedburg.at,Herr Christian Sporer,Nižší střední škola
+404172,Mittelschule Lochen,Schulstraße 17,5221,Lochen am See,07745 89 88,s404172@schule-ooe.at,http://www.nmslochen.at,Herr Erich Enthammer,Nižší střední škola
+404181,Volksschule Haigermoos,Schulstraße 1,5120,Haigermoos,06277 81 90,s404181@schule-ooe.at,,Frau Anna Fuchs,Základní škola
+404191,Volksschule Handenberg,Handenberg 51,5144,Handenberg,07748 80 85-30,s404191@schule-ooe.at,,,Základní škola
+404201,Volksschule Hochburg-Ach,Lindenstraße 5,5122,Hochburg-Ach,07727 25 57-1,s404201@schule-ooe.at,http://vs-hochburg-ach.eduhi.at,Frau Silke Lanz,Základní škola
+404211,Volksschule Höhnhart,Höhnhart 19,5251,Höhnhart,07755 58 75,s404211@schule-ooe.at,http://www.vs-hoehnhart.eduhi.at,Frau Martina Wiesauer,Základní škola
+404221,Volksschule Jeging,Jeging 30,5225,Jeging,07744 62 09-40,s404221@schule-ooe.at,,,Základní škola
+404231,Volksschule Kirchberg,Kirchberg b. Mattighofen 33,5232,Kirchberg b. Mattighofen,07747 52 06,s404231@schule-ooe.at,https://vskirchberg.at,Frau Petra Reichl,Základní škola
+404241,Volksschule Lengau,Flörlplainer Straße 13,5211,Lengau,07746 24 04,s404241@schule-ooe.at,https://vslengau.at,Frau Petra Reichl,Základní škola
+404251,Volksschule Lochen,Seestraße 1,5221,Lochen am See,07745 82 04,s404251@schule-ooe.at,http://www.vslochen.at,Frau Martina Blum,Základní škola
+404261,Volksschule Maria Schmolln,Maria Schmolln 3,5241,Maria Schmolln,07743 30 32,s404261@schule-ooe.at,,Frau Martina Wiesauer,Základní škola
+404271,Volksschule Mattighofen,Salzburger Straße 6,5230,Mattighofen,07742 309 77 11,s404271@schule-ooe.at,http://www.vsmattighofen.at,Frau Sandra Auer,Základní škola
+404281,Volksschule Mauerkirchen,Obermarkt 4,5270,Mauerkirchen,07724 29 40-13,s404281@schule-ooe.at,,,Základní škola
+404291,Volksschule Mining,Hofmark 3,4962,Mining,07723 70 15,s404291@schule-ooe.at,,Frau Christine Schießl,Základní škola
+404301,Volksschule Moosbach,Moosbach 22,5271,Moosbach,07724 39 92,s404301@schule-ooe.at,,Frau Birgit Voigt,Základní škola
+404311,LOTUS - Freie Schule Seenland,An der Linde 7,5221,Lochen am See,,schule@freieschuleseenland.at,https://freieschuleseenland.at,,Základní škola
+404321,Volksschule Munderfing,Hauptstraße 54,5222,Munderfing,07744 62 25,s404321@schule-ooe.at,,Frau Michaela Erkner,Základní škola
+404331,Volksschule Neukirchen,Schulstraße 5,5145,Neukirchen a.d. Enknach,07729 2255 240,s404331@schule-ooe.at,http://www.vsneukirchen.eduhi.at,,Základní škola
+404341,Volksschule Ostermiething,Weilhartstraße 51,5121,Ostermiething,06278 63 01,s404341@schule-ooe.at,http://schulen.eduhi.at/vs-ostermiething,Frau Anna Fuchs,Základní škola
+404351,Volksschule Palting,Palting 34,5163,Palting,06217 72 98,s404351@schule-ooe.at,https://www.volksschule.at/palting,Frau Petra Reichl,Základní škola
+404361,Volksschule Perwang,Ödwanderweg 4,5166,Perwang,06217 82 92,s404361@schule-ooe.at,,Frau Simone Schöppl,Základní škola
+404371,Volksschule Pfaffstätt,Kirchenplatz 2,5222,Pfaffstätt,07742 60 66,s404371@schule-ooe.at,,Frau Ines Laimighofer-Hehenberger,Základní škola
+404391,Volksschule Polling,Schulstraße 33,4951,Polling i.I.,07723 62 04,s404391@schule-ooe.at,,Frau Claudia Anzengruber,Základní škola
+404411,Volksschule Roßbach,Roßbach 50,5273,Roßbach,07724 811 020,s404411@schule-ooe.at,,Frau Manuela Ertl,Základní škola
+404418,Bundeshandelsakademie und Bundeshandelsschule Braunau,Raitfeldstraße 3,5280,Braunau,07722 633 29,s404418@bildung.gv.at,http://www.hak-braunau.at,Herr Thomas Silberhumer,Obchodní škola
+404419,"Schule für Sozialbetreuungsberufe des Evangelischen Diakoniewerkes Gallneukirchen, Schwerpunkt Behindertenbegleitung",Bahnhofstraße 49,5270,Mauerkirchen,07724 50 48-410,sob.mauerkirchen@diakoniewerk.at,http://www.diakoniewerk.at/de/sobmauerkirchen,Frau Nina Mathis,Humanitně zaměřená škola
+404421,Volksschule Schalchen,Hauptstraße 3,5231,Schalchen,07742 28 06,s404421@schule-ooe.at,,Herr Elmar Wimmer,Základní škola
+404427,Höhere Technische Bundeslehranstalt Braunau,Osternbergerstraße 55,5280,Braunau,07722 836 90,s404427@bildung.gv.at,http://htl-braunau.at,Frau Gerda Schneeberger,Technická škola
+404431,Volksschule Schneegattern,Rieder Hauptstraße 41,5212,Schneegattern,07746 31 05,s404431@schule-ooe.at,,Frau Karin Winkelmeier,Základní škola
+404441,Volksschule Schwand,Kirchengasse 1,5134,Schwand i.I.,07728 300,s404441@schule-ooe.at,http://vsschwand.jimdo.com/,Frau Anita Beinhundner,Základní škola
+404449,Höhere Bundeslehranstalt für wirtschaftliche Berufe Braunau,Michaelistraße 70,5280,Braunau,07722 634 26,s404449@bildung.gv.at,http://www.hlw-braunau.at,Frau Annemarie Berschl,Humanitně zaměřená škola
+404451,Volksschule St. Georgen,St. Georgen a. Fillmannsbach 19,5144,St. Georgen a. Fillmannsbach,07748 80 13,s404451@schule-ooe.at,,Frau Monika Bamberger,Základní škola
+404461,Volksschule St. Johann,St Johann am Walde 45,5242,St Johann am Walde,07743 86 00-41,s404461@schule-ooe.at,,Frau Claudia Rachbauer,Základní škola
+404471,Volksschule St. Pantaleon,Am Kuglberg 10,5120,St. Pantaleon,06277 65 77,s404471@schule-ooe.at,,Frau Alexandra Landertinger,Základní škola
+404481,Volksschule St. Peter,St. Peter am Hart 6,4963,St. Peter am Hart,07722 832 52,s404481@schule-ooe.at,,Frau Sabine Schulz,Základní škola
+404491,Volksschule St. Radegund<br>2 klassige VS,St. Radegund 6,5121,St. Radegund,06278 85 85,s404491@schule-ooe.at,,Frau Sigrid Stepanek,Základní škola
+404511,Volksschule Tarsdorf,Tarsdorf 16,5121,Tarsdorf,06278 81 59,s404511@schule-ooe.at,http://volksschule-tarsdorf.at,Frau Christina Eberharter,Základní škola
+404531,Volksschule Überackern,Dorfstraße 18,5123,Überackern,07727 40 41,s404531@schule-ooe.at,http://www.vs-ueberackern.at,Frau Gabriele Lindlbauer,Základní škola
+404541,Volksschule Uttendorf,Schulstraße 30,5261,Uttendorf,07724 29 02,s404541@schule-ooe.at,,Frau Bettina Maria Kobler,Základní škola
+404551,Volksschule Weng,Schulstraße 6,4952,Weng i.I.,07723 54 17,s404551@schule-ooe.at,,Frau Sabine Rosenauer,Základní škola
+404561,Volksschule Moosdorf,Friedensplatz 4,5141,Moosdorf,07748 26 66-34,s404561@schule-ooe.at,,,Základní škola
+404571,Volksschule Pischelsdorf,Pischelsdorf 50,5233,Pischelsdorf,07742 72 26,s404571@schule-ooe.at,http://vspischelsdorf.jimdo.com,Herr Josef Wimmer,Základní škola
+404581,Volksschule Braunau-Neustadt<br>Franz-Jonas-Schule,Sparkassenstraße 2,5280,Braunau,07722 873 06,s404581@schule-ooe.at,http://www.vsbraunauneustadt.at/,Herr Christoph Josef Kritzinger,Základní škola
+404591,Priv. Volksschule des Schulvereins der Siebenten-Tags-Adventisten,Bogenhofen 1,4963,St. Peter am Hart,07722 631 25-160,s404591@schule-ooe.at,,,Základní škola
+404710,Landw. Berufs- und Fachschule Burgkirchen,Unterhartberg 5,5274,Burgkirchen,0732 77 20-77100,lwbfs-burgkirchen.post@ooe.gv.at,http://https://www.ooe-landwirtschaftsschulen.at/187_DEU_HTML.htm,Frau Birgit Kasteneder,Zemědělská škola
+404720,Landw. Berufs- und Fachschule Mauerkirchen,Wollöster 30,5270,Mauerkirchen,0732 77 20-33700,lwbfs-mauerkirchen.post@ooe.gv.at,http://https://www.ooe-landwirtschaftsschulen.at/538_DEU_HTML.htm,Frau Adelheid Burtscher-Zauner,Zemědělská škola
+405011,Volksschule Alkoven,Schulstraße 3,4072,Alkoven,07274 63 26,s405011@schule-ooe.at,http://www.vs-alkoven.at,Frau Michaela Fröhlich,Základní škola
+405012,Mittelschule Alkoven,Schulstraße 1,4072,Alkoven,07274 63 95,s405012@schule-ooe.at,http://schulen.eduhi.at/hsalkoven,Frau Isabella Schweitzer,Nižší střední škola
+405016,Gymnasium und ORG Dachsberg der Oblaten des hl. Franz von Sales,Dachsberg 1,4731,Prambachkirchen,07277 230 735,s405016@bildung.gv.at,http://www.dachsberg.at,Herr Christian Feurstein,Všeobecná střední škola (gymnázium)
+405021,Volksschule Aschach,Sierenerstraße 4,4082,Aschach a.d. Donau,07273 88 37,s405021@schule-ooe.at,http://schulen.eduhi.at/eferding/vs-aschach,Frau Birgit Eder,Základní škola
+405023,Martin-Buber-Landesschule,Anton-Strauch-Allee 2,4072,Alkoven,0732 7720-55605,s405023@schule-ooe.at,https://www.lss-hartheim.ac.at,Herr Peter Radlinger,Speciální škola
+405031,Volksschule Eferding-Süd,Postgütlstraße 4,4070,Eferding,07272 55 79,s405031@schule-ooe.at,http://vs-eferding-sued.eduhi.at,Frau Martina Dallinger,Základní škola
+405032,Sportmittelschule Eferding-Süd,Welser Straße 19,4070,Eferding,07272 55 74,s405032@schule-ooe.at,https://www.sms-süd.at,Herr Josef Brandl,Nižší střední škola
+405041,Volksschule Eferding-Nord,Starhembergstraße 1,4070,Eferding,07272 55 78-11,s405041@schule-ooe.at,http://vseferdingnord.jimdo.com,Frau Christa Hagmüller,Základní škola
+405042,Technische - Naturwissenschaftliche Mittelschule Eferding Nord,Postgütlstaße 4a,4070,Eferding,07272 55 73,s405042@schule-ooe.at,http://www.mittelschule-eferding-nord.at,Frau Christine Obermayr,Nižší střední škola
+405044,Polytechnische Schule Eferding,Welser Straße 17,4070,Eferding,07272 557 611,s405044@schule-ooe.at,https://www.pts-eferding.at/,Herr Norbert Herbst,Polytechnická škola
+405051,Volksschule Haibach,Römerstraße 16,4083,Haibach ob d. Donau,07279 82 15,s405051@schule-ooe.at,,Frau Birgit Eder,Základní škola
+405052,Mittelschule Hartkirchen,Schulgasse 1,4081,Hartkirchen,07273 20911-20,s405052@schule-ooe.at,https://ms-hartkirchen.at,Herr Florian Groß,Nižší střední škola
+405061,Volksschule Hartkirchen,Schulgasse 1,4081,Hartkirchen,07273 89 56-27,s405061@schule-ooe.at,,Frau Michaela Angster,Základní škola
+405062,Mittelschule Prambachkirchen,Schulstraße 2,4731,Prambachkirchen,07277 24 97,s405062@schule-ooe.at,https://www.mittelschule-prambachkirchen.at,Frau Christine Gessl,Nižší střední škola
+405091,Volksschule Prambachkirchen,Schulstraße 4,4731,Prambachkirchen,07277 23 25,s405091@schule-ooe.at,http://vs-prambachkirchen.jimdo.com,Frau Maria Meindlhumer,Základní škola
+405111,Volksschule Rockersberg,Limberg 16,4070,Hinzenbach,07272 46 80,s405111@schule-ooe.at,http://vs.rockersberg.eduhi.at,Frau Beatrix Dopplmair,Základní škola
+405121,Volksschule St. Marienkirchen,Weberberg 1,4076,St. Marienkirchen a.d. Polsenz,07249 471 98,s405121@schule-ooe.at,https://www.vs-sanktmarienkirchen.at/,Frau Gloria Götzenberger,Základní škola
+405131,Volksschule Scharten,Scharten 39,4612,Scharten,07272 52 20,s405131@schule-ooe.at,https://vsscharten.eduhi.at/,Frau Isabel Deinhammer,Základní škola
+405141,Volksschule Stroheim,Stroheim 28,4074,Stroheim,07272 63 35,s405141@schule-ooe.at,http://www.vsstroheim.at,Frau Andrea Grabner,Základní škola
+405151,Freie Schule Hand in Hand Hartkirchen,Schmiedstraße 2,4081,Hartkirchen,,lernen@fs-hand-in-hand.at,http://fs-hand-in-hand.at,,Základní škola
+405418,Bundeshandelsakademie und Bundeshandelsschule Eferding,Bräuhausstraße 3,4070,Eferding,07272 55 70,s405418@bildung.gv.at,http://www.hakeferding.at,Herr Dominik Gaheis,Obchodní škola
+406015,Berufsschule Freistadt,Linzer Straße 45,4240,Freistadt,0732 77 20-35300,bs-freistadt.post@ooe.gv.at,http://www.bs-freistadt.ac.at,Frau Judith Blaimschein,Odborné učiliště
+406016,Bundesgymnasium und Bundesrealgymnasium Freistadt,Zemannstraße 4,4240,Freistadt,07942 722 19,s406016@bildung.gv.at,http://www.bgfrei.at,Frau Sandra Wiederkehr,Všeobecná střední škola (gymnázium)
+406021,Volksschule 1 Freistadt,Stifterplatz 2,4240,Freistadt,07942 723 72,s406021@schule-ooe.at,http://schulen.eduhi.at/vs1freistadt,Frau Andrea Reindl,Základní škola
+406022,Mittelschule Gutau,Pregartenerstraße 4,4293,Gutau,07946 62 60-100,s406022@schule-ooe.at,http://www.nmsgutau.at,Frau Monika Falkensteiner,Nižší střední škola
+406032,Mittelschule Königswiesen,Schulstraße 5,4280,Königswiesen,07955 2015 510,s406032@schule-ooe.at,https://nmskoenigswiesen.jimdo.com,Herr Erwin Bindreiter,Nižší střední škola
+406034,Polytechnische Schule Freistadt,Linzer Straße 6a,4240,Freistadt,07942 724 22,s406034@schule-ooe.at,http://www.pts-freistadt.at,Frau Klaudia Umdasch,Polytechnická škola
+406041,Volksschule Grünbach,Freiwaldstraße 11,4264,Grünbach,07942 729 75-11,s406041@schule-ooe.at,https://www.vsgruenbach.at/,Frau Maria Heine-Klug,Základní škola
+406042,Mittelschule St. Leonhard,Schulstraße 9,4294,St. Leonhard,07952 82 15,s406042@schule-ooe.at,http://www.nms-stleonhard.at,Herr Arnold Petz,Nižší střední škola
+406044,Polytechnische Schule Pregarten<br>INFOTEC - PTS PREGARTEN,Althauserstraße 10,4230,Pregarten,07236 23 95-30,s406044@schule-ooe.at,http://www.ptspregarten.at,Frau Monika Pirkelbauer,Polytechnická škola
+406051,Volksschule Gutau,Pregartenerstraße 4,4293,Gutau,07946 62 67,s406051@schule-ooe.at,http://www.vs-gutau.at,Frau Monika Falkensteiner,Základní škola
+406052,Mittelschule Liebenau,Liebenau 78,4252,Liebenau,07953 81 12,s406052@schule-ooe.at,http://schulen.eduhi.at/hsliebenau,Herr Alfred Karrer,Nižší střední škola
+406062,Mittelschule Neumarkt,aße 7,4212,Neumarkt im Mühlkreis,07941 69 10,s406062@schule-ooe.at,http://www.nmsneumarkt.at,Frau Claudia Jachs,Nižší střední škola
+406071,Volksschule Hagenberg,Hauptstraße 88,4232,Hagenberg i.M.,07236 23 13,s406071@schule-ooe.at,https://www.hagenberg.at/leben-in-hagenberg/bildung-kultur/volksschule,Frau Martina Ketterer-Hager,Základní škola
+406072,Mittelschule St. Oswald,Markt 71,4271,St. Oswald bei Freistadt,07945 72 21,s406072@schule-ooe.at,http://www.nms-st-oswald.at,Frau Claudia Schmutz,Nižší střední škola
+406091,Volksschule Hirschbach,Schulstraße 2,4242,Hirschbach i.M.,07948 3552,s406091@schule-ooe.at,http://www.hirschbach.ooe.gv.at/Volksschule,Frau Doris Damberger,Základní škola
+406092,Mittelschule Rainbach,Schulstraße 16,4261,Rainbach im Mühlkreis,07949 62 42-11,s406092@schule-ooe.at,http://khs.eduhi.at,Herr Hannes Schlagintweit,Nižší střední škola
+406101,Volksschule Kaltenberg,Kaltenberg 22,4273,Unterweißenbach,07956 73 07,s406101@schule-ooe.at,https://www.kaltenberg.at/Volksschule,Frau Christina Hennerbichler,Základní škola
+406102,Mittelschule Tragwein,Schulstraße 8,4284,Tragwein,07263 883 34,s406102@schule-ooe.at,http://www.nms-tragwein.at,Herr Markus Riederer,Nižší střední škola
+406111,Volksschule Kefermarkt,Oberer Markt 16,4292,Kefermarkt,07947 62 57,s406111@schule-ooe.at,https://kefermarkt.riskommunal.net/Volksschule_2,Frau Angela Preslmayer,Základní škola
+406112,Mittelschule Unterweißenbach,Schulstraße 1,4273,Unterweißenbach,07956 72 64,s406112@schule-ooe.at,https://www.schuleuwb.at,Herr Christian Traubenek,Nižší střední škola
+406121,Volksschule Königswiesen,Schulstraße 7,4280,Königswiesen,07955 64 85-11,s406121@schule-ooe.at,http://vskoenigswiesen.jimdo.com,Frau Elisabeth Buchberger,Základní škola
+406122,Mittelschule Windhaag,Schulstraße 2,4263,Windhaag b. Freistadt,07943 / 6120-20,s406122@schule-ooe.at,https://mswindhaag.at/,Frau Veronika Walchshofer,Nižší střední škola
+406132,Mittelschule Bad Zell,Schulstraße 4,4283,Bad Zell,07263 72 85-1,s406132@schule-ooe.at,http://nmsbadzell.eduhi.at,Frau Maria Anna Haslhofer-Gaßl,Nižší střední škola
+406141,Volksschule Miteinander - Lasberg<br>Volksschule mit musikalischer Schwerpunktsetzung,Oswalderstraße 6,4291,Lasberg,0677 628 486 98,s406141@schule-ooe.at,,Herr Tobias Sebastian Grabner,Základní škola
+406142,Priv. Mittelschule Marianum Freistadt,St. Peterstraße 2,4240,Freistadt,07942 722 29-0,s406142@schule-ooe.at,http://www.marianum-freistadt.at,Frau Hedwig Hartmann,Nižší střední škola
+406151,Volksschule St. Leonhard,Schulgasse 1,4294,St. Leonhard,07952 83 05,s406151@schule-ooe.at,https://www.vs-stleonhard.at,Frau Julia Hartl,Základní škola
+406161,Volksschule Leopoldschlag,Schulstraße 1,4262,Leopoldschlag,07949 82 19,s406161@schule-ooe.at,http://www.vs-leopoldschlag.eduhi.at,Frau Bettina Watzinger,Základní škola
+406162,Mittelschule Pregarten,Althauser Straße 10,4230,Pregarten,07236 23 95-10,s406162@schule-ooe.at,http://www.nms-pregarten.com,Frau Manuela Kopf-Teufel,Nižší střední škola
+406171,Volksschule Liebenau,Liebenau 100,4252,Liebenau,07953 81 13,s406171@schule-ooe.at,,Frau Marlene Schübl,Základní škola
+406172,Sportmittelschule Sandl,Kirchenplatz 3,4251,Sandl,07944/ 8207,s406172@schule-ooe.at,https://www.ms-sandl.at,Frau Claudia Schmutz,Nižší střední škola
+406182,Mittelschule Grünbach,Freiwaldstraße 11,4264,Grünbach,07942 729 75-21,s406182@schule-ooe.at,https://www.ms-gruenbach.at/,Frau Maria Heine-Klug,Nižší střední škola
+406191,Volksschule Mönchdorf,Hauptstraße 11,4281,Mönchdorf,07267 82 88,s406191@schule-ooe.at,https://www.vsmoenchdorf.at,Frau Gertrude Haider,Základní škola
+406201,Volksschule Neumarkt,Pillhofstraße 12,4212,Neumarkt im Mühlkreis,07941 82 28,s406201@schule-ooe.at,,Frau Katharina Janisch,Základní škola
+406202,Musikmittelschule Freistadt,Bahnhofstraße 18,4240,Freistadt,07942/ 7341 211,s406202@schule-ooe.at,http://mms-freistadt.at,Frau Alexandra Lindner,Nižší střední škola
+406221,Volksschule St. Oswald,Markt 72,4271,St. Oswald b. Freistadt,07945 7221-20,s406221@schule-ooe.at,https://vs-stoswald.at,Herr Wolfgang Neumüller,Základní škola
+406231,Volksschule Pierbach,Schulstraße 19,4282,Pierbach,07267 82 24,s406231@schule-ooe.at,,Frau Martina Pölzl,Základní škola
+406241,Volksschule Pregarten,Schulstraße 7,4230,Pregarten,07236 22 79-80,s406241@schule-ooe.at,https://vspregarten.jimdofree.com,Frau Romana Freynschlag,Základní škola
+406251,Volksschule Rainbach,Schulstraße 1,4261,Rainbach im Mühlkreis,07949 62 21,s406251@schule-ooe.at,http://vsrainbachmkr.at,Frau Ingrid Brandstätter,Základní škola
+406261,Volksschule Reichenstein<br>zweiklassige VS,Reichenstein 17,4230,Pregarten,07236 32 55,s406261@schule-ooe.at,https://www.vsreichenstein.at,Frau Barbara Grabmann,Základní škola
+406271,Volksschule Sandl,Kirchenplatz 2,4251,Sandl,07944/ 8755,s406271@schule-ooe.at,https://vs-sandl.at,Herr Wolfgang Neumüller,Základní škola
+406281,Volksschule Schönau,Schulstraße 5,4274,Schönau i.M.,07261 72 24,s406281@schule-ooe.at,,Frau Margarete Mairböck,Základní škola
+406311,Volksschule Tragwein,Schulstraße 4,4284,Tragwein,07263 882 15,s406311@schule-ooe.at,,Frau Nicole Langthaler,Základní škola
+406321,Volksschule Unterweißenbach<br>Schule für jedes Kind,Schulstraße 2,4273,Unterweißenbach,07956 72 23-10,s406321@schule-ooe.at,http://vs-unterweissenbach.schulweb.at,Frau Hedwig Haneder,Základní škola
+406331,Volksschule Unterweitersdorf,Obere Dorfstraße 20,4210,Unterweitersdorf,07235 630 94,s406331@schule-ooe.at,,Frau Manuela Novak,Základní škola
+406341,"Sokrates Schule Mühlviertel des Vereins ""Sokrates Schule Mühlviertel""",Zaglaustaße 8,4240,Freistadt,0676/7979 099,s406341@schule-ooe.at,,Frau Doris Weglehner,Základní škola
+406351,Volksschule Wartberg,Schulstraße 5,4224,Wartberg ob d. Aist,07236 23 67,s406351@schule-ooe.at,http://vs.wartberg.aist.eduhi.at,Herr Siegfried Hauser,Základní škola
+406361,Volksschule Weitersfelden,Weitersfelden 60,4272,Weitersfelden,07952 62 25,s406361@schule-ooe.at,,Frau Karin Reindl,Základní škola
+406371,Volksschule Windhaag,Schulstraße 2,4263,Windhaag b. Freistadt,07943 61 10,s406371@schule-ooe.at,,Frau Gertrude Leitner,Základní škola
+406391,Volksschule Bad Zell,Am Grünberg 1,4283,Bad Zell,07263 74 60,s406391@schule-ooe.at,https://www.vsbadzell.at,Frau Anita Hinterdorfer,Základní škola
+406418,HAK und HTL Freistadt,Brauhausstraße 10,4240,Freistadt,07942 724 44-0,s406418@bildung.gv.at,https://www.hakhtlfreistadt.at,Frau Elisabeth Teufer,Obchodní škola
+406421,Volksschule Waldburg,Waldburg 31,4240,Waldburg,07942 82 96,s406421@schule-ooe.at,https://vswaldburg.jimdofree.com,Frau Michaela Leitner,Základní škola
+406429,Vereinigung von Ordensschulen Österreichs HLW/HLK Freistadt,Schmiedgasse 2,4240,Freistadt,07942 722 41,s406429@bildung.gv.at,https://www.hlw-freistadt.at,Herr Jürgen Ehling,Humanitně zaměřená škola
+406431,Volksschule 2 Freistadt,Brauhausstraße 9,4240,Freistadt,07942 725 20,c476010@schule-ooe.at,https://www.vs2freistadt.at,Frau Andrea Reindl,Základní škola
+406720,Landw. Berufs- und Fachschule Hagenberg,Veichter 99,4232,Hagenberg im Mühlkreis,0732 77 20-33400,lwbfs-hagenberg.post@ooe.gv.at,https://www.ooe-landwirtschaftsschulen.at/21497_DEU_HTML.htm,Herr Bernhard Pilz,Zemědělská škola
+407011,Volksschule St. Agatha,St. Agatha 19,4823,Hallstatt,06135 85 22,s407011@schule-ooe.at,http://www.vs-agatha.at,Herr Michael Schörgendorfer,Základní škola
+407012,Mittelschule Altmünster,Marktstraße 29,4813,Altmünster,07612 878 49-0,s407012@schule-ooe.at,http://www.nms-altmuenster.at,Frau Sylvia Grafinger,Nižší střední škola
+407015,Berufsschule Gmunden 1,Miller-v.-Aichholz-Straße 30,4810,Gmunden,0732 77 20-35400,bs-gmunden1.post@ooe.gv.at,http://www.bs-gmunden1.ac.at,Herr Gerd Ulf Rainer,Odborné učiliště
+407016,"Bundesgymnasium und Bundesrealgymnasium Gmunden, Keramikstraße",Keramikstraße 28,4810,Gmunden,07612 643 81,s407016@bildung.gv.at,http://www.gymgmunden.at,Herr Rainer Leitner,Všeobecná střední škola (gymnázium)
+407021,Volksschule Altmünster am Traunsee,Marktstraße 28,4813,Altmünster,07612 892 64,s407021@schule-ooe.at,,Frau Sabrina Riedelsberger,Základní škola
+407022,Sportmittelschule Ebensee,Pestalozziplatz 2,4802,Ebensee,0676 839 401-80,s407022@schule-ooe.at,https://www.sportmittelschuleebensee.net/,Herr Hermann Neuböck,Nižší střední škola
+407023,Nikolaus-Lenau-Schule Gmunden,Spitalstraße 10,4810,Gmunden,0676 887 948 50,s407023@schule-ooe.at,https://www.nikolaus-lenau-schule.at,Herr Walter Mayrhofer,Speciální škola
+407024,Polyt. Schule Gmunden,Spitalstraße 6,4810,Gmunden,07612 794 560,s407024@schule-ooe.at,https://ptsgmunden.edupage.org,Frau Gabriele Pohl,Polytechnická škola
+407025,Berufsschule Altmünster,Ebenzweierstraße 26,4813,Altmünster,0732 77 20-35000,bs-altmuenster.post@ooe.gv.at,http://www.bs-altmuenster.ac.at,Herr Armin Lenz,Odborné učiliště
+407026,"Gymnasium Gmunden Ort des Schulvereins der Kreuzschwestern, Pensionatstraße",Pensionatstraße 9,4810,Gmunden,07612 649 51-51,s407026@bildung.gv.at,http://www.gymnasiumort.at,Herr Wolfgang Kurz,Všeobecná střední škola (gymnázium)
+407031,Volksschule Ebensee,Kirchengasse 10,4802,Ebensee,0676 839 40-182,s407031@schule-ooe.at,http://vs-ebensee.jimdo.com,Frau Elke Kendler-Bartl,Základní škola
+407033,Leopold-Hasner-Schule<br>Allgem. Sonderschule,Concordiastraße 6,4820,Bad Ischl,06132 247 91-30,s407033@schule-ooe.at,https://leopoldhasnerschule.wordpress.com/,Frau Theresa Schögl,Speciální škola
+407036,"Bundesrealgymnasium und  Bundesoberstufenrealgymnasium Gmunden Schloss Traunsee, Pensionatstraße 74",Pensionatstraße 74,4810,Gmunden,07612 624 15-38,s407036@bildung.gv.at,https://www.schlosstraunsee.at,Herr Egmont Schmidt,Všeobecná střední škola (gymnázium)
+407046,Bundesgymnasium und Bundesrealgymnasium Bad Ischl,Grazer Straße 27,4820,Bad Ischl,06132 234 93,s407046@bildung.gv.at,http://www.gymbadischl.at,Frau Gisela Daucher,Všeobecná střední škola (gymnázium)
+407052,Mittelschule Gmunden-Stadt,Habertstraße 7-9,4810,Gmunden,07612 794 540,s407052@schule-ooe.at,https://nmsgmunden.edupage.org,Frau Beatrix Wiesauer,Nižší střední škola
+407056,"Private Höhere Schule im Spital (HIS) des ""Schulvereins der Kreuzschwestern""",Pensionatstraße 9,4810,Gmunden,,s407056@bildung.gv.at,https://www.his-ooe.at/kontakt-9,Frau Ursula Gattringer,Všeobecná střední škola (gymnázium)
+407061,Volksschule Gmunden Stadt,Seilergasse 9,4810,Gmunden,07612 794 510,s407061@schule-ooe.at,http://vs-gmunden-stadt.jimdo.com,Frau Christine Gruber,Základní škola
+407062,Mittelschule Gmunden-Traundorf,Annastraße 4,4810,Gmunden,07612 794 550,s407062@schule-ooe.at,https://msgmundentraundorf.at/,Herr Georg Praxmarer,Nižší střední škola
+407071,"Volksschule Gmunden, Brahmsschule",Lindenstraße 11,4810,Gmunden,07612 743 34,s407071@schule-ooe.at,https://www.vs-brahmsschule-gmunden.at,Frau Beatrice Rothauer,Základní škola
+407081,Volksschule Gmunden-Traundorf<br>Schule an der Pferdeeisenbahn,Annastraße 4,4810,Gmunden,07612 794 520,s407081@schule-ooe.at,http://vsgmunden-traundorf.jimdo.com,Frau Magdalena Mayr,Základní škola
+407082,Welterbe-Mittelschule 1 Bad Goisern<br>Welterbe MS Bad Goisern,Kurparkstraße 4,4822,Bad Goisern,06135 83 49,s407082@schule-ooe.at,http://www.welterbe-mittelschule.at,Frau Monika Mitterhauser,Nižší střední škola
+407092,Mittelschule Gosau<br>Neue Musikmittelschule,Schulstraße 16,4824,Gosau,06136 85 92-21,s407092@schule-ooe.at,https://www.schule-gosau.at,Frau Elisabeth Maria Raffl,Nižší střední škola
+407101,Volksschule Bad Goisern<br>Volksschule mit musikalischer Schwerpunktsetzung,Obere Marktstraße 7,4822,Bad Goisern,06135 86 87,s407101@schule-ooe.at,http://schulen.eduhi.at/vsgoisern,Frau Beate Laimer,Základní škola
+407102,Mittelschule 2 Bad Goisern,Schmiedgasse 13,4822,Bad Goisern,06135 71 47,s407102@schule-ooe.at,http://schulen.eduhi.at/hs2bg,Frau Brigitte Atzmanstorfer,Nižší střední škola
+407111,Volksschule Gosau,Schulstraße 16,4824,Gosau,06136 859 210,s407111@schule-ooe.at,https://www.gosau.ooe.gv.at/Volksschule_Gosau,Frau Elisabeth Maria Raffl,Základní škola
+407112,Johann Nestroy Mittelschule Bad Ischl<br>Johann-Nestroy Schule,Kaiser-Franz-Josef-Straße 6,4820,Bad Ischl,06132 244 72,s407112@schule-ooe.at,https://msbadischl.edupage.org,Frau Elisabeth Eckel-Knoth,Nižší střední škola
+407121,Volksschule Grünau,Kirchenplatz 4,4645,Grünau im Almtal,07616 83 09,s407121@schule-ooe.at,https://www.volksschule.at/gruenau,Frau Sabine Schiefermair,Základní škola
+407131,Volksschule Gschwandt<br>Volksschule mit musikalischer Schwerpunktsetzung,Hauptstraße 10,4816,Gschwandt,07612 626 01,s407131@schule-ooe.at,https://www.musikvolksschule-gschwandt.at,Frau Annemarie Hauer,Základní škola
+407142,Sportmittelschule Laakirchen,Europaplatz 4,4663,Laakirchen,07613 23 70-31,s407142@schule-ooe.at,http://www.nms-laakirchen.at,Frau Manuela Drack,Nižší střední škola
+407151,Welterbe-Volksschule Hallstatt-Obertraun,Salzbergstraße 175,4830,Hallstatt,06134 82 82,s407151@schule-ooe.at,http://welterbe-vs.eduhi.at,,Základní škola
+407152,Digitale Technische Naturwissenschaftliche Mittelschule Scharnstein,Kirchenplatz 5,4644,Scharnstein,07615 22 77,s407152@schule-ooe.at,http://www.nmsscharnstein.eduhi.at,Frau Margot Scherbaum,Nižší střední škola
+407171,Volksschule Concordia,Bauerstraße 14,4820,Bad Ischl,06132 247 91-20,s407171@schule-ooe.at,http://www.vsconcordia.at,Herr Martin Sturm,Základní škola
+407181,Volksschule Kirchham,Kirchham 34,4656,Kirchham,07619 20 25,s407181@schule-ooe.at,https://www.vs-kirchham.at,Frau Karin Schwarzlmüller,Základní škola
+407182,Mittelschule/PTS Vorchdorf,Schulstraße 6,4655,Vorchdorf,07614 635 63 21,s407182@schule-ooe.at,http://www.nms-vorchdorf.at,Frau Sonja Staudinger,Nižší střední škola
+407191,Volksschule St. Konrad,Ort 7,4817,St. Konrad,07615 80 25,s407191@schule-ooe.at,https://vs-st-konrad.jimdofree.com/,Frau Susanne Holzleithner,Základní škola
+407192,Mittelschule Neukirchen,Neukirchen 78,4814,Neukirchen bei Altmünster,07618 60 11-21,s407192@schule-ooe.at,http://www.nmsneukirchen.at,Herr Klaus Enser,Nižší střední škola
+407202,Mittelschule Ohlsdorf,Hauptstraße 33,4694,Ohlsdorf,07612 472 20,s407202@schule-ooe.at,https://ms-ohlsdorf.edupage.org,Frau Melanie Maria-Anna Grill,Nižší střední škola
+407211,Volksschule Laakirchen,Europaplatz 3,4663,Laakirchen,07613 23 70-21,s407211@schule-ooe.at,http://schulen.eduhi.at/vs.laakirchen,Herr Karl Bischinger,Základní škola
+407241,Volksschule Lindach,Mitterberg 6,4663,Laakirchen,07613 37 35,s407241@schule-ooe.at,https://www.laakirchen.ooe.gv.at/Volkschule_Lindach,Frau Tanja Miedler,Základní škola
+407261,Volksschule Mühldorf,Mühldorf 16,4644,Scharnstein,07615 23 20,s407261@schule-ooe.at,https://vsmuehldorf.wordpress.com/,Frau Karin Mairhofer,Základní škola
+407271,Volksschule Neukirchen bei Altmünster,Neukirchen 79,4814,Neukirchen bei Altmünster,0664 848 45 05,s407271@schule-ooe.at,https://vsneukirchen.jimdo.com,Frau Stefanie Spiesberger,Základní škola
+407291,Volksschule Ohlsdorf,Irresbergstraße 2,4694,Ohlsdorf,07612 472 90,s407291@schule-ooe.at,https://www.vsohlsdorf.at,Frau Julia Verena Schmied,Základní škola
+407301,Volksschule Pamet,Pametstraße 2,4655,Vorchdorf,07614 64 17,s407301@schule-ooe.at,http://vs.pamet.eduhi.at,Frau Ulrike Dopf,Základní škola
+407311,Volksschule Pfandl,Pfandler Straße 29,4820,Bad Ischl,06132 238 70,s407311@schule-ooe.at,http://schulen.eduhi.at/vs_pfandl,Frau Katharina Elisabeth Moser,Základní škola
+407321,Volksschule Pinsdorf,Steinbichlstraße 9,4812,Pinsdorf,0699 163 926 01,s407321@schule-ooe.at,https://vspinsdorf.at/,Herr Peter Kaiser,Základní škola
+407331,Volksschule Reindlmühl,Reindlmühl 4,4814,Neukirchen,07618 70 05-10,s407331@schule-ooe.at,https://www.vsreindlmuehl.at,Frau Gabriele Stöckl,Základní škola
+407341,Volksschule Reiterndorf,Hubkoglstraße 5,4820,Bad Ischl,06132 244 28,s407341@schule-ooe.at,http://vs_reiterndorf.eduhi.at,Frau Ursula Stibl,Základní škola
+407351,Volksschule Roith-Ebensee,Roitherstraße 9,4802,Ebensee,0676 839 401 83,s407351@schule-ooe.at,http://vsroith.jimdo.com,Frau Barbara Ute Müller-Ruttensteiner,Základní škola
+407361,Volksschule Roitham,Pfarrhofstraße 20,4661,Roitham,07613 51 60,s407361@schule-ooe.at,http://schulen.eduhi.at/vs-roitham,Frau Petra Zorn,Základní škola
+407371,Volksschule Rußbach,Rußbach 84,5360,St. Wolfgang,0664 886 134 76,s407371@schule-ooe.at,https://www.schuki.at,Frau Michaela Pilz,Základní škola
+407391,Volksschule Traunkirchen,Mitterndorf 10,4801,Traunkirchen,07617 22 24,s407391@schule-ooe.at,https://vs-traunkirchen.jimdo.com/,Frau Karin Mader,Základní škola
+407401,Volksschule Viechtwang,Viechtwang 19,4644,Scharnstein,07615 24 15,s407401@schule-ooe.at,https://www.vsviechtwang.at,Frau Ulrike Führer,Základní škola
+407411,Volksschule Vorchdorf<br>Volksschule mit musikalischer Schwerpunktsetzung,Schulstraße 6,4655,Vorchdorf,07614 635 63 30,s407411@schule-ooe.at,https://vs-vorchdorf.at/,Frau Michaela Ohler,Základní škola
+407417,Höhere Technische Bundeslehranstalt Hallstatt,Lahnstraße 69,4830,Hallstatt,06134 82 14-0,s407417@bildung.gv.at,http://schulen.eduhi.at/hallstatt,Herr Christoph Preimesberger,Technická škola
+407421,Volksschule St. Wolfgang,Markt 159,5360,St. Wolfgang,0664 886 134 76,s407421@schule-ooe.at,https://www.vs-stwolfgang.com,Frau Michaela Pilz,Základní škola
+407431,Volksschule Ort des Schulvereins der Kreuzschwestern,Pensionatstraße 9,4810,Gmunden,07612 649 51-32,s407431@schule-ooe.at,http://www.vs-gmunden-ort.eduhi.at,Herr Thomas Grömer,Základní škola
+407439,Höhere Bundeslehranstalt für wirtschaftliche Berufe Bad Ischl,Kaltenbachstraße 19 - 23,4820,Bad Ischl,06132 233 94-0,s407439@bildung.gv.at,http://wp11020023.server-he.de/index.php/kontakt,Herr Rainer Posch,Humanitně zaměřená škola
+407451,Privatschule des Vereins Ein Kinderhaus - Initiative für aktives und offenes Lernen,Eben 3,4813,Altmünster,07612 893 64-22,s407451@schule-ooe.at,https://www.kinderhaus.at,,Základní škola
+407459,Höhere gewerbliche Bundeslehranstalt (Fachrichtung Mode und Bekleidungstechnik) Ebensee,Pestalozziplatz 4,4802,Ebensee a. Traunsee,06133 52 91,s407459@bildung.gv.at,http://www.modeebensee.at,Herr Herbert Mittendorfer,Humanitně zaměřená škola
+407468,Bundeshandelsakademie und Bundeshandelsschule Gmunden,Habertstraße 5,4810,Gmunden,07612 641 15,s407468@bildung.gv.at,https://hak-gmunden.at,Frau Evelyn Haubner-Pehböck,Obchodní škola
+407479,Schule für Sozialbetreuungsberufe der Caritas Oberösterreich,Langbathstraße 44,4802,Ebensee a. Traunsee,06133 52 04,s407479@bildung.gv.at,https://www.josee.at,Frau Birgit Ippisch,Humanitně zaměřená škola
+407488,Bundeshandelsakademie und Bundeshandelsschule Bad Ischl,Grazer Straße 27,4820,Bad Ischl,06132 235 62,s407488@bildung.gv.at,https://www.hakhasbadischl.at,Frau Susanne Mayr,Obchodní škola
+407529,Höhere gewerbliche Bundeslehranstalt (Fachrichtung Tourismus) Bad Ischl<br>Tourismusschulen Salzkammergut,Katrinstraße 2,4820,Bad Ischl,06132 244 58-0,s407529@bildung.gv.at,http://www.tourismusschulen-salzkammergut.at,Herr Wolfgang Falkensteiner,Humanitně zaměřená škola
+407710,Landw. Berufs- und Fachschule Altmünster,Pichlhofstraße 62,4813,Altmünster,07612 872 63,lwbfs-altmuenster.post@ooe.gv.at,https://www.ooe-landwirtschaftsschulen.at/1065_DEU_HTML.htm,Frau Elke Haitzinger,Zemědělská škola
+408011,Volksschule Aistersheim,Aistersheim 10,4676,Aistersheim,07734 28 05,s408011@schule-ooe.at,https://vsaistersheim.jimdofree.com,Frau Irmgard Brandner,Základní škola
+408012,Mittelschule Bad Schallerbach,Schulstraße 4,4701,Bad Schallerbach,07249 485 55-70,s408012@schule-ooe.at,http://www.nms-schallerbach.at,Herr Friedrich Eibl,Nižší střední škola
+408014,Polytechnische Schule Grieskirchen,Parzer Schulstraße 1,4710,Grieskirchen,07248 626 80-11,s408014@schule-ooe.at,http://www.pts-grieskirchen.at,Herr Franz Viktor Pilz,Polytechnická škola
+408016,Bundesoberstufenrealgymnasium Grieskirchen,Gymnasiumstraße 2,4710,Grieskirchen,07248 684 30,s408016@bildung.gv.at,http://www.borg-grieskirchen.at,Herr Daniel Rötzer-Matz,Všeobecná střední škola (gymnázium)
+408021,Volksschule Altenhof,Farthofstraße 14,4674,Altenhof a.H.,07735 70 13,s408021@schule-ooe.at,https://vs-altenhof.jimdofree.com,,Základní škola
+408022,Mittelschule Gaspoltshofen,Hauptstraße 18,4673,Gaspoltshofen,07735 80 17,s408022@schule-ooe.at,http://schulen.eduhi.at/gaspoltshofen,Herr Friedrich Famler,Nižší střední škola
+408023,Johann-Eisterer-Landesschule<br>Landessonderschule für schwerstbehinderte Kinder Steegen-Peuerbach,St. Pius 10,4722,Peuerbach,07276 25 65,s408023@schule-ooe.at,http://lss-steegen.ac.at,Frau Eva Maria Stahrl,Speciální škola
+408031,Volksschule Bad Schallerbach,Schulstraße 2,4701,Bad Schallerbach,07249 485 55-60,s408031@schule-ooe.at,http://http://www.vs.bad-schallerbach.at,Frau Ruth Atzwanger,Základní škola
+408041,Volksschule Bruck,Bruck 40,4722,Bruck-Waasen,07276 22 88,s408041@schule-ooe.at,http://www.vs-bruck.at,Frau Manuela Ortbauer,Základní škola
+408042,Mittelschule Grieskirchen<br>Auflassung derTechnischen Naturwissenschaftlichen Mittelschule 1 Grieskirchen (Zusammenlegung mit derTechnisch Naturwissenschaftlichen Mittelschule 2 Grieskirchen) ab dem Schuljahr 2024/2025,Parzer Schulstraße 1,4710,Grieskirchen,07248 622 51,s408042@schule-ooe.at,http://https://www.nms2grieskirchen.at/,Frau Daniela Reckendorfer,Nižší střední škola
+408052,Musikmittelschule Haag,Lambacherstraße 29a,4680,Haag a.H.,07732 22 43,s408052@schule-ooe.at,http://www.nms-haag.at,Herr Rudolf Sternbauer,Nižší střední škola
+408061,Volksschule Gallspach,Stelzhamerstraße 8,4713,Gallspach,07248 619 49,s408061@schule-ooe.at,http://vsgallspach.jimdo.com/,Herr Klaus Tolar,Základní škola
+408071,Volksschule Gaspoltshofen,Hauptstraße 18,4673,Gaspoltshofen,07735 66 09,s408071@schule-ooe.at,https://vs-gaspoltshofen.jimdofree.com/,Frau Gertraud Holzinger,Základní škola
+408072,Mittelschule Natternbach,Vischerstraße 6,4723,Natternbach,07278 82 09,s408072@schule-ooe.at,http://https://www.nms-natternbach.at/,Herr Manfred Zethofer,Nižší střední škola
+408081,Volksschule Geboltskirchen,Feld 13,4682,Geboltskirchen,07732 35 08,s408081@schule-ooe.at,http://www.geboltskirchen.at/gemeinde/gemeinde/einrichtungen/volksschule.html,Frau Maria Payrhuber,Základní škola
+408082,Mittelschule Neukirchen,Pühretstraße 16,4724,Neukirchen am Walde,07278 31 33,s408082@schule-ooe.at,http://www.nms-neukirchen.at,Herr Günter Königmayr,Nižší střední škola
+408091,Volksschule Grieskirchen,Schulstraße 25,4710,Grieskirchen,07248 681 47,s408091@schule-ooe.at,http://www.vs-grieskirchen.at,Frau Margit Malvend,Základní škola
+408092,Mittelschule Neumarkt-Kallham,Schulstraße 20,4720,Neumarkt im Hausruckkreis,07733 50 17,s408092@schule-ooe.at,http://www.nms-neumarktkallham.at,Herr Siegfried Mairhuber,Nižší střední škola
+408102,Sportmittelschule Peuerbach,Steegenstraße 15,4722,Peuerbach,07276 20 93,s408102@schule-ooe.at,https://sms-peuerbach.at,Herr Josef Wagner,Nižší střední škola
+408111,Volksschule Haag,Lambacherstraße 29,4680,Haag a.H.,07732 23 77,s408111@schule-ooe.at,http://www.vshaagamhausruck.at,Frau Judith Anzengruber,Základní škola
+408112,Mittelschule Pram,Marktstraße 2,4742,Pram,07736 62 51,s408112@schule-ooe.at,https://ms-pram.at,Frau Barbara Binder,Nižší střední škola
+408121,Volksschule Heiligenberg,Schulstraße 5,4733,Heiligenberg,07277 24 43,s408121@schule-ooe.at,https://www.vsheiligenberg.at/,Frau Andrea Märzendorfer,Základní škola
+408122,Mittelschule Waizenkirchen,Hueberstraße 18,4730,Waizenkirchen,07277 22 03,s408122@schule-ooe.at,https://www.nmswaizenkirchen.at,Herr Alfred Hehenberger,Nižší střední škola
+408131,Volksschule Hofkirchen,Hauptstraße 26,4716,Hofkirchen a.d. Trattnach,07734 22 96,s408131@schule-ooe.at,http://schulen.eduhi.at/vs.hofkirchen,Frau Doris Voraberger,Základní škola
+408141,Volksschule Kallham,Kallham 21,4720,Kallham,07733 61 90,s408141@schule-ooe.at,https://vs-kallham.jimdofree.com,,Základní škola
+408142,Mittelschule Hofkirchen,Hauptstraße 28,4716,Hofkirchen a.d. Trattnach,07734 20 63,s408142@schule-ooe.at,http://https://www.mshofkirchen.at,Frau Silvia Pichler,Nižší střední škola
+408151,Volksschule Kematen,Innbachtalstraße 67,4633,Kematen/I.,07247 66 22,s408151@schule-ooe.at,,Frau Elisabeth Kolb,Základní škola
+408162,Mittelschule St. Agatha,Schulweg 1,4084,St. Agatha,07277 83 61,s408162@schule-ooe.at,http://http://nms2.schule-agatha.at/,Herr Thomas Ferchhumer,Nižší střední škola
+408241,Volksschule Pötting,Pötting 22,4720,Pötting,07733 72 85-15,s408241@schule-ooe.at,https://vs-poetting.jimdofree.com/about/,Frau Birgit Hinterberger,Základní škola
+408251,Volksschule Pollham,Pollham 34,4710,Pollham,07248 687 05,s408251@schule-ooe.at,http://schulen.eduhi.at/vspollham,Frau Sandra Lehner,Základní škola
+408261,Volksschule Pram,Schulstraße 3,4742,Pram,07736 62 65,s408261@schule-ooe.at,http://www.vspram.eduhi.at,Herr Peter Klein,Základní škola
+408271,Volksschule Rottenbach,Mösenpoint 2,4681,Rottenbach,07732 23 40,s408271@schule-ooe.at,https://vs-rottenbach.jimdofree.com,,Základní škola
+408281,Volksschule St. Agatha,Stauffstraße 7,4084,St. Agatha,07277 82 66,s408281@schule-ooe.at,http://www.schule-agatha.at,Herr Robert Krenn,Základní škola
+408291,Volksschule St. Georgen,St. Georgen 31,4710,St. Georgen,07248 627 41,s408291@schule-ooe.at,https://vsstgeorgengrieskirchen.jimdofree.com,Frau Irmgard Brandner,Základní škola
+408311,Volksschule St. Thomas,St. Thomas 19,4732,St. Thomas,07277 72 21,s408311@schule-ooe.at,https://vs-sankt-thomas.jimdo.com,Herr Markus Schlager-Weidinger,Základní škola
+408321,Volksschule Taufkirchen,Taufkirchen 44,4715,Taufkirchen a.d. Trattnach,07734 26 57,s408321@schule-ooe.at,https://taufkirchen.at/gemeinde/schulen/volksschule/,Herr Konstantin Schlager-Weidinger,Základní škola
+408331,Volksschule Waizenkirchen,Lederergasse 1,4730,Waizenkirchen,07277 22 19,s408331@schule-ooe.at,http://www.volksschule-waizenkirchen.at,Frau Eva Maria Schweitzer,Základní škola
+408341,Volksschule Wallern,Binderweg 1,4702,Wallern an der Trattnach,07249 481 28,s408341@schule-ooe.at,https://www.vs-wallern.com,Herr Franz Weismann,Základní škola
+408351,Volksschule Weibern,Schulgasse 1,4675,Weibern,07732 25 24,s408351@schule-ooe.at,https://www.weibern.at/Volksschule,Frau Carolin Gumpinger,Základní škola
+408427,Höhere Technische Bundeslehranstalt Grieskirchen,Parzer Schulstraße 1,4710,Grieskirchen,07248 643 150,office@htl-grieskirchen.at,http://htl-grieskirchen.eduhi.at,Herr Torsten Welsch,Technická škola
+408631,Volksschule Wendling,Schulstraße 6,4741,Wendling,07736 61 01,s408631@schule-ooe.at,https://www.vs-wendling.at,Herr Stefan Reisinger,Základní škola
+408641,Volksschule Kimpling,Kimpling 25,4720,Kimpling,07733 62 53,s408641@schule-ooe.at,https://vs-kimpling.jimdofree.com,,Základní škola
+408651,Volksschule Meggenhofen,Meggenhofen 33,4714,Meggenhofen,07247 72 63,s408651@schule-ooe.at,http://schulen.eduhi.at/vsmeggenhofen,Frau Julia Humel,Základní škola
+408661,Volksschule Michaelnbach,Grieskirchner Straße 6,4712,Michaelnbach,07277 25 55-131,s408661@schule-ooe.at,https://www.michaelnbach.at/BUeRGERSERVICE/Bildungseinrichtungen/Volksschule_Michaelnbach,Frau Barbara Zauner,Základní škola
+408671,Volksschule Natternbach,Vischerstraße 4,4723,Natternbach,07278 82 50,s408671@schule-ooe.at,https://www.natternbach.at/Volksschule_Natternbach,Frau Barbara Mairinger,Základní škola
+408681,Volksschule Neukirchen<br>Dr. Josef Ratzenböck Schulzentrum,Pühretstraße 14,4724,Neukirchen am Walde,07278 32 35,s408681@schule-ooe.at,https://neukirchenwalde.riskommunal.net/Volksschule_14,Frau Hildegard Dunzinger,Základní škola
+408691,Volksschule Neumarkt,Schulstraße 18,4720,Neumarkt im Hausruckkreis,07733 72 57,s408691@schule-ooe.at,http://www.vs-neumarkt-hausruck.at,Frau Erika Brandstädter,Základní škola
+408701,Georg-von-Peuerbach-Volksschule,Schulplatz 1,4722,Peuerbach,07276 23 71,s408701@schule-ooe.at,https://www.vspeuerbach.at,Frau Andrea Märzendorfer,Základní škola
+408710,Landw. Berufs- und Fachschule Waizenkirchen,Linzer Straße 2,4730,Waizenkirchen,07277 24 94,LWBFS-Waizenkirchen.Post@ooe.gv.at,http://https://www.ooe-landwirtschaftsschulen.at/879_DEU_HTML.htm,Herr Walter Raab,Zemědělská škola
+408711,Volksschule Schlüßlberg,Schulgasse 1,4707,Schlüßlberg,07248 616 63,s408711@schule-ooe.at,,Frau Elisabeth Hörtenhuber-Treben,Základní škola
+409012,Mittelschule Grünburg,Messererstraße 4,4594,Grünburg,07257 73 03,s409012@schule-ooe.at,https://www.ms-gruenburg.at,Herr Michael Schaupp,Nižší střední škola
+409013,Allgem. Sonderschule Micheldorf,Welser Straße 4,4563,Micheldorf,07582 626 24,s409013@schule-ooe.at,https://www.micheldorf.at/Allg_Sonderschule_Micheldorf,Herr Wolfram Lehner,Speciální škola
+409016,Schulverein des Benediktinerstiftes Kremsmünster,Stift 10,4550,Kremsmünster,07583 52 75-400,s409016@bildung.gv.at,http://www.stift-kremsmuenster.at/gym,Herr Klemens Keplinger,Všeobecná střední škola (gymnázium)
+409021,Volksschule Grünburg,Schulstraße 6,4593,Obergrünburg,07257 82 19,s409021@schule-ooe.at,http://schulen.eduhi.at/vsgruenburg,Herr Gunther Lehner,Základní škola
+409026,Schulverein Stiftsgymnasium Schlierbach,Klosterstraße 1,4553,Schlierbach,07582 830 13-141,s409026@bildung.gv.at,http://www.gymschlierbach.eduhi.at/,Herr Jürgen Rathmayr,Všeobecná střední škola (gymnázium)
+409032,Mittelschule Kremsmünster,Schulstraße 5,4550,Kremsmünster,07583 52 24,s409032@schule-ooe.at,http://hauptschule.kremsmuenster.at,Herr Michael Gerstmayr,Nižší střední škola
+409034,Polytechnische Schule Kirchdorf,Ertlstraße 4,4560,Kirchdorf an der Krems,07582 622 93,s409034@schule-ooe.at,http://schulen.eduhi.at/pts-kdf,Herr Johann Huber,Polytechnická škola
+409035,Berufsschule Kremsmünster,Kirchberg 8,4550,Kremsmünster,0732 7720-356 00,bs-kremsmuenster.post@ooe.gv.at,http://www.bs-kremsmuenster.ac.at,Herr Roland Brenner,Odborné učiliště
+409036,Bundesrealgymnasium und Bundesoberstufenrealgymnasium Kirchdorf,Weinzierler Straße 22,4560,Kirchdorf an der Krems,07582 623 74,s409036@bildung.gv.at,http://www.gym.kirchdorf.eduhi.at,Herr Alois Lugerbauer,Všeobecná střední škola (gymnázium)
+409041,Volksschule Hinterstoder,Hinterstoder 35,4573,Hinterstoder,07564 51 55,s409041@schule-ooe.at,http://https://www.hinterstoder.ooe.gv.at/Volksschule_Hinterstoder_3,,Základní škola
+409042,Mittelschule Pettenbach,Scharnsteiner Straße 5,4643,Pettenbach,07586 60 15-10,s409042@schule-ooe.at,http://www.nms-pettenbach.at,Herr Karl Schachinger,Nižší střední škola
+409052,MINT-Mittelschule Wartberg an der Krems,Schulstraße 10,4552,Wartberg a.d.Kr.,07587 76 56,s409052@schule-ooe.at,https://www.ms-wartberg.at,Herr Dietmar Meran,Nižší střední škola
+409061,Volksschule Inzersdorf,Kirchenplatz 1,4565,Inzersdorf,07582 375 64,s409061@schule-ooe.at,,Frau Doris Hasenleithner,Základní škola
+409062,Mittelschule Windischgarsten,Schulstraße 18,4580,Windischgarsten,07562 53 49-20,s409062@schule-ooe.at,http://www.neue-mittelschule.com,Herr Stefan Grill,Nižší střední škola
+409071,Volksschule Kirchberg,Kirchberg 19,4550,Kremsmünster,07583 53 08,s409071@schule-ooe.at,https://www.vs-kirchberg.com,Frau Karin Kammerhuber,Základní škola
+409072,Mittelschule Molln,Schulstraße 11,4591,Molln,07584 26 75,s409072@schule-ooe.at,https://nms-molln.edupage.org/,Frau Olivia Rodleitner,Nižší střední škola
+409081,Volksschule Kirchdorf,Parkstraße 9,4560,Kirchdorf an der Krems,07582 610 41-30,s409081@schule-ooe.at,https://volksschule-kirchdorf.at/,Frau Christine Barbara Kerschbaummayr,Základní škola
+409082,Kreativ-Musikmittelschule Kirchdorf (KMMK),Adalbert-Stifterstraße 4,4560,Kirchdorf an der Krems,07582 622 38 - 620,s409082@schule-ooe.at,https://nms-kirchdorf.at/,Herr Andreas Kaiserreiner,Nižší střední škola
+409101,Volksschule Klaus<br>Musikvolksschule,Klaus a.d. Pyhrnbahn 80,4564,Klaus a.d. Pyhrnbahn,07585 224,s409101@schule-ooe.at,http://http://www.volksschule-klaus.at,Frau Andrea Stadler,Základní škola
+409102,Sportmittelschule 3 Windischgarsten<br>Skimittelschule,Schulstraße 18,4580,Windischgarsten,07562 71 00,s409102@schule-ooe.at,https://www.ski-mittelschule.at/,Herr Markus Gattinger,Nižší střední škola
+409111,Volksschule Kremsmünster,Schulstraße 7,4550,Kremsmünster,07583 52 23,s409111@schule-ooe.at,http://vskremsmuenster.schule.at,Herr Clemens Konrad,Základní škola
+409121,Volksschule Krühub,Guntendorf 32,4550,Kremsmünster,07583 85 90,s409121@schule-ooe.at,https://www.kremsmuenster.at/Volksschule_Kruehub_6,Frau Karin Felbermair,Základní škola
+409131,"""Freie Schule Kremstal"" des Vereins Bildungswerkstatt Kremstal",Magdalenabergstraße 29,4643,Pettenbach,0680 4404839,s409131@schule-ooe.at,http://www.freieschule-kremstal.at,,Základní škola
+409151,Volksschule Micheldorf,Franz-Aigner-Straße 20,4563,Micheldorf,07582 622 09,s409151@schule-ooe.at,https://www.vsmicheldorf.at,Herr Markus Schmidhuber,Základní škola
+409161,Volksschule Mitterweng,Mitterweng 1,4582,Spital a.P.,07562 87 67,s409161@schule-ooe.at,http://www.edlbach.at/Volksschule_Mitterweng/Lehrer_der_VS_Mitterweng,Frau Susanne Eva Hofstätter,Základní škola
+409171,"""Schule an der Alm"" des ""Vereins zur Förderung von ganzheitlichem Lernen mit der Natur""",Eggensteinstraße 49,4643,Pettenbach,0664 730 998 48,s409171@schule-ooe.at,,Frau Angela Steiner,Základní škola
+409181,Volksschule Nußbach,Hauptstraße 45,4542,Nußbach,07587 82 55-410,s409181@schule-ooe.at,http://vs-nussbach.schulweb.at/,Frau Gabriele Schmidhuber,Základní škola
+409191,"Privatschule ""KINDER  im Mittelpunkt – Raum für lebendiges Lernen"" des Vereins ""LEBEN  im  Mittelpunkt - Verein für Einklang von Körper, Geist und Seele""",Marktplatz 13,4550,Kremsmünster,,s409191@schule-ooe.at,https://lebenimmittelpunkt.at,,Základní škola
+409201,Volksschule Pettenbach,Scharnsteiner Straße 3,4643,Pettenbach,07586 72 24,s409201@schule-ooe.at,https://www.volksschule-pettenbach.at,Frau Heidi Rohrauer,Základní škola
+409231,Volksschule Ried,Hauptstraße 30,4551,Ried im Traunkreis,07588 72 24,s409231@schule-ooe.at,https://www.ried-traunkreis.at/Volksschule,Frau Theresa Ruzicka,Základní škola
+409241,Volksschule Rosenau,Hauptstraße 24,4581,Rosenau,07566 203,s409241@schule-ooe.at,http://http://vsrosenau.ac.at,,Základní škola
+409251,Volksschule Roßleithen,4575 Roßleithen 20,4575,Roßleithen,07562 75 24,s409251@schule-ooe.at,https://www.rossleithen.at/Volksschule,Frau Ingeborg Pölz,Základní škola
+409261,Kreativ-Volksschule Schlierbach,Stiftsstraße 3,4553,Schlierbach,07582 812 24,s409261@schule-ooe.at,https://www.schlierbach.at/Kreativvolksschule_Schlierbach,,Základní škola
+409271,Volksschule Spital,Weinmeisterstraße 11,4582,Spital a.P.,07563 283,s409271@schule-ooe.at,http://www.spitaler-volks.schule,Frau Birgit Pecnik-Sartory,Základní škola
+409281,Volksschule Steinbach,Schulstraße 21,4596,Steinbach a.d. Steyr,07257 72 68,s409281@schule-ooe.at,http://volksschulesteinbachandersteyr.jimdo.com,Frau Gertraud Seirlehner,Základní škola
+409291,Volksschule Steinbach,Spießengraben 2,4562,Steinbach a. Ziehberg,07582 72 94,s409291@schule-ooe.at,https://vssteinbach.jimdofree.com/,Frau Ingrid Fürweger,Základní škola
+409301,Volksschule Steyrling,Steyrling 107,4571,Steyrling,07585 82 05,s409301@schule-ooe.at,http://www.gemeinde-klaus.at/gemeinde/gemeindeeinrichtungen/volksschule-steyrling,Frau Edith Keiblinger,Základní škola
+409311,Volksschule Vorderstoder,Dorf 181,4574,Vorderstoder,07564 82 55-16,s409311@schule-ooe.at,https://www.vorderstoder.ooe.gv.at/Lehrerinnen,,Základní škola
+409321,Volksschule Wartberg,Schulstraße 10,4552,Wartberg a.d.Kr.,07587 76 56-30,s409321@schule-ooe.at,http://vswartbergkrems.jimdo.com,Frau Romana Edlinger,Základní škola
+409331,Volksschule Windischgarsten,Gleinkerseestraße 15,4580,Windischgarsten,07562 53 50,s409331@schule-ooe.at,http://https://www.windischgarsten.at/Volksschule,Frau Andrea Secklehner,Základní škola
+409341,Volksschule Leonstein,Badstraße 26,4592,Leonstein,07584 22 84,s409341@schule-ooe.at,http://schulen.eduhi.at/vsleonstein,Herr Gunther Lehner,Základní škola
+409351,Volksschule Molln,Schulstraße 10,4591,Molln,07584 24 12,s409351@schule-ooe.at,http://www.vsmolln.eduhi.at,,Základní škola
+409361,Volksschule St. Pankraz,St. Pankraz 15,4572,St. Pankraz,07565 231,s409361@schule-ooe.at,https://www.schule.at/schulfuehrer,,Základní škola
+409418,Bundeshandelsakademie Kirchdorf,Weinzierler Str. 22,4560,Kirchdorf an der Krems,07582 606 81,s409418@bildung.gv.at,https://www.hakhlw-kirchdorf.at,Frau Claudia Trinko,Obchodní škola
+409439,Höhere Bundeslehranstalt für wirtschaftliche Berufe Kirchdorf,Weinzierler Str. 22,4560,Kirchdorf an der Krems,07582 606 810,s409439@bildung.gv.at,https://www.hakhlw-kirchdorf.at,Frau Claudia Trinko,Humanitně zaměřená škola
+409710,Landw. Berufs- und Fachschule Schlierbach,Klosterstraße 11,4553,Schlierbach,0732 77 20-34200,lwbfs-schlierbach.post@ooe.gv.at,https://www.ooe-landwirtschaftsschulen.at/877_DEU_HTML.htm,Herr Martin Faschang,Zemědělská škola
+410012,Mittelschule 1 Haid<br>Hauptschule für EDV und kreatives Gestalten,Schulstraße 7,4053,Ansfelden,07229 882 04,s410012@schule-ooe.at,http://schulen.eduhi.at/hs1haid,Frau Anita Jovic,Nižší střední škola
+410013,Allgem. Landessonderschule 1 für lernschwache und leistungsbehinderte Kinder im Kinderdorf St. Isidor<br>Peter Petersen-Landesschule,Kinderdorf St. Isidor,4060,Leonding,0732  674201-7420,s410013@schule-ooe.at,http://www.lss-isidor.ac.at/,Frau Claudia Gabriele Girardi,Speciální škola
+410014,Polytechnische Schule Traun,Untere Dorfstraße 145,4050,Traun,07229 612 44,s410014@schule-ooe.at,http://schulen.eduhi.at/pts-traun,Herr Martin Veigl,Polytechnická škola
+410016,Stiftsgymnasium Wilhering,Linzer Straße 8,4073,Wilhering,07226 23 11-31,s410016@bildung.gv.at,http://www.sgwilhering.at,Herr Karl Haudum,Všeobecná střední škola (gymnázium)
+410021,Volksschule Allhaming,Allhaming 38,4511,Allhaming,07227 70 68,s410021@schule-ooe.at,https://www.volksschule.at/allhaming,Frau Anita Kretschmer,Základní škola
+410022,Mittelschule 1 Enns,Maria Anger 6,4470,Enns,07223 826 14-400,s410022@schule-ooe.at,https://www.mms-enns.at/,Frau Anita Reischl,Nižší střední škola
+410026,Bundesrealgymnasium Traun,Schulstraße 59,4050,Traun,07229 62288,s410026@bildung.gv.at,http://www.brgtraun.at,Herr Christian Rad,Všeobecná střední škola (gymnázium)
+410031,Volksschule Ansfelden,Anton Brucknerstraße 10,4052,Ansfelden,07229 880 24-1,s410031@schule-ooe.at,http://www.vsansfelden.at/,Frau Alexandra Stephanie Pannagger,Základní škola
+410032,Mittelschule Hörsching,Franz-Jungmeir-Straße 5,4063,Hörsching,07221 720 17 11,s410032@schule-ooe.at,https://www.ms-hoersching.at,Frau Adelheid Osawaru-Konrad,Nižší střední škola
+410033,Integratives Schulzentrum Traun,Schulstraße 11,4050,Traun,07229 655 06,s410033@schule-ooe.at,http://isz-traun.at/,Frau Frauke Wögerbauer,Speciální škola
+410034,Polytechnische Schule Leonding,Limesstraße 6,4060,Leonding,0732 671 482-10,s410034@schule-ooe.at,https://www.psleonding.at,Herr Klaus Denkmair,Polytechnická škola
+410041,Volksschule Asten,Schulstraße 7,4481,Asten,07224 663 81-4013,s410041@schule-ooe.at,https://www.vs.asten.at/,Frau Sabine Samhaber-Laskowski,Základní škola
+410042,Musikmittelschule Leonding,Ruflingerstraße 14,4060,Leonding,0732 672 120,s410042@schule-ooe.at,http://schulen.eduhi.at/mhsleonding,Frau Martina Prinz,Nižší střední škola
+410046,Bundesgymnasium und Bundesrealgymnasium Enns,Hanuschstraße 27,4470,Enns,,s410046@bildung.gv.at,http://www.brgenns.ac.at,Herr Werner Dietl,Všeobecná střední škola (gymnázium)
+410051,Volksschule Kremsdorf,Volksheimstraße 11,4053,Haid,07229 840 63 10,s410051@schule-ooe.at,https://www.ansfelden.at/leben/schulen/vs-kremsdorf/,Frau Elisabeth Harbauer,Základní škola
+410053,Landesschulzentrum für Bewegung und Sprache St. Isidor<br>Sonderschule für körperbehinderte Kinder; Sprachförderklassen,St. Isidor 17,4060,Leonding,0732 674 296-7466,s410053@schule-ooe.at,http://www.lszbs-isidor.ac.at,Herr Christian Berndorfer,Speciální škola
+410056,Privates Realgymnasium Leonding,Haidfeldstraße 31,4060,Leonding,0732/272229,s410056@bildung.gv.at,https://www.leonding.at/leben-freizeit/schule-bildung/digitalisierungs-ahs,Herr Andreas Riedl,Všeobecná střední škola (gymnázium)
+410061,Volksschule Doppl,Haidfeldstraße 29,4060,Leonding,0732 682 094-10,s410061@schule-ooe.at,http://www.vsdoppl.eduhi.at,Frau Maria Kindsthaler,Základní škola
+410062,Mittelschule St. Florian,Wienerstraße 44,4490,St. Florian,07224 42 40-10,s410062@schule-ooe.at,http://https://www.msstflorian.at/,Frau Berta Denkmair,Nižší střední škola
+410063,Allgem. Sonderschule Hart,Limesstraße 6,4060,Leonding,0732 671 541-40,s410063@schule-ooe.at,https://www.besondereschule.at/,Frau Susanne Ebenberger,Speciální škola
+410072,Musikmittelschule Traun,Schulstraße 11,4050,Traun,07229 655 07-11,s410072@schule-ooe.at,http://www.nms-traun.at,Herr Daniel Arnold Blumenschein,Nižší střední škola
+410081,Volksschule Dörnbach,Dörnbacherstraße 115,4073,Wilhering,07221 881 34,s410081@schule-ooe.at,http://www.vs-doernbach.eduhi.at,Frau Margit Mittermaier,Základní škola
+410091,Volksschule Eggendorf,Kirchengasse 3,4622,Eggendorf i.T.,07228 72 90,s410091@schule-ooe.at,https://www.volksschule.at/eggendorf,Frau Anita Kretschmer,Základní škola
+410092,Mittelschule Doppl,Haidfeldstraße 31,4060,Leonding,0732 682 092,s410092@schule-ooe.at,https://www.nmsdoppl.at/,Frau Gabriele Haider,Nižší střední škola
+410094,Polytechnische Schule Enns,Hanuschstraße 25,4470,Enns,07223 815 15,s410094@schule-ooe.at,http://http://www.ptsenns.eduhi.at/,Herr Christoph Weiss,Polytechnická škola
+410101,Volksschule Enns<br>Volksschule mit musikalischer Schwerpunktsetzung,Kirchenplatz 4,4470,Enns,07223 825 18-12,s410101@schule-ooe.at,http://www.vs1enns.eduhi.at,Frau Regina Oberreiter,Základní škola
+410112,Mittelschule Pasching,Stifterstraße 29,4061,Pasching,07229 640 49,s410112@schule-ooe.at,http://www.nmspasching.at,Frau Ingrid Sayer,Nižší střední škola
+410121,Volksschule Haid,Schulstraße 5,4053,Haid,07229 840 62 10,s410121@schule-ooe.at,http://www.vshaid.ansfelden.at/unsere-schule/,Herr Bernhard Hölzl,Základní škola
+410122,Mittelschule St. Martin,Untere Dorfstraße 145,4050,Traun,07229 732 08,s410122@schule-ooe.at,http://schulen.eduhi.at/stmartintraun,Frau Heide Dachs-Wiesinger,Nižší střední škola
+410131,Volksschule Hargelsberg,Gemeindeplatz 4,4483,Hargelsberg,07225 205 02,s410131@schule-ooe.at,https://www.hargelsberg.ooe.gv.at/volksschule,Frau Carola Griebler,Základní škola
+410132,Musikmittelschule Niederneukirchen<br>Musikmittelschule,Schulstraße 6,4491,Niederneukirchen,07224 70 18,s410132@schule-ooe.at,http://https://www.mms-nnk.at/,Herr Roland Mokry,Nižší střední škola
+410141,Volksschule Hofkirchen,Dorfplatz 4,4492,Hofkirchen im Traunkreis,07225 72 72-35,s410141@schule-ooe.at,https://vshofkirchen.at,Frau Evelyn Riener,Základní škola
+410142,Mittelschule Lauriacum Enns,Hanuschstraße 25,4470,Enns,07223 824 74,s410142@schule-ooe.at,http://www.nms-lauriacum.at,Frau Petra Partinger,Nižší střední škola
+410151,Käthe-Recheis-Volksschule Hörsching,Schulstraße 3,4063,Hörsching,07221 724 12,s410151@schule-ooe.at,http://www.vs-hoersching.at,Frau Doris Moser,Základní škola
+410152,Sportmittelschule 2 Haid<br>Walter Wimmer Schule,Dr.-Adolf-Schärf-Straße 23,4053,Haid,07229 840 66 10,s410152@schule-ooe.at,http://https://www.ansfelden.at/leben/schulen/mittelschule-haid-ii/,Frau Martha Mann,Nižší střední škola
+410161,Volksschule Kematen,Schulstraße 20,4531,Kematen a.d. Krems,07228 72 19,s410161@schule-ooe.at,http://vskematen.jimdo.com,Frau Lisa Hosinger,Základní škola
+410162,Anton Bruckner Mittelschule Ansfelden,Haiderstraße 8,4052,Ansfelden,07229 8406410,s410162@schule-ooe.at,,Herr Dietmar Lackner,Nižší střední škola
+410171,Volksschule Kirchberg-Thening,Pfarrgasse 1,4062,Thening,07221 631 26,s410171@schule-ooe.at,http://vskirchberg-thening.jimdo.com,Frau Tanja Ranner,Základní škola
+410172,Mittelschule Hart,Limesstraße 2,4060,Leonding,0732 671 536-20,s410172@schule-ooe.at,http://http://www.nmshart.at/schule/,Frau Elisabeth Rumetshofer,Nižší střední škola
+410181,Anton Bruckner Volksschule Kronstorf,Hauptstraße 58,4484,Kronstorf,07225 83 31,s410181@schule-ooe.at,http://vskronstorf.jimdo.com,Frau Daniela Posch,Základní škola
+410191,<br>Volksschule Leonding,Alhartinger Weg 8,4060,Leonding,0732 672 841-10,s410191@schule-ooe.at,https://vsleonding.at/,Frau Dagmar Pree,Základní škola
+410201,Volksschule Neuhofen,Schulstraße 5,4501,Neuhofen an der Krems,,s410201@schule-ooe.at,http://vsneuhofen.jimdo.com/,Frau Doris Panhuber,Základní škola
+410202,Mittelschule Neuhofen,Brucknerstraße 4,4501,Neuhofen a.d.Kr.,07227 65 55-21,s410202@schule-ooe.at,https://nms-neuhofen.at,Herr Erich Grasegger,Nižší střední škola
+410221,Volksschule Niederneukirchen,Schulstraße 1,4491,Niederneukirchen,07224 70 70,s410221@schule-ooe.at,http://schulen.eduhi.at/vs-niederneukirchen,Frau Gerda Stumptner,Základní škola
+410231,Volksschule Oftering,Ofteringer Straße 8,4064,Oftering,07221 634 12,s410231@schule-ooe.at,http://www.oftering.at,Frau Sonja Anreiter,Základní škola
+410241,Volksschule Pasching,Westzeile 12,4061,Pasching,07221 880 41,s410241@schule-ooe.at,http://vspasching.jimdo.com,Frau Birgit Maringer,Základní škola
+410251,Volksschule Pucking,Puckinger Straße 8,4055,Pucking,072298871412,s410251@schule-ooe.at,http://vspucking.eduhi.at,Frau Karin Gillesberger,Základní škola
+410261,Volksschule Schönering,Schulstraße 4,4073,Wilhering,07226 22 90,s410261@schule-ooe.at,http://www.vsschoenering.at,Frau Verena Harbauer,Základní škola
+410271,Volksschule St. Florian<br>Kaiser-Franz-Josef-Schule,Linzer Straße 24,4490,St. Florian,07224 434 110,s410271@schule-ooe.at,https://vs-st-florian.jimdo.com,Frau Eva Maria Pühringer-Strutzenberger,Základní škola
+410281,Volksschule St. Marien,St. Marien b. Neuhofen 36,4502,St. Marien b. Neuhofen,07227 81 59-10,s410281@schule-ooe.at,http://www.schulverzeichnis.eu/schule/5217-volksschule-sankt-marien-bei-neuhofen/,Frau Andrea Hietler,Základní škola
+410291,Volksschule St. Dionysen,Weidfeldstraße 104,4050,Traun,07229 720 70,s410291@schule-ooe.at,https://www.vs-dionysen.com,Frau Michaela Weger,Základní škola
+410301,Volksschule Traun-St. Martin,Untere Dorfstraße 147,4050,Traun,07229 612 51,s410301@schule-ooe.at,http://www.vs-stmartin-traun.at,Frau Ulrike Fellinger,Základní škola
+410311,Volksschule Langholzfeld,Adalbert Stifterstraße 27,4061,Pasching,07229 640 90,s410311@schule-ooe.at,http://www.volksschule-langholzfeld.at,Herr Bernhard Brunbauer,Základní škola
+410331,Volksschule Traun,Linzerstraße 7,4050,Traun,07229 904 38,s410331@schule-ooe.at,https://www.vs-traun.at/,Frau Gabriele Bettina Bachler-Thurner,Základní škola
+410341,Volksschule Weichstetten,Weichstetten West 22,4502,St. Marien b. Neuhofen,07227 83 25,s410341@schule-ooe.at,http://vsweichstetten.eduhi.at,Frau Andrea Hietler,Základní škola
+410351,Volksschule Wilhering,Höfer Straße 4,4073,Wilhering,07226 35 57,s410351@schule-ooe.at,https://vswilhering.wordpress.com,Frau Ute Heisler-Wöß,Základní škola
+410361,Volksschule Oedt,Traunerstraße 80,4050,Traun,07229 730 72,s410361@schule-ooe.at,https://vsoedt.at/,Frau Astrid Koch,Základní škola
+410371,Volksschule Hart,Limesstraße 4,4060,Leonding,0732 671 742-30,s410371@schule-ooe.at,https://vshart.at/,Frau Meike Fux,Základní škola
+410381,Volksschule Haag,Herderstraße 36,4060,Leonding,0732 677 644-10,s410381@schule-ooe.at,https://vs-haag.jimdofree.com,Frau Birgit Engleder,Základní škola
+410411,"Privatschule ""KOSMO Montessori-Schule"" des Vereins ""KOSMO Montessori-Schule für selbstbestimmtes Lernen""",Oberbucher Straße 13/3,4064,Oftering,,s410411@schule-ooe.at,,,Základní škola
+410418,Bundeshandelsakademie und Bundeshandelsschule Traun,Schulstraße 59,4050,Traun,07229 736 86,s410418@bildung.gv.at,http://haktraun.at/,Frau Beate Schmölzer-Kroiß,Obchodní škola
+410421,Volksschule Piberbach,Hofweidenstraße 2,4533,Piberbach,,s410421@schule-ooe.at,,Frau Romana Reisinger,Základní škola
+410427,Höhere Technische Bundeslehranstalt Leonding,Limesstraße 12-14,4060,Leonding,0732 673 368-0,s410427@bildung.gv.at,http://www.htl-leonding.ac.at,Herr Richard Kainerstorfer,Technická škola
+410457,Höhere technische Bundeslehranstalt für Informations- und Kommunikationstechnologie und Bundesfachschule für Informationstechnik,Bahnhofstraße 52,4050,Traun,07229 623 11,s410457@bildung.gv.at,http://www.htltraun.at,Frau Doris Riha,Technická škola
+410720,Landw. Berufs- und Fachschule Ritzlhof,Kremstalstraße 125,4053,Ansfelden,07229 883 12,lwbfs-ritzlhof.post@ooe.gv.at,https://www.ooe-landwirtschaftsschulen.at/728_DEU_HTML.htm,Herr Wolfgang Eder,Zemědělská škola
+410730,Höhere landwirtschaftliche Bundeslehranstalt St. Florian,Fernbach 37,4490,St. Florian,07224 89 17,sekretariat@hlbla-florian.at,http://www.hlbla-florian.at,,Zemědělská škola
+411011,Volksschule Allerheiligen,Allerheiligen 5,4320,Allerheiligen i.M.,07262 583 77,s411011@schule-ooe.at,http://www.vs-allerheiligen-mkr.at/,Herr Hansjörg Wild,Základní škola
+411012,IT-Mittelschule und Polytechnische Schule Grein,Groißgraben 2,4360,Grein,07268 70 46-14,s411012@schule-ooe.at,https://www.hitgrein.eduhi.at,Herr Andreas Kastenhofer,Nižší střední škola
+411013,Allgem. Sonderschule Langenstein,Schulstraße 6,4222,Langenstein,07237 20 05,s411013@schule-ooe.at,https://www.langenstein-aso.com/,Frau Brigita Bevanda,Speciální škola
+411016,Bundesoberstufenrealgymnasium Perg,Dirnbergerstraße 43,4320,Perg,07262 522 57,s411016@bildung.gv.at,http://www.borg-perg.ac.at,Herr Wolfgang Hackner,Všeobecná střední škola (gymnázium)
+411021,Volksschule Arbing,Schlossberg 4,4341,Arbing,07269 377,s411021@schule-ooe.at,https://www.arbing.at/Volksschule,Frau Georgine Wagner,Základní škola
+411022,Sportmittelschule Bad Kreuzen,Bad Kreuzen 122,4362,Bad Kreuzen,07266 63 21,s411022@schule-ooe.at,http://https://www.smsbk.at/,Frau Evelin Huber,Nižší střední škola
+411026,"Gymnasium des Schulvereins ""Europagymnasium vom Guten Hirten"" Baumgartenberg",Baumgartenberg 1,4342,Baumgartenberg,07269 75 51,s411026@bildung.gv.at,http://www.eurogym.info,Frau Verena Schuster-Schedlberger,Všeobecná střední škola (gymnázium)
+411031,Volksschule Baumgartenberg,Baumgartenberg 56,4342,Baumgartenberg,07269 297,s411031@schule-ooe.at,https://vsbaumgartenberg.jimdofree.com/,Herr Johannes Holl,Základní škola
+411032,Mittelschule Pabneukirchen,Lernstraße 77,4363,Pabneukirchen,07265 52 04,s411032@schule-ooe.at,https://schulverbund-klingenberg.at/,Frau Doris Kurus,Nižší střední škola
+411041,Volksschule Dimbach,Dimbach 2,4371,Dimbach,07260 75 07-25,s411041@schule-ooe.at,http://vs.dimbach.eduhi.at,Herr Christian Geyrhofer,Základní škola
+411042,Mittelschule Mauthausen,Josef Czerwenka-Straße 2,4310,Mauthausen,07238 22 63,s411042@schule-ooe.at,https://www.nmsmauthausen.at,Frau Sabine Bauernfeind,Nižší střední škola
+411044,Polytechnische Schule Perg,Dirnbergerstraße 45,4320,Perg,07262 571 01-11,s411044@schule-ooe.at,http://schulen.eduhi.at/pts_perg,Herr Thomas Katzenschläger,Polytechnická škola
+411051,Volksschule Grein,Kirchenplatz 3,4360,Grein,07268 31811,s411051@schule-ooe.at,http://schulen.eduhi.at/vs.grein/,Frau Petra Killinger,Základní škola
+411052,Mittelschule Perg Stadtzentrum,Linzerstraße 18,4320,Perg,07262 525 89,s411052@schule-ooe.at,http://hs1.perg.at,Frau Judith Valtl,Nižší střední škola
+411061,Volksschule - Dietmar von Aist,Hochstraß 60,4312,Ried in d. Riedmark,07236 209 50,s411061@schule-ooe.at,http://schulen.eduhi.at/vshochstrass,Herr Philipp Heimel,Základní škola
+411062,Mittelschule Naarn,Pergerstraße 12,4331,Naarn i. Machland,07262 587 97,s411062@schule-ooe.at,http://https://www.msnaarn.at/,Frau Anna Maria Lettner,Nižší střední škola
+411071,Volksschule Katsdorf,Schulweg 1,4223,Katsdorf,0650/86 21 331,s411071@schule-ooe.at,http://www.vs-katsdorf.schule,Frau Karin Aigner,Základní škola
+411072,Mittelschule Ried in der Riedmark,Schulstraße 1,4312,Ried in d. Riedmark,07238 55 18-11,s411072@schule-ooe.at,http://www.c-m-c.at,Herr Philipp Heimel,Nižší střední škola
+411081,Volksschule Klam,Klam 52,4352,Klam,07269 72 19,s411081@schule-ooe.at,http://www.klam.at/system/web/notvalid.aspx?code=404,Frau Bianca Elisabeth Spiegl,Základní škola
+411082,Mittelschule St. Georgen,Mauthausenerstraße 44,4222,St. Georgen a.d. Gusen,07237 22 78,s411082@schule-ooe.at,https://www.msptsgg.at,Herr Wolfgang Zeiml,Nižší střední škola
+411091,Volksschule Bad Kreuzen,Bad Kreuzen 22,4362,Bad Kreuzen,07266/ 6202,s411091@schule-ooe.at,https://vsbadkreuzen.jimdofree.com,Frau Evelin Huber,Základní škola
+411092,Mittelschule St. Georgen,Schulstraße 9,4372,St. Georgen am Walde,07954 3033-20,s411092@schule-ooe.at,http://schulen.eduhi.at/hs_stgeorgenw,Frau Silvia Höbarth,Nižší střední škola
+411101,Volksschule Langenstein,Schulstraße 6,4222,Langenstein,07237 2241,s411101@schule-ooe.at,http://vslangenstein.jimdo.com,Frau Brigita Bevanda,Základní škola
+411102,Mittelschule Schwertberg<br>Schule der Freiheit,Reitbergstraße 2,4311,Schwertberg,07262 612 56-10,s411102@schule-ooe.at,https://ms-schwertberg.at,Herr Jakob Klein,Nižší střední škola
+411111,Volksschule Luftenberg,Europaweg 3,4225,Luftenberg an der Donau,07237 25 10-11,s411111@schule-ooe.at,http://www.vsluftenberg.at/,Frau Maria Haunschmied,Základní škola
+411112,Mittelschule Waldhausen,Markt 67,4391,Waldhausen im Strudengau,07260 42 39,s411112@schule-ooe.at,http://www.nmswaldhausen.at,Frau Maria Höbart,Nižší střední škola
+411121,Volksschule Mauthausen,Promenade 14,4310,Mauthausen,07238 307 80,s411121@schule-ooe.at,http://www.vs-mauthausen.info/,Herr Hansjörg Wild,Základní škola
+411122,Mittelschule Baumgartenberg,Baumgartenberg 77,4342,Baumgartenberg,07269 75 63,s411122@schule-ooe.at,http://www.nmsbaumgartenberg.at,Frau Karoline Kögler,Nižší střední škola
+411131,Volksschule Mitterkirchen,Mitterkirchen 13/1,4343,Mitterkirchen,07269 82 32,s411131@schule-ooe.at,https://www.mitterkirchen.at/Volksschule,Herr Johannes Holl,Základní škola
+411132,Mittelschule Luftenberg,Europaweg 4,4225,Luftenberg an der Donau,07237 25 10-21,s411132@schule-ooe.at,http://https://www.nmsluftenberg.at/,Frau Doris Reiter,Nižší střední škola
+411141,Volksschule Münzbach,Schulstraße 1,4323,Münzbach,07264 44 55,s411141@schule-ooe.at,https://www.muenzbach.at/Volksschule_Muenzbach,Frau Doris Kurus,Základní škola
+411142,Musikmittelschule Saxen,Saxen 124,4351,Saxen,07269 60 20,s411142@schule-ooe.at,http://nmssaxen.eduhi.at,Frau Maria Reindl,Nižší střední škola
+411151,Volksschule Naarn,Perger Straße 14,4331,Naarn i. Machland,07262 582 67-1,s411151@schule-ooe.at,https://www.vs-naarn.at/,Frau Elisabeth Stütz,Základní škola
+411152,Mittelschule Perg Schulzentrum,Waidhoferstraße 2,4320,Perg,07262 582 22,s411152@schule-ooe.at,http://www.campus-perg-modell.at,Frau Michaela Oberleitner,Nižší střední škola
+411161,Volksschule Pabneukirchen,Markt 77,4363,Pabneukirchen,07265 55 11,s411161@schule-ooe.at,http://schulen.eduhi.at/hs_pabneukirchen,Frau Doris Kurus,Základní škola
+411162,Private Mosaik Mittelschule Katsdorf,Im Hof 1,4223,Katsdorf,,s411162@schule-ooe.at,https://www.mosaikschule.at/,,Nižší střední škola
+411171,Volksschule Perg,Mozartstraße 6,4320,Perg,07262 525 32-1,s411171@schule-ooe.at,http://www.vsperg.at,Frau Andrea Starzer,Základní škola
+411181,Volksschule Pergkirchen,Pergkirchen 2,4320,Perg,07262 527 03,s411181@schule-ooe.at,https://www.vs-pergkirchen.perg.at,Frau Georgine Wagner,Základní škola
+411191,Volksschule Rechberg,Rechberg 10,4324,Rechberg,07264 47 55-1,s411191@schule-ooe.at,https://www.rechberg.at/Naturpark_Muehlviertel,Frau Aloisia Prinz,Základní škola
+411201,Volksschule Ried,Schulstraße 2,4312,Ried in d. Riedmark,07238 23 54,s411201@schule-ooe.at,http://www.vsried.net,Frau Kerstin Pechmann,Základní škola
+411211,Volksschule St. Georgen,Linzerstraße 14,4222,St. Georgen a.d. Gusen,07237 22 15,s411211@schule-ooe.at,https://www.st-georgen-gusen.at/alles-ueber-st-georgen/sozialwesen-/-bildung-/-wohnen/bildungseinrichtungen/volksschule,Frau Tanja Manzenreiter,Základní škola
+411221,Volksschule St. Georgen,Schulgasse 7,4372,St. Georgen am Walde,07954 303060,s411221@schule-ooe.at,http://www.vsstgeorgenwalde.eduhi.at,Herr Christian Geyrhofer,Základní škola
+411231,Volksschule St. Nikola,St. Nikola a.d.D. 3,4381,St. Nikola a.d.D.,07268 83 95,s411231@schule-ooe.at,,Frau Brigitte Greisinger,Základní škola
+411241,Volksschule St. Thomas,Schulstraße 6,4364,St Thomas am Blasenstein,07265 5455-50,s411241@schule-ooe.at,https://www.st-thomas.at/unsere-gemeinde/bildungseinrichtungen/volksschule/,Frau Doris Kurus,Základní škola
+411251,Volksschule Saxen,Saxen 14,4351,Saxen,07269 285,s411251@schule-ooe.at,https://www.saxen4kids.at/volksschule-saxen.at,Frau Bianca Elisabeth Spiegl,Základní škola
+411261,Volksschule Schwertberg,Reitbergstraße 2,4311,Schwertberg,07262 6145517,s411261@schule-ooe.at,https://www.vs-schwertberg.net/,Frau Anita Paireder,Základní škola
+411271,Volksschule Waldhausen,Markt 66,4391,Waldhausen i. Strudengau,07260 42 63,s411271@schule-ooe.at,http://www.vswaldhausen.at,Frau Anita Steindl,Základní škola
+411281,Volksschule Windhaag,Enzmilnerplatz 2,4322,Windhaag b. Perg,07264 42 07,s411281@schule-ooe.at,http://www.vs.windhaag-perg.at/,Frau Tanja Eder-Oppenauer,Základní škola
+411301,Private Volksschule des Evangelischen Diakoniewerkes Gallneukirchen,Greinsberg 15,4223,Katsdorf,+43 664/ 842 1122,s411301@schule-ooe.at,,Frau Theresa Sitz,Základní škola
+411311,"P.ErLe - Privatschule ErLe<br>des Vereins ""P.ErLe - Erlebnisraum Lernen",Hochstraß 30,4312,Ried in der Riedmark,0676 /518 2310,s411311@schule-ooe.at,https://www.privatschule-erle.at/kontakt,Frau Roswitha Lackinger,Základní škola
+411419,Fachschule für wirtschaftliche Berufe des Vereins der Schwestern vom Guten Hirten für Bildung und Erziehung Baumgartenberg,Baumgartenberg 1,4342,Baumgartenberg,07269 204 40,s411419@bildung.gv.at,http://fs.baumgartenberg.eduhi.at,Frau Katrin Blauensteiner-Vuketich,Humanitně zaměřená škola
+411428,Bundeshandelsakademie und Bundeshandelsschule Perg,Dirnbergerstraße 41,4320,Perg,07262 588 01,s411428@bildung.gv.at,http://www.hakperg.eduhi.at,Herr Robert Bayer,Obchodní škola
+411439,Höhere Bundeslehranstalt für wirtschaftliche Berufe Perg,Machlandstraße 46,4320,Perg,07262 581 70,s411439@bildung.gv.at,https://www.hlw-perg.at,Herr Reinhard Furtlehner,Humanitně zaměřená škola
+411457,Höhere Technische Bundeslehranstalt Perg,Machlandstraße 48,4320,Perg,07262 539 26,s411457@bildung.gv.at,https://www.htl-perg.ac.at/,Herr Michael Buchberger,Technická škola
+412011,Volksschule Andrichsfurt,Andrichsfurt 23,4754,Andrichsfurt,07750 32 10,s412011@schule-ooe.at,https://www.andrichsfurt.at/bildung-religion/,Frau Carina Grasl,Základní škola
+412012,Mittelschule Eberschwang,Eberschwang 124,4906,Eberschwang,07753 21 05-10,s412012@schule-ooe.at,http://www.nms-eberschwang.at,Herr Joachim Kana,Nižší střední škola
+412013,Adalbert-Stifter-Schule Ried,Josef-Kränzl-Straße 31,4910,Ried im Innkreis,,s412013@schule-ooe.at,http://www.stifterschule.ried.at,Frau Bettina Lindner,Speciální škola
+412014,Polytechnische Schule Ried,Peter-Rosegger-Straße 10,4910,Ried im Innkreis,07752 820 06,s412014@schule-ooe.at,https://pts.ried.at/moodle,Herr Markus Tumeltshammer,Polytechnická škola
+412016,"Bundesgymnasium und Bundesrealgymnasium Ried, Beethovenstraße",Beethovenstraße 6,4910,Ried im Innkreis,07752 822 93,s412016@bildung.gv.at,http://riedgym.schule.at,Herr Andreas Hofinger,Všeobecná střední škola (gymnázium)
+412021,Volksschule Antiesenhofen,Schulstraße 1,4980,Antiesenhofen,07759 52 80,s412021@schule-ooe.at,,Frau Margarete Berends,Základní škola
+412022,Mittelschule Geinberg,Thermenstraße 32,4943,Geinberg,07723 85 12-11,s412022@schule-ooe.at,http://www.nms-geinberg.eduhi.at,Herr Martin Bruckbauer,Nižší střední škola
+412025,Berufsschule Ried,Volksfeststraße 7,4910,Ried im Innkreis,0732 77 20-36900,bs-ried.post@ooe.gv.at,http://www.bs-ried.ac.at,Herr Thomas Sperl,Odborné učiliště
+412026,"Bundesoberstufenrealgymnasium Ried, Dr.-Thomas-Senn-Straße",Dr.-Thomas-Senn-Straße 5,4910,Ried im Innkreis,07752 822 74,s412026@bildung.gv.at,http://borgried.eduhi.at,Herr Ralph Sauerwein,Všeobecná střední škola (gymnázium)
+412032,Mittelschule Mettmach,Schulstraße 12,4931,Mettmach,07755 72 66,s412032@schule-ooe.at,http://www.members.aon.at/hs-mettmach,Frau Christine Aigner,Nižší střední škola
+412041,Volksschule Aurolzmünster,Schlossstraße 14,4971,Aurolzmünster,07752 832 26,s412041@schule-ooe.at,www.vs-aurolzmünster.at,Frau Karolin Emprechtinger,Základní škola
+412042,Mittelschule Obernberg,Vormarkt Gurten 9,4982,Obernberg a.I.,07758 22 92-11,s412042@schule-ooe.at,https://www.ms-obernberg.at/,Herr Georg Frauscher,Nižší střední škola
+412051,Volksschule Eberschwang,Eberschwang 67,4906,Eberschwang,07753 20 09,s412051@schule-ooe.at,,Frau Elke Moser,Základní škola
+412052,Mittelschule 1 Ried<br>Neue Sportmittelschule,Brucknerstraße 20,4910,Ried im Innkreis,07752 825 94,s412052@schule-ooe.at,http://nms1.ried.at,Frau Michaela Buttinger,Nižší střední škola
+412061,Volksschule Eitzing,Eitzinger Platz 3,4970,Eitzing,07752 834 12,s412061@schule-ooe.at,,Frau Maria Ranseder,Základní škola
+412062,Mittelschule 2 Ried,Peter-Rosegger-Straße 2,4910,Ried im Innkreis,07752 826 63,s412062@schule-ooe.at,https://ms2.ried.at/,Frau Maria Perndorfer,Nižší střední škola
+412072,Musikmittelschule St. Martin,Diesseits 180,4973,St. Martin im Innkreis,07751 64 60-23,s412072@schule-ooe.at,http://www.hauptschule.at,Frau Andrea Grahamer,Nižší střední škola
+412081,Volksschule Geinberg,Thermenstraße 34,4943,Geinberg,07723 85 12-31,s412081@schule-ooe.at,https://volksschule-geinberg.jimdofree.com,Frau Eva Teschl,Základní škola
+412082,Mittelschule Taiskirchen,Schulstraße 6,4753,Taiskirchen,07764 82 90-1,s412082@schule-ooe.at,https://www.ms-taiskirchen.at,Frau Maria Hörmandinger,Nižší střední škola
+412091,Volksschule St. Georgen,St. Georgen bei Obernberg am Inn 38,4983,St. Georgen b. Obernberg,07758 20 98,s412091@schule-ooe.at,,,Základní škola
+412092,Mittelschule Waldzell,Schulweg 5,4924,Waldzell,07754 23 75,s412092@schule-ooe.at,http://hswaldzell.at/,Herr Martin Huber,Nižší střední škola
+412101,Volksschule Gurten,Schulstraße 5,4942,Gurten,07757 60 37,s412101@schule-ooe.at,,Frau Christine Schießl,Základní škola
+412102,Priv. MS d. Franziskanerinnen Ried,Kapuzinerberg 19,4910,Ried im Innkreis,07752 826 11-12,s412102@schule-ooe.at,http://www.hs.franziskanerinnen.ried.eduhi.at,Herr Thomas Gerstorfer,Nižší střední škola
+412111,Volksschule Hohenzell,Dorfstraße 9,4921,Hohenzell,07752 857 15-70,s412111@schule-ooe.at,http://www.volksschule-hohenzell.at,Frau Reingard Wiesner,Základní škola
+412112,Informatikmittelschule Aurolzmünster,Schlossstraße 10,4971,Aurolzmünster,07752 836 89,s412112@schule-ooe.at,https://www.isa-schule.at,Frau Sabrina Grafenstätter,Nižší střední škola
+412131,Volksschule Kirchheim,Dorfstraße 10,4932,Kirchheim i.I.,07755 64 15-2,s412131@schule-ooe.at,,,Základní škola
+412151,Volksschule Lambrechten,Lambrechten 33,4772,Lambrechten,07765 70 08,s412151@schule-ooe.at,,Frau Sabine Reinthaler,Základní škola
+412161,Volksschule Lohnsburg,Unterdorf 88,4923,Lohnsburg,07754 21 20,s412161@schule-ooe.at,,Frau Irmgard Mathe,Základní škola
+412171,Volksschule St. Marienkirchen-Geiersberg<br>Hans Samhaber Volksschule,St. Marienkirchen a.H. 18,4926,St. Marienkirchen a.H.,07753 29 11,s412171@schule-ooe.at,http://vs-stmarienkirchen-geiersberg.jimdo.com,Herr Wolfgang Samhaber,Základní škola
+412181,Volksschule St. Martin,Diesseits 94,4973,St. Martin im Innkreis,07751 64 50,s412181@schule-ooe.at,,Frau Sylvia Pröll,Základní škola
+412191,Volksschule Mehrnbach,Mehrnbach 6,4941,Mehrnbach,07752 889 55,s412191@schule-ooe.at,,Frau Renate Berger,Základní škola
+412201,Volksschule Mettmach,Schulstraße 10,4931,Mettmach,07755 72 86,s412201@schule-ooe.at,,Herr Georg Seidenbusch,Základní škola
+412221,Volksschule Mühlheim,Kirchenstraße 3/1,4961,Mühlheim,07723 429 55-3,s412221@schule-ooe.at,,,Základní škola
+412231,Volksschule Neuhofen,Josef-Posch-Straße 1,4912,Neuhofen i.I.,07752 852 80,s412231@schule-ooe.at,,Frau Manuela Groß,Základní škola
+412251,Volksschule Obernberg,Vormarkt Gurten 11,4982,Obernberg a.I.,07758 21 06-1,s412251@schule-ooe.at,,,Základní škola
+412261,Volksschule Ort,Ort i.I. 112,4974,Ort i.I.,07751 201 09-11,s412261@schule-ooe.at,,Frau Margarete Berends,Základní škola
+412271,Volksschule Pattigham,Ringstraße 46,4910,Pattigham,07754 84 84,s412271@schule-ooe.at,,Frau Anja Lindert,Základní škola
+412291,Volksschule Pramet,Pramet 53,4925,Pramet,07754 84 20,s412291@schule-ooe.at,,Frau Monika Augustin,Základní škola
+412301,Volksschule Reichersberg,Marktplatz 2,4981,Reichersberg,,s412301@schule-ooe.at,,Frau Melanie Bauer,Základní škola
+412311,Volksschule 1 Ried,Dr.-Thomas-Senn-Straße 1,4910,Ried im Innkreis,07752 822 75,s412311@schule-ooe.at,,Frau Barbara Gramberger,Základní škola
+412321,Volksschule 2 Ried,Waldmüllerstraße 6,4910,Ried im Innkreis,07752 837 83,s412321@schule-ooe.at,http://www.vs2.ried-innkreis.at,Frau Diana Huber,Základní škola
+412331,Volksschule 3 Ried,Maria - Montessoriweg 1,4910,Ried im Innkreis,07752 832 33,s412331@schule-ooe.at,,Frau Christine Tischler,Základní škola
+412351,Volksschule Schildorn,Schulstraße 2,4920,Schildorn,07754 80 01,s412351@schule-ooe.at,,,Základní škola
+412371,Volksschule Taiskirchen,Schulstraße 4,4753,Taiskirchen,07764 73 00,s412371@schule-ooe.at,http://www.vs-taiskirchen.at,Frau Cornelia Waldenberger,Základní škola
+412381,Volksschule Tumeltsham,Schulstraße 1,4911,Tumeltsham,07752 874 70,s412381@schule-ooe.at,https://www.vs-tumeltsham.at,Frau Jutta Vogl,Základní škola
+412391,Volksschule Utzenaich,Schulstraße 1,4972,Utzenaich,07751 84 74-11,s412391@schule-ooe.at,https://www.vs-utzenaich.at,Frau Doris Wimmer-Mayrböck,Základní škola
+412401,Volksschule Waldzell,Schulweg 2,4924,Waldzell,07754 22 34,s412401@schule-ooe.at,,Frau Kerstin Dirnberger,Základní škola
+412418,Bundeshandelsakademie und Bundeshandelsschule Ried<br>Sport HAK,Gartenstraße 1,4910,Ried im Innkreis,07752 844 52-0,s412418@bildung.gv.at,http://www.hakried.at,Herr Hubert Wiesinger,Obchodní škola
+412421,Volksschule Wippenham,Wippenham 37,4942,Wippenham,07757 66 14-20,s412421@schule-ooe.at,,Frau Christine Schießl,Základní škola
+412429,Höhere Bundeslehranstalt für wirtschaftliche Berufe Ried,Gartenstraße 1,4910,Ried im Innkreis,07752 844 51,hblw-ried@eduhi.at,https://www.hblw-ried.at,Frau Margit Parzer,Humanitně zaměřená škola
+412441,Bildungswerkstatt Knittlingerhof des Vereins Bildungswerkstatt Knittlingerhof,Knittlingerweg 15,4921,Hohenzell,07752 711 56,s412441@schule-ooe.at,,Frau Rotraud Posch,Základní škola
+412451,"Privatschule ""Kompass Volksschule Ried"" des ""Evangelischen Vereins für ganzheitliches Lernen Ried""",Dietmarstraße 9,4910,Ried im Innkreis,07752 210 61,s412451@schule-ooe.at,,Frau Ute Margarethe Engl,Základní škola
+412461,"Privatschule ""Lilienschule – Freie Schule für Kinder einer neuen Zeit"" des Vereins ""Lernen – Leben – Wachsen. Initiative für ganzheitliche Bildung und Erziehung""",hofmark 2,4911,Tumeltsham,,s412461@schule-ooe.at,,,Základní škola
+412477,Höhere Technische Bundeslehranstalt Ried,Molkereistraße 2,4910,Ried im Innkreis,07752 889 977-0,office@htl-ried.at,http://www.htl-ried.at,Herr Wolfgang Billinger,Technická škola
+412489,"Schule für Sozialbetreuungsberufe des Evangelischen Diakoniewerkes Gallneukirchen, Schwerpunkt Behindertenbegleitung",Hoher Markt 10,4910,Ried im Innkreis,07724 50 48-410,sob.ried@diakoniewerk.at,http://www.sob-steyr.at,Frau Nina Mathis,Humanitně zaměřená škola
+412810,Bundesbildungsanstalt für Elementarpädagogik Ried,Gartenstraße 1,4910,Ried im Innkreis,07752 844 53,office@bafepried.at,http://www.bafepried.at,Herr Reinhard Wimroither,Humanitně zaměřená škola
+413012,Mittelschule Aigen-Schlägl<br>mit Interessens- und Begabungsförderung im Bereich Informationstechnologie,Linzerstraße 23,4160,Aigen-Schlägl,07281 62 63-11,s413012@schule-ooe.at,http://schulen.eduhi.at/hsaigenschlaegl,Frau Petra Gruber,Nižší střední škola
+413015,Berufsschule Rohrbach,Schulstraße 7,4150,Rohrbach,0732 77 20-370 00,bs-rohrbach.post@ooe.gv.at,http://www.bs-rohrbach.ac.at,Herr Andreas Schönberger,Odborné učiliště
+413016,Bundesgymnasium und Bundesrealgymnasium Rohrbach,Hopfengasse 20,4150,Rohrbach,07289 86 33,s413016@bildung.gv.at,http://www.brgrohrbach.at,Herr Nikolaus Stelzer,Všeobecná střední škola (gymnázium)
+413021,Volksschule Altenfelden,Schulstraße 25,4121,Altenfelden,07282 55 44,s413021@schule-ooe.at,,Frau Ulrike Eberhart,Základní škola
+413022,Mittelschule Haslach,Sternwaldstraße 24,4170,Haslach a.d.M.,07289 712 63-11,s413022@schule-ooe.at,http://schulen.eduhi.at/nmshaslach/,Herr Franz Zinöcker,Nižší střední škola
+413032,Mittelschule Lembach,Schulstraße 1,4132,Lembach,07286 83 03,s413032@schule-ooe.at,http://schulen.eduhi.at/hs-lembach,Frau Karin Meixner,Nižší střední škola
+413034,Polytechnische Schule Neufelden,Amesfurth 2,4120,Neufelden,07282 866 33,s413034@schule-ooe.at,https://www.pts-neufelden.at,Herr Heinz Peherstorfer,Polytechnická škola
+413041,Volksschule Arnreit,Arnreit 11,4122,Arnreit,07282 70 27,s413041@schule-ooe.at,,Frau Ulrike Eberhart,Základní škola
+413042,Musikmittelschule Neufelden,Höferweg 45,4120,Neufelden,07282 63 13,s413042@schule-ooe.at,http://mhs-neufelden.schule.at,Frau Doris Rothbauer,Nižší střední škola
+413044,Polytechnische Schule Aigen-Schlägl,Schlägler Hauptstraße 2,4160,Aigen-Schlägl,07281 200 07,s413044@schule-ooe.at,https://ptsaigenschlaegl.jimdofree.com/,Herr Reinhold Petz,Polytechnická škola
+413052,Mittelschule Rohrbach,Linzer Straße 16,4150,Rohrbach-Berg,07289 87 91,s413052@schule-ooe.at,http://www.nmsrohrbach.at/index.php?id=home,Herr Johannes Peter Indra,Nižší střední škola
+413061,Volksschule Haslach,Sternwaldstraße 24,4170,Haslach a.d.M.,07289 712 63-21,s413061@schule-ooe.at,,Frau Barbara Maria Bachleitner,Základní škola
+413062,Sportmittelschule Ulrichsberg<br>Adalbert-Stifter-Schule,Schulgasse 6,4161,Ulrichsberg,07288 70 29,s413062@schule-ooe.at,http://schulen.eduhi.at/nmsulrichsberg,Frau Barbara Müller,Nižší střední škola
+413071,Volksschule Heinrichsberg,Stift am Grenzbach 42,4155,Nebelberg,07287 73 64,s413071@schule-ooe.at,https://www.vsheinrichsberg.at,Frau Barbara Fischer,Základní škola
+413072,Mittelschule Hofkirchen,Schulstraße 10,4142,Hofkirchen im Mühlkreis,07285 298,s413072@schule-ooe.at,https://www.mshofkirchen.at/,Herr Felix Nikolaus Ekkehardt Grubich,Nižší střední škola
+413081,Volksschule Helfenberg,Schulstraße 19,4184,Helfenberg,07216 70 11-10,s413081@schule-ooe.at,,Frau Ursula Kastner,Základní škola
+413082,Mittelschule Sarleinsbach,Schulstraße 13,4152,Sarleinsbach,07283 82 96,s413082@schule-ooe.at,http://www.sarleinsbach.at/schulen,Herr Manfred Miggisch,Nižší střední škola
+413092,"Mittelschule Peilstein, Europamittelschule",Marktstraße 17,4153,Peilstein,07287 72 50,s413092@schule-ooe.at,https://www.europaschule-peilstein.at,Frau Bianca Thaller,Nižší střední škola
+413101,Volksschule Hofkirchen,Schulstraße 8,4142,Hofkirchen im Mühlkreis,07285 232,s413101@schule-ooe.at,,Frau Irina Witzersdorfer,Základní škola
+413102,Sportmittelschule Niederwaldkirchen,Schallenbergstraße 11,4174,Niederwaldkirchen,07231 24 30,s413102@schule-ooe.at,https://www.nmsnwk.at/news/nms-niederwaldkirchen-news-events-sportcampus-11/,Herr Thomas Baumgartner,Nižší střední škola
+413112,Mittelschule St. Peter,Pfarrerberg 3,4171,St. Peter a. Wimbg.,07282 80 46-16,s413112@schule-ooe.at,https://mittelschule-st-peter.at,Herr Wilhelm Tanzer,Nižší střední škola
+413121,Volksschule St. Johann,Schulstraße 3,4172,St Johann am Wimberg,07217 71 02,s413121@schule-ooe.at,http://www.vs-sanktjohann.at,Frau Barbara Maria Bachleitner,Základní škola
+413122,Mittelschule St. Martin,Schulstraße 11,4113,St. Martin im Mühlkreis,07232 22 77,s413122@schule-ooe.at,http://nms-sankt-martin.at,Herr Manfred Spenlingwimmer,Nižší střední škola
+413131,Volksschule Julbach,Schulstraße 11,4162,Julbach,0670/1877527,s413131@schule-ooe.at,,Herr Klemens Kurbel,Základní škola
+413132,Mittelschule Helfenberg,Schulstraße 20,4184,Helfenberg,07216 70 11-16,s413132@schule-ooe.at,https://time-mittelschule.at/,Herr Christian Tröls,Nižší střední škola
+413151,Volksschule Kirchberg,Hauptstraße 10,4131,Kirchberg ob der Donau,07282 46 51,s413151@schule-ooe.at,,Frau Alexandra Gahleitner,Základní škola
+413161,Volksschule Klaffer,Dorfplatz 4,4163,Klaffer a. Hochficht,07288 70 28,s413161@schule-ooe.at,,Frau Jasmin Berger,Základní škola
+413171,Volksschule Kleinzell,Kleinzell i.M. 20,4115,Kleinzell i.M.,07282 53 01,s413171@schule-ooe.at,https://www.vskleinzell.at,Herr Ferdinand Oder,Základní škola
+413181,Volksschule Kollerschlag,Schulweg 2,4154,Kollerschlag,07287 81 41,s413181@schule-ooe.at,,Frau Sylvia Klaffenböck,Základní škola
+413201,Volksschule Lembach,Schulstraße 3,4132,Lembach,07286 83 98,s413201@schule-ooe.at,http://schulen.eduhi.at/vs_lembach,Frau Alice Hartl,Základní škola
+413211,Volksschule St. Martin,Schulstraße 11,4113,St. Martin i.M.,07232 22 17,s413211@schule-ooe.at,https://klassenpinnwand.at/vsstmartin,Frau Sandra Hödelsberger,Základní škola
+413231,Volksschule Neufelden,Marktplatz 12,4120,Neufelden,07282 63 97,s413231@schule-ooe.at,https://vs-neufelden.at,Frau Caroline Nösslböck,Základní škola
+413251,Volksschule Neustift,Schulstraße 2,4143,Neustift i.M.,07284 81 95,s413251@schule-ooe.at,,Herr Richard Gabriel,Základní škola
+413261,Volksschule Niederkappel,Schulstraße 8,4133,Niederkappel,07286 85 14,s413261@schule-ooe.at,https://www.vsniederkappel.at,Frau Ulrike Eberhart,Základní škola
+413281,Volksschule Niederwaldkirchen,Schallenbergstraße 9,4174,Niederwaldkirchen,07231 25 04,s413281@schule-ooe.at,,Frau Johanna Hofer,Základní škola
+413291,Volksschule Oberkappel,Im Rannatal 6,4144,Oberkappel,07284 70 07,s413291@schule-ooe.at,,Herr Gernot Krenn,Základní škola
+413311,Volksschule Oepping,Schulstraße 2,4151,Oepping,07289 82 38,s413311@schule-ooe.at,,Frau Theresia Kitzberger,Základní škola
+413321,Volksschule St. Oswald,St. Oswald b. Haslach 30,4170,St. Oswald b. Haslach,07289 715 14,s413321@schule-ooe.at,,Herr Ferdinand Oder,Základní škola
+413331,Volksschule Peilstein,Marktstraße 15,4153,Peilstein im Mühlviertel,07287 72 14,s413331@schule-ooe.at,http://www.vspeilstein.at,Herr Gernot Krenn,Základní škola
+413341,Volksschule St. Peter,Pfarrerberg 3,4171,St. Peter a. Wimbg.,07282 80 46-12,s413341@schule-ooe.at,,Frau Ursula Kastner,Základní škola
+413351,Volksschule Pfarrkirchen,Pfarrkirchen 31/1,4141,Pfarrkirchen im Mühlkreis,07285 425,s413351@schule-ooe.at,,Frau Wilbirg Amerstorfer,Základní škola
+413361,Volksschule Putzleinsdorf<br>Hanriederschule,Schulstraße 4,4134,Putzleinsdorf,07286 82 80,s413361@schule-ooe.at,,Herr Karl Lindorfer,Základní škola
+413381,Volksschule Rohrbach,Linzer Str. 16,4150,Rohrbach-Berg,07289 42 38,s413381@schule-ooe.at,,Herr Johannes Peter Indra,Základní škola
+413391,Volksschule Sarleinsbach,Schulstraße 11,4152,Sarleinsbach,07283 82 84,s413391@schule-ooe.at,,Herr Rudolf Hofer,Základní škola
+413401,Volksschule Aigen-Schlägl,Schulstraße 1,4160,Aigen-Schlägl,07281 62 16,s413401@schule-ooe.at,,Frau Renate Schietz,Základní škola
+413417,Technische Fachschule des Landes Oberösterreich,Grubberg 3,4170,Haslach an der Mühl,0732 77 20-34500,tfs-haslach.post@ooe.gv.at,http://www.tfs-haslach.at,Frau Hildegard Prem,Technická škola
+413428,Bundeshandelsakademie und Bundeshandelsschule Rohrbach,Akademiestraße 12,4150,Rohrbach-Berg,07289 86 46,s413428@bildung.gv.at,http://www.bbs-rohrbach.at,Herr Roland Berlinger,Obchodní škola
+413439,Höhere Bundeslehranstalt für wirtschaftliche Berufe Rohrbach,Akademiestraße 12,4150,Rohrbach-Berg,07289 86 46,s413439@bildung.gv.at,https://www.bbs-rohrbach.at,Herr Roland Berlinger,Humanitně zaměřená škola
+413441,Volksschule St. Stefan,St. Stefan a.W. 28,4170,Haslach a.d.M.,07216 44 60,s413441@schule-ooe.at,,Frau Ursula Kastner,Základní škola
+413447,Höhere Technische Bundeslehranstalt Neufelden,Höferweg 47,4120,Neufelden,07282 59 55,s413447@bildung.gv.at,http://www.atn.nu,Herr Günther Oberaigner,Technická škola
+413451,Volksschule Ulrichsberg<br>Adalbert-Stifter-Schule,Stifterstraße 5,4161,Ulrichsberg,07288 70 37,s413451@schule-ooe.at,,Herr Klemens Kurbel,Základní škola
+413461,Volksschule St. Veit<br>Hans Schnopfhagen Schule,Schulstraße 14,4173,St. Veit i.M.,07217 60 56,s413461@schule-ooe.at,http://vsstveit.eduhi.at,Frau Alexandra Goluch,Základní škola
+413471,Volksschule St. Ulrich,Ulrichstraße 12,4116,St. Ulrich i.M.,07282 50 84,s413471@schule-ooe.at,,Frau Elfriede Gahleitner,Základní škola
+413710,Landw. Berufs- und Fachschule Schlägl,Schaubergstraße 2,4160,Aigen-Schlägl,0732 77 20-34100,lwbfs-schlaegl.post@ooe.gv.at,http://https://www.ooe-landwirtschaftsschulen.at/811_DEU_HTML.htm,Herr Johann Gaisberger,Zemědělská škola
+414012,Musikmittelschule Andorf,Riedfeldstraße 17,4770,Andorf,07766 23 55,s414012@schule-ooe.at,http://www.msandorf.at/,Frau Anita Tossmann,Nižší střední škola
+414013,Allgem. Sonderschule Schärding,Schulstraße 5,4780,Schärding,07712 27 34,s414013@schule-ooe.at,https://www.aps-schaerding.at,Frau Maria Theresia Luckeneder,Speciální škola
+414016,Bundesgymnasium und Bundesrealgymnasium Schärding,Schulstraße 3,4780,Schärding,07712 30 44,s414016@bildung.gv.at,http://www.gymschaerding.at,Frau Brigitte Reisinger,Všeobecná střední škola (gymnázium)
+414021,Volksschule St. Aegidi,St. Aegidi 34,4725,St. Aegidi,07717 73 23,s414021@schule-ooe.at,,Herr Lukas Weitzhofer,Základní škola
+414022,Mittelschule Esternberg,Schulstraße 4,4092,Esternberg,07714 66 50,s414022@schule-ooe.at,https://www.mittelschule-esternberg.at/,Frau Brunhilde Kettl,Nižší střední škola
+414025,Berufsschule Schärding,Ziergartenstraße 2,4780,Schärding,0732 77 20-37100,bs-schaerding.post@ooe.gv.at,http://www.bs-schaerding.ac.at,Frau Barbara Zöchling,Odborné učiliště
+414031,Volksschule Altschwendt,Altschwendt 53,4721,Altschwendt,07762 26 50,s414031@schule-ooe.at,,Frau Elisabeth Altmann,Základní škola
+414032,Mittelschule Münzkirchen,Schärdingerstraße 2,4792,Münzkirchen,07716 72 19,s414032@schule-ooe.at,https://www.ms-muenzkirchen.at/,Herr Christoph Wallenstein,Nižší střední škola
+414041,Volksschule Andorf,Hans Holzstraße 1,4770,Andorf,07766 23 54,s414041@schule-ooe.at,,Herr Lukas Mathias Perzl,Základní škola
+414042,Mittelschule Raab,Schulstraße 20,4760,Raab,07762 22 31,s414042@schule-ooe.at,https://msraab.at/,Frau Irina Eßl-Pirimeyer,Nižší střední škola
+414052,Mittelschule Riedau,Schulplatz 134,4752,Riedau,43 670 500 4752,s414052@schule-ooe.at,http://www.nms-riedau.at/nms/,Herr Markus Hansbauer,Nižší střední škola
+414061,Volksschule Brunnenthal,Schulstraße 12,4786,Brunnenthal,07712 23 07,s414061@schule-ooe.at,,Frau Sigrid Schatzl,Základní škola
+414071,Volksschule Diersbach,Am Berg 11,4776,Diersbach,07719 72 65,s414071@schule-ooe.at,,Frau Martina Rossdorfer,Základní škola
+414072,"Mittelschule Schärding (Musik, Sport und allgemeiner Zweig)",Schulstraße 5,4780,Schärding,07712 27 34,s414072@schule-ooe.at,https://www.aps-schaerding.at,Frau Maria Theresia Luckeneder,Nižší střední škola
+414081,Volksschule Dorf,Dorf a.d. Pram 27,4751,Dorf a.d. Pram,07764 82 88,s414081@schule-ooe.at,,,Základní škola
+414082,Mittelschule Taufkirchen,Schulstraße 3,4775,Taufkirchen a.d. Pram,07719 73 88-31,s414082@schule-ooe.at,http://www.hs.taufkirchen-pram.eduhi.at/,Herr Hans-Peter Rockenschaub,Nižší střední škola
+414091,Volksschule Eggerding,Eggerding 25,4773,Eggerding,07767 70 31,s414091@schule-ooe.at,,Frau Beate Fuchs,Základní škola
+414092,Mittelschule Kopfing,Hauptstraße 18,4794,Kopfing i.I.,07763 22 49,s414092@schule-ooe.at,http://ms-kopfing.bplaced.net,Frau Theresia Kainz,Nižší střední škola
+414102,Mittelschule St. Marienkirchen,Schulstraße 18,4774,St. Marienkirchen b. Schärding,07711 23 04,s414102@schule-ooe.at,https://tnms.jimdofree.com/,Frau Ulrike Renauer,Nižší střední škola
+414111,Volksschule Enzenkirchen,Schwarzenberger Straße 4,4761,Enzenkirchen,07762 32 08,s414111@schule-ooe.at,,,Základní škola
+414112,Mittelschule Schardenberg,Kubingerstraße 11,4784,Schardenberg,07713 71 77,s414112@schule-ooe.at,https://hsschardenberg.jimdofree.com/,Frau Barbara Ratzinger-Selgrad,Nižší střední škola
+414121,Volksschule Esternberg,Schulstraße 6,4092,Esternberg,07714 66 29,s414121@schule-ooe.at,,Frau Birgit Himmel,Základní škola
+414122,Mittelschule St. Aegidi<br>MS für Interessens- und Begabungsförderung,St. Aegidi 62,4725,St. Aegidi,07717 77 35,s414122@schule-ooe.at,http://schulen.eduhi.at/hs-st.aegidi,,Nižší střední škola
+414131,Volksschule St. Florian,St. Florian a.I. 48,4782,St. Florian a.I.,07712 26 68,s414131@schule-ooe.at,,Frau Martina Scharnböck,Základní škola
+414151,Volksschule Freinberg,Freinberg 21,4785,Freinberg,07713 810 280,s414151@schule-ooe.at,http://www.vs-freinberg.at,Frau Elisabeth Scharnböck,Základní škola
+414161,Volksschule Kopfing,Hauptstraße 18,4794,Kopfing i.I.,07763 22 25,s414161@schule-ooe.at,,Frau Theresia Kainz,Základní škola
+414171,Volksschule St. Marienkirchen<br>Richard Billinger Volksschule,Schulstraße 20,4774,St. Marienkirchen bei Schärding,07711 23 20,s414171@schule-ooe.at,,Frau Doris Bieringer,Základní škola
+414191,Integrations-Volksschule Münzkirchen,Schulgasse 9,4792,Münzkirchen,07716 72 21,s414191@schule-ooe.at,,Herr Karl Reidinger,Základní škola
+414201,Volksschule Raab,Schulstraße 22,4760,Raab,07762 23 15,s414201@schule-ooe.at,,Frau Dagmar Wilflingseder,Základní škola
+414211,Volksschule Rainbach,Rainbach i.I. 2,4791,Rainbach i.I.,07716 80 09,s414211@schule-ooe.at,http://schulen.eduhi.at/rainbach_innkreis,,Základní škola
+414221,Volksschule Riedau,Schulplatz 134,4752,Riedau,07764 83 42,s414221@schule-ooe.at,,Herr Roland Leitner,Základní škola
+414231,Volksschule St. Roman,Schärdinger Straße 3,4793,St. Roman,07716 73 60,s414231@schule-ooe.at,,Herr Josef Gruber,Základní škola
+414241,Volksschule Schärding,Tummelplatzstraße 8,4780,Schärding,07712 27 34,s414241@schule-ooe.at,https://www.aps-schaerding.at,Frau Maria Theresia Luckeneder,Základní škola
+414261,Volksschule Schardenberg,Schärdinger Straße 22,4784,Schardenberg,07713 60 25,s414261@schule-ooe.at,,Frau Silvia Kesselring,Základní škola
+414271,Volksschule Sigharting,Hofmark 6,4771,Sigharting,07766 24 44,s414271@schule-ooe.at,,Frau Elfriede Stammler,Základní škola
+414291,Volksschule Suben,Suben 13,4975,Suben,07711 22 66,s414291@schule-ooe.at,,Frau Brigitte Berger,Základní škola
+414301,Volksschule Taufkirchen,Schulstraße 3,4775,Taufkirchen a.d. Pram,07719 73 88-21,s414301@schule-ooe.at,,Frau Elfriede Stammler,Základní škola
+414311,Volksschule Vichtenstein,Vichtenstein 48,4091,Vichtenstein,07714 80 07,s414311@schule-ooe.at,,Frau Theresa Drexler,Základní škola
+414321,Volksschule Waldkirchen,Waldkirchen 22,4085,Waldkirchen,07718 726 611,s414321@schule-ooe.at,,Frau Elisabeth Haring,Základní škola
+414331,Volksschule Wernstein,Schulstraße 7,4783,Wernstein a.I.,07713 71 34,s414331@schule-ooe.at,,Frau Sigrid Schatzl,Základní škola
+414351,Volksschule St. Willibald,Schulstraße 2,4762,St. Willibald,07762 28 16,s414351@schule-ooe.at,,,Základní škola
+414371,Volksschule Zell,Bgm. Felix Meier-Straße 1,4755,Zell an d. Pram,07764 84 78,s414371@schule-ooe.at,http://www.volksschule-zell.at,Frau Luisa Horn,Základní škola
+414418,Bundeshandelsakademie und Bundeshandelsschule Schärding,Schulstraße 3,4780,Schärding,07712 30 45,s414418@bildung.gv.at,http://schulen.eduhi.at/hak.schaerding,Frau Irene Wiesinger,Obchodní škola
+414437,Höhere Technische Bundeslehranstalt Andorf,Hannes-Schrattenecker-Straße 1,4770,Andorf,07766 411 00,s414437@bildung.gv.at,https://www.andorftechnologyschool.at,Herr Josef Karl,Technická škola
+414710,Landw. Berufs- und Fachschule Otterbach,Otterbach 9,4782,St. Florian am Inn,0732 77 20-33900,lwbfs-otterbach.post@ooe.gv.at,https://www.ooe-landwirtschaftsschulen.at,Herr Wolfgang Berschl,Zemědělská škola
+414720,Landw. Berufs- und Fachschule Andorf,Rathausstraße 16,4770,Andorf,0732 77 20-33100,lwbfs-andorf.post@ooe.gv.at,https://www.lwbfs-andorf.ac.at,Frau Angelika Schwendinger,Zemědělská škola
+415011,Volksschule Adlwang,Bad-Haller-Straße 9,4541,Adlwang,07258 291 55,s415011@schule-ooe.at,http://joomla.eduhi.at/vs.adlwang,Frau Gabriele Kröppelbauer,Základní škola
+415012,Mittelschule Bad Hall,Stelzhamerstraße 1,4540,Bad Hall,07258 77 58,s415012@schule-ooe.at,http://www.nms-badhall.at,Frau Birgit Janda,Nižší střední škola
+415021,Volksschule Aschach,Schulstraße 5,4421,Aschach a.d. Steyr,07259 34 18,s415021@schule-ooe.at,http://schulen.eduhi.at/vs.aschach-steyr,Frau Rosina Wührer,Základní škola
+415022,Mittelschule Garsten,Rittingerstraße 13,4451,Garsten,07252 526 14-12,s415022@schule-ooe.at,https://www.nms-garsten.at/,Frau Aleksandra Jaramaz,Nižší střední škola
+415031,Volksschule Bad Hall,Schulstraße 3,4540,Bad Hall,07258 24 11,s415031@schule-ooe.at,http://www.vsbadhall.at,Frau Michaela Mittermair,Základní škola
+415032,Mittelschule und Polytechnische Schule Großraming,Großraming 17,4463,Großraming,07254 840 86,s415032@schule-ooe.at,https://msgrossraming.at,Herr Gerhard Garstenauer,Nižší střední škola
+415041,Volksschule Christkindl,Saaßstraße 5,4400,Garsten,07252 525 11,s415041@schule-ooe.at,https://www.volksschule-christkindl.at,Frau Carina Schneider,Základní škola
+415042,Technische Naturwissenschaftliche Mittelschule Losenstein,Eisenstraße 41,4460,Losenstein,07255 62 56-1,s415042@schule-ooe.at,http://www.hslosenstein.at,Herr Daniel Rauch,Nižší střední škola
+415051,Volksschule Dambach,Dambachstraße 85,4451,Garsten,07252 520 43,s415051@schule-ooe.at,http://vs-dambach.jimdo.com,Frau Carina Schneider,Základní škola
+415061,Volksschule Dietach<br>Volksschule mit musikalischer Schwerpunktsetzung,Kirchenplatz 2,4407,Dietach,07252 382 57,s415061@schule-ooe.at,http://vsdietach.eduhi.at,Frau Doris Augner,Základní škola
+415062,Mittelschule Ternberg,Schulstraße 2,4452,Ternberg,07256 60 11-1,s415062@schule-ooe.at,https://www.nms-ternberg.at,Herr Rene Gumpinger,Nižší střední škola
+415071,Volksschule Gaflenz,Markt 37,3334,Gaflenz,07353 223,s415071@schule-ooe.at,,Frau Nathalie Klausberger,Základní škola
+415072,Mittelschule Weyer,Schulstraße 11,3335,Weyer,07355 64 50,s415072@schule-ooe.at,https://msweyer.edupage.org/,Frau Eva Maria Grasegger,Nižší střední škola
+415081,Volksschule Garsten,St. Berthold-Allee 1,4451,Garsten,07252 525 16-1,s415081@schule-ooe.at,http://www.vs-garsten.at,Frau Beate Hochstraßer,Základní škola
+415082,Mittelschule Sierning,Franz-Streer-Weg 1,4522,Sierning,07259 26 66,s415082@schule-ooe.at,http://hs-sierning.jimdo.com,Frau Susanne Würleitner,Nižší střední škola
+415091,Volksschule Großraming,Großraming 22,4463,Großraming,07254 83 09,s415091@schule-ooe.at,,Herr Bernhard Fahrngruber,Základní škola
+415092,Mittelschule Reichraming,Schulstraße 4,4462,Reichraming,07255 81 34,s415092@schule-ooe.at,https://nms-reichraming.at/,Frau Maria Panny,Nižší střední škola
+415101,Volksschule Kleinraming,Kirchenplatz 8,4442,Kleinraming,07252 301 41,s415101@schule-ooe.at,http://www.vs-kleinraming.com,Frau Margarete Buder,Základní škola
+415111,Volksschule Kleinreifling,Kleinreifling 132,4464,Kleinreifling,07357 255,s415111@schule-ooe.at,,,Základní škola
+415121,Volksschule Laussa,Am Kirchenplatz 7,4461,Laussa,07255 72 32,s415121@schule-ooe.at,,Frau Bettina Steiner,Základní škola
+415141,Volksschule Losenstein<br>Volksschule mit musikalischer Schwerpunktsetzung,Eisenstraße 43,4460,Losenstein,07255 62 51,s415141@schule-ooe.at,https://vslosenstein.com,Frau Melanie Aschauer,Základní škola
+415161,Volksschule Maria Neustift,Maria Neustift 208,4443,Maria Neustift,07250 208,s415161@schule-ooe.at,,Herr Gerhard Hornbachner,Základní škola
+415171,Volksschule Mühlbach,Mühlbachstraße 31,4451,Garsten,07252 466 18,s415171@schule-ooe.at,https://www.volksschule-muehlbach.at,Frau Carina Roswitha Haimann,Základní škola
+415201,Volksschule Reichraming,Schulstraße 5,4462,Reichraming,07255 84 25,s415201@schule-ooe.at,,Frau Petra Maria Hörmann,Základní škola
+415211,Volksschule Rohr,Schulstraße 1,4532,Rohr i. Kremstal,0660 115 60 80,s415211@schule-ooe.at,,Frau Martina Stromayer,Základní škola
+415221,Volksschule St. Ulrich,Schulstraße 8,4400,St. Ulrich b. Steyr,07252 543 26-12,s415221@schule-ooe.at,http://www.vs-st-ulrich.at,Frau Ernestine Faschinger,Základní škola
+415231,Volksschule Schiedlberg,Gemeindeplatz 3,4521,Schiedlberg,66,s415231@schule-ooe.at,,Frau Michaela Pickl,Základní škola
+415241,Volksschule Sierning,Neustraße 21,4522,Sierning,07259 24 52-10,s415241@schule-ooe.at,https://volksschule-sierning.jimdo.com,Frau Eva Maria Suwa,Základní škola
+415251,Volksschule Sierninghofen,Steyrtalstraße 10,4523,Neuzeug,07259 23 31,s415251@schule-ooe.at,,Herr Martin Stimmer,Základní škola
+415271,Volksschule Ternberg,Alois-Derfler-Straße 4,4452,Ternberg,07256 83 81-11,s415271@schule-ooe.at,http://www.vs-ternberg.at,Frau Ingrid Hofer,Základní škola
+415301,Volksschule Waldneukirchen,Schulstraße 1,4595,Waldneukirchen,07258 38 50,s415301@schule-ooe.at,http://vs-waldkirchen.eduhi.at,Frau Sibylle Unterhumer,Základní škola
+415311,Volksschule Weyer,Josef Bachbauer Straße 6,3335,Weyer,07355 64 10,s415311@schule-ooe.at,,Frau Doris Schaurhofer,Základní škola
+415331,Volksschule Wolfern,Kirchenplatz 1,4493,Wolfern,07253 82 01,s415331@schule-ooe.at,,Frau Ines Ruttensteiner,Základní škola
+415341,Volksschule Pfarrkirchen,Möderndorferstraße 2,4540,Bad Hall,07258 23 69,s415341@schule-ooe.at,http://vspfarrkirchen.eduhi.at,,Základní škola
+415419,Höhere Bundeslehranstalt für wirtschaftliche Berufe und Hotelfachschule Weyer,Egererstraße 14,3335,Weyer,07355 62 63,s415419@bildung.gv.at,https://bbs-weyer.at,Frau Eva Aigner,Humanitně zaměřená škola
+415710,Landw. Berufs- und Fachschule Kleinraming,Mühlenweg 6,4442,Kleinraming,0732/7720-33500,lwbfs-kleinraming.post@ooe.gv.at,http://https://www.ooe-landwirtschaftsschulen.at/288_DEU_HTML.htm,Frau Ursula Forstner,Zemědělská škola
+416011,Volksschule Alberndorf<br>Volksschule mit musikalischer Schwerpunktsetzung,Schulfeld 2,4211,Alberndorf,07235 71 08,s416011@schule-ooe.at,,Frau Angelika Himmelbauer,Základní škola
+416012,Mittelschule Altenberg,Schulstraße 12,4203,Altenberg,07230 72 46-50,s416012@schule-ooe.at,https://www.msaltenberg.at,Frau Sigrid Mayr,Nižší střední škola
+416013,"Martin Boos-Landesschule<br>Inklusive Volksschulklassen, Sonderschule für Kinder mit erhöhtem Förderbedarf",Martin Boos Straße 7,4210,Gallneukirchen,07235 632 51-380,s416013@schule-ooe.at,http://lss-gallneukirchen.ac.at,Herr Mathias Tober,Speciální škola
+416014,Polytechnische Schule Ottensheim,Bahnhofstraße 7a,4100,Ottensheim,07234 843 55-18,s416014@schule-ooe.at,http://www.poly.ottensheim.at,Frau Elfriede Draxler,Polytechnická škola
+416016,Bundesoberstufenrealgymnasium Bad Leonfelden,Hagauerstraße 17,4190,Bad Leonfelden,07213 66 00 42,s416016@bildung.gv.at,http://www.borgleon.at,Herr Josef Enzenhofer,Všeobecná střední škola (gymnázium)
+416021,Volksschule Altenberg,Schulstraße 16,4203,Altenberg,07230 73 40,s416021@schule-ooe.at,http://vs-altenberg.jimdo.com,Frau Agnes Buttinger,Základní škola
+416022,Mittelschule Gallneukirchen,Schulfeld 2a,4210,Gallneukirchen,07235 631 56-90,s416022@schule-ooe.at,https://msgallneukirchen.blogspot.com,Frau Sabine Christine Haase,Nižší střední škola
+416031,Volksschule Eidenberg,Kirchenweg 7,4201,Eidenberg,07239 62 55,s416031@schule-ooe.at,https://vs-eidenberg.jimdo.com,Frau Ilona Rechberger,Základní škola
+416032,Mittelschule Gramastetten,Linzerstraße 19,4201,Gramastetten,07239 82 35-11,s416032@schule-ooe.at,https://www.nms-gramastetten.eduhi.at,Frau Helga Buchgeher,Nižší střední škola
+416041,Volksschule Feldkirchen,Schulstraße 12,4101,Feldkirchen a.d. Donau,07233 72 83,s416041@schule-ooe.at,,Frau Adelheid Grillberger,Základní škola
+416042,Technische Naturwissenschaftliche Mittelschule Bad Leonfelden,Adalbert-Stifter-Straße 27,4190,Bad Leonfelden,07213 62 92-11,s416042@schule-ooe.at,http://schulen.eduhi.at/hsleonfelden,Frau Christina Springer,Nižší střední škola
+416044,Polytechnische Schule Bad Leonfelden,Kurhausstraße 9A,4190,Bad Leonfelden,07213 65 60,s416044@schule-ooe.at,https://www.ptsleon.at,Frau Elfriede Draxler,Polytechnická škola
+416051,Volksschule Gallneukirchen,Schulstraße 1,4210,Gallneukirchen,07235 631 56-1,s416051@schule-ooe.at,https://www.volksschule-gallneukirchen.net,Frau Susanne Huber,Základní škola
+416052,Mittelschule Oberneukirchen,Waxenbergerstraße 9,4181,Oberneukirchen,07212 71 30-12,s416052@schule-ooe.at,https://www.nmsoberneukirchen.at/,Frau Angelika Neumüller,Nižší střední škola
+416062,Mittelschule Ottensheim,Bahnhofstraße 5,4100,Ottensheim,07234 843 55-14,s416062@schule-ooe.at,https://www.ms-ottensheim.at,Herr Markus Reiter,Nižší střední škola
+416071,Volksschule Goldwörth,Schulstraße 4,4102,Goldwörth,07234 835 90,s416071@schule-ooe.at,,Herr Lukas Rammerstorfer,Základní škola
+416072,Mittelschule Steyregg<br>Neue Computermittelschule,Kirchengasse 18,4221,Steyregg,0732 640 065,s416072@schule-ooe.at,http://schulen.eduhi.at/hs_steyregg,Herr Bernhard Buchegger,Nižší střední škola
+416081,Volksschule St. Gotthard,St. Gotthard i.M. 3,4112,St. Gotthard i.M.,0677/62001951,s416081@schule-ooe.at,http://www.vs-stgotthard.at,Frau Cornelia Hanner,Základní škola
+416082,Mittelschule Vorderweißenbach,Müllergasse 2,4191,Vorderweißenbach,07219/605540,s416082@schule-ooe.at,https://www.msvwb.at/,Frau Johanna Tröls,Nižší střední škola
+416091,Volksschule Gramastetten,Linzer Straße 19,4201,Gramastetten,07239 82 49,s416091@schule-ooe.at,https://www.vsgramastetten.at,Frau Ilona Rechberger,Základní škola
+416092,Mittelschule Puchenau<br>Tagesheimschule,Schulstraße 3,4048,Puchenau,0732 221 055-342,s416092@schule-ooe.at,https://www.mittelschule-puchenau.at,Frau Jutta Rabeder,Nižší střední škola
+416101,Volksschule Hellmonsödt,Försterstraße 4,4202,Hellmonsödt,07215 22 79-75,s416101@schule-ooe.at,http://vshellmonsoedt.jimdo.com,Frau Isabella Gruber,Základní škola
+416102,Musikmittelschule Hellmonsödt,Försterstraße 2,4202,Hellmonsödt,07215 23 42,s416102@schule-ooe.at,http://www.nmshellmonsoedt.at/kontakt/index.php,Herr Klaus Nimmervoll,Nižší střední škola
+416111,Volksschule Herzogsdorf,Hauptstraße 11,4175,Herzogsdorf,07231 22 18,s416111@schule-ooe.at,http://www.vs-herzogsdorf.jimdo.com,Frau Cornelia Hanner,Základní škola
+416112,Mittelschule Feldkirchen,Schulstraße 12,4101,Feldkirchen a.d. Donau,07233 63 72-10,s416112@schule-ooe.at,http://www.nmsfeldkirchen-donau.at,Herr Günter Forst,Nižší střední škola
+416121,Volksschule Kaindorf,Kaindorf 1,4204,Haibach im Mühlkreis,07211 82 66,s416121@schule-ooe.at,,Frau Ingrid Oyrer,Základní škola
+416131,Adalbert-Stifter-Volksschule Kirchschlag,Adalbert-Stifter-Straße 14,4202,Kirchschlag,07215 22 85-71,s416131@schule-ooe.at,http://www.kirchschlag.net/volksschule,Frau Cornelia Hanner,Základní škola
+416132,Mittelschule Reichenthal,Schlossstraße 8,4193,Reichenthal,07214 42 38,s416132@schule-ooe.at,http://hsreichenthal.jimdo.com,Frau Sabrina Englstorfer,Nižší střední škola
+416141,Volksschule Lacken,Lacken 5,4101,Feldkirchen a.d. Donau,07232 28 14,s416141@schule-ooe.at,,Frau Dagmar Strasser,Základní škola
+416151,Volksschule Bad Leonfelden,Adalbert-Stifter-Straße 25,4190,Bad Leonfelden,07213 65 40,s416151@schule-ooe.at,,Frau Susanne Neuburger,Základní škola
+416171,Volksschule Neußerling,Neußerling 157,4175,Herzogsdorf,07231 28 16,s416171@schule-ooe.at,http://schulen.eduhi.at/vsneuss,Frau Cornelia Hanner,Základní škola
+416181,Volksschule Oberneukirchen,Vorstadt 3,4181,Oberneukirchen,07218 80 05,s416181@schule-ooe.at,http://schulen.eduhi.at/vs_oberneukirchen,Frau Katrin Birklbauer,Základní škola
+416191,Volksschule Ottensheim,Jörgerstraße 8,4100,Ottensheim,07234 843 55-11,s416191@schule-ooe.at,,Frau Irmgard Thanhäuser,Základní škola
+416201,Volksschule Puchenau,Schulstraße 5,4048,Puchenau,0732 221 055-332,s416201@schule-ooe.at,,Frau Margit Schiefermair,Základní škola
+416211,Volksschule Reichenau,Glashüttenstraße 2,4204,Reichenau i.M,07211 82 62,s416211@schule-ooe.at,http://vsreichenau.jimdo.com,Frau Kathrin Purner,Základní škola
+416221,Volksschule Reichenthal,Schlossstraße 7,4193,Reichenthal,07214 40 42,s416221@schule-ooe.at,,Frau Susanne Preinfalk,Základní škola
+416231,Volksschule Schenkenfelden,Markt 4,4192,Schenkenfelden,07214 43 50,s416231@schule-ooe.at,https://volksschule-schenkenfelden.jimdosite.com,Frau Michaela Leitner,Základní škola
+416241,Volksschule Steyregg,Kirchengasse 18,4221,Steyregg,0732 640 064-22,s416241@schule-ooe.at,http://vs-steyregg.jimdo.com,Herr Ernst Mühlbachler,Základní škola
+416251,Volksschule Traberg,Traberg 60,4183,Traberg,07218 80 05,s416251@schule-ooe.at,,Frau Caroline Nösslböck,Základní škola
+416271,Volksschule Vorderweißenbach,Hauptstraße 21,4191,Vorderweißenbach,07219 60 55-50,s416271@schule-ooe.at,https://www.vsvwb.at,Frau Petra Lummerstorfer,Základní škola
+416281,Volksschule Walding,Kirchenplatz 3,4111,Walding,07234 824 20-213,s416281@schule-ooe.at,http://volksschulewalding.at,Herr Lukas Rammerstorfer,Základní škola
+416311,Volksschule Zwettl,Grießmühlweg 13,4180,Zwettl a.d. Rodl,07212 66 92,s416311@schule-ooe.at,http://vs.zwettl-rodl.eduhi.at,Frau Veronika Holzer,Základní škola
+416321,Volksschule Lichtenberg,Lichtenbergstraße 1,4040,Linz-Lichtenberg,07239 63 46,s416321@schule-ooe.at,https://www.vs-lichtenberg.at,Frau Marion Eberstaller,Základní škola
+416331,Volksschule Engerwitzdorf-Schweinbach,Bürgerstraße 1,4209,Engerwitzdorf,07235 632 80,s416331@schule-ooe.at,http://www.volksschule-engerwitzdorf.at,Frau Martina Hanousek,Základní škola
+416341,Volksschule Engerwitzdorf-Mittertreffling,Johann Wöckinger Straße 9,4209,Engerwitzdorf,07235 500 04-810,s416341@schule-ooe.at,,Frau Karin Pamminger,Základní škola
+416351,Waldorf Familienschule Walding,Naturfreundeweg 4,4111,Walding,0681 811 394 76,s416351@schule-ooe.at,http://waldorfwalding.com,Frau Juliet Williams,Základní škola
+416361,Privatschule Ikojenia,Wöran-Straße 5,4201,Gramastetten,07239 21440,s416361@schule-ooe.at,https://ikojenia.at,Frau Laura Stadlbauer,Základní škola
+416429,"Schule für Sozialbetreuungsberufe des Evangelischen Diakoniewerkes Gallneukirchen, Schwerpunkt Behindertenarbeit",Hauptstraße 7,4210,Gallneukirchen,07235 632 51-265,s416429@bildung.gv.at,http://www.zukunftsberufe.at,Herr Markus Kapsammer,Humanitně zaměřená škola
+416439,Höhere gewerbliche Bundeslehranstalt (Fachrichtung Tourismus) Bad Leonfelden<br>ss,Hagauerstraße 17,4190,Bad Leonfelden,07213 65 95,s416439@bildung.gv.at,http://www.baletour.at,Herr Herbert Panholzer,Humanitně zaměřená škola
+416449,"Schule für Sozialbetreuungsberufe des Evangelischen Diakoniewerkes Gallneukirchen, Schwerpunkt Altenarbeit",Hauptstraße 7,4210,Gallneukirchen,07235 632 51-265,s416449@bildung.gv.at,http://www.zukunftsberufe.at,Frau Susanne Kunze,Humanitně zaměřená škola
+416710,Landw. Berufs- und Fachschule Bergheim,Bergheimerstraße 7,4101,Feldkirchen an der Donau,07233 72 27,lwbfs-bergheim.post@ooe.gv.at,https://www.fachschule-bergheim.at/,Frau Edeltraud Allerstorfer,Zemědělská škola
+417012,Mittelschule Ampflwang,Dr.-Karl-Renner-Straße 22,4843,Ampflwang im Hausruckwald,07675 40 28,s417012@schule-ooe.at,http://msampflwang.at,Herr Florian Johann Paulik,Nižší střední škola
+417013,Allgem. Sonderschule Vöcklabruck<br>Pestalozzischule,Salzburger Straße 37,4840,Vöcklabruck,07672 238 81,s417013@schule-ooe.at,http://www.pestalozzischule.org,Frau Regina Hemetsberger,Speciální škola
+417015,Berufsschule Attnang,Schulweg 5-7,4800,Attnang,0732 77 20-35100,bs-attnang.post@ooe.gv.at,http://www.bs-attnang.ac.at,Herr Manfred Leitner,Odborné učiliště
+417016,Privates Oberstufenrealgymnasium Vöcklabruck des Vereins für Franziskanische Bildung Vöcklabruck,Graben 13,4840,Vöcklabruck,07672 726 80,s417016@bildung.gv.at,http://schulen.eduhi.at/orgvbruck,Herr Johann Gebetsberger,Všeobecná střední škola (gymnázium)
+417021,Volksschule Alt Lenzing,Alt Lenzing 31,4860,Alt Lenzing,07672 950 19,s417021@schule-ooe.at,,Frau Margit Longin,Základní škola
+417022,Mittelschule Attnang-Puchheim<br>Phönixschule,Römerstraße 27,4800,Attnang-Puchheim,0676 848 003 213,s417022@schule-ooe.at,https://org.phoenixschule.at,Herr Thomas Schwaiger,Nižší střední škola
+417023,Allgem. Sonderschule Mondsee,Schulweg 4,5310,Mondsee,06232 23 24-15,s417023@schule-ooe.at,https://www.pz-mondsee.at/,Herr Andreas Frixeder,Speciální škola
+417025,Berufsschule Vöcklabruck-Gmunden,Englweg 1,4840,Vöcklabruck,0732 77 20-37406,bs-vg.post@ooe.gv.at,http://www.bs-voecklabruck-gmunden.ac.at,Frau Sonja Achleitner,Odborné učiliště
+417026,"Bundesgymnasium Vöcklabruck, Schlossstraße",Schlossstraße 31a,4840,Vöcklabruck,07672 236 15,s417026@bildung.gv.at,http://schulen.eduhi.at/bgvbruck,Frau Gabriela Yaldez,Všeobecná střední škola (gymnázium)
+417031,Volksschule Ampflwang,Hausruckstraße 18,4843,Ampflwang im Hausruckwald,07675 22 54,s417031@schule-ooe.at,,Herr Franz Prohaska,Základní škola
+417032,Mittelschule Frankenburg,Hauptstraße 29,4873,Frankenburg am Hausruck,07683 501 811,s417032@schule-ooe.at,https://nmsfrankenburg.edupage.org/,Frau Angelika Daxner,Nižší střední škola
+417034,Polytechnische Schule Vöcklabruck,Salzburger Straße 37,4840,Vöcklabruck,07672 23881 - 200,s417034@schule-ooe.at,http://www.pts-voecklabruck.at,Frau Angela Riedl,Polytechnická škola
+417036,"Bundesrealgymnasium Schloss Wagrain, Schlossstraße",Schlossstraße 31,4840,Vöcklabruck,07672 293 08,s417036@bildung.gv.at,http://www.schlosswagrain.at,Herr Manfred Kienesberger,Všeobecná střední škola (gymnázium)
+417041,Volksschule Attersee,Sportstraße 30,4864,Attersee,07666 78 89,s417041@schule-ooe.at,,Frau Christine Gschwandtner,Základní škola
+417042,Mittelschule Frankenmarkt,Hauptstraße 27,4890,Frankenmarkt,07684 62 28,s417042@schule-ooe.at,http://www.nms-frankenmarkt.at,Frau Andrea Straßer,Nižší střední škola
+417051,Volksschule 1 Attnang-Puchheim,Römerstraße 27,4800,Attnang-Puchheim,07674 623 47,s417051@schule-ooe.at,https://www.vs1-attnang.at,Frau Sandra Hemetsberger,Základní škola
+417052,Mittelschule St. Georgen,Dr.-Greil-Straße 8,4880,St. Georgen im Attergau,07667 67 83-10,s417052@schule-ooe.at,http://schulen.eduhi.at/hsstgeorgenatt,Frau Isabell Schmidt,Nižší střední škola
+417061,Volksschule 2 Attnang-Puchheim,Kochstraße 5,4800,Attnang,07674 624 15,s417061@schule-ooe.at,,Herr Markus Irnberger,Základní škola
+417062,Sportmittelschule Lenzing,Thal 15,4860,Lenzing,07672 929 17,s417062@schule-ooe.at,https://www.ms-lenzing.at/,Herr Markus Ratzenböck,Nižší střední škola
+417071,Volksschule Atzbach,Hippelsberger Straße 3,4904,Atzbach,07676 84 07,s417071@schule-ooe.at,,Frau Daniela Mühlleitner,Základní škola
+417072,Sportmittelschule Mondsee,Südtirolerstraße 10,5310,Mondsee,06232 23 24-13,s417072@schule-ooe.at,http://www.smsmondsee.at,Herr Engelbert Hufnagl,Nižší střední škola
+417081,Volksschule Aurach am Hongar,Aurach am Hongar 76,4861,Aurach am Hongar,07662 86 21,s417081@schule-ooe.at,,,Základní škola
+417082,Naturparkmittelschule Schörfling,Khevenhüllerstraße 45,4861,Schörfling am Attersee,07662 62 61-12,s417082@schule-ooe.at,https://www.nms-schoerfling.at,Frau Ursula Englbrecht-Dießlbacher,Nižší střední škola
+417084,Polytechnische Schule Vöcklamarkt,Wultingergasse 20,4870,Vöcklamarkt,07682 20 31-31,s417084@schule-ooe.at,https://www.pts-voecklamarkt.at/,Herr Johann-Peter Parolini,Polytechnická škola
+417091,Volksschule Bach,Bach 14,4690,Rutzenham,07673 26 82,s417091@schule-ooe.at,http://www.volksschule-bach.at,Frau Birgit Trauner,Základní škola
+417092,Sportmittelschule 1 Schwanenstadt,Freizeitpark 4,4690,Schwanenstadt,07673 24 41,s417092@schule-ooe.at,http://schulen.eduhi.at/nms1schwanenstadt,Frau Daniela Gattinger,Nižší střední škola
+417101,Volksschule Bruckmühl,Mühlbachweg 9,4901,Ottnang a.H.,07676 75 15,s417101@schule-ooe.at,https://vs-ottnang-bruckmuehl.at,Frau Sigrid Bichl,Základní škola
+417102,"Mittelschule Timelkam<br>Sport-, Musikschwerpunkt",Römerstraße 13,4850,Timelkam,07672 921 63,s417102@schule-ooe.at,http://www.hs-timelkam.com,Herr Klaus Duftschmid,Nižší střední škola
+417111,Volksschule Desselbrunn<br>Volksschule mit musikalischer Schwerpunktsetzung,Desselbrunn 56,4693,Desselbrunn,07673 37 05,s417111@schule-ooe.at,,Frau Karin Holzleitner-Wallner,Základní škola
+417112,Sportmittelschule Vöcklabruck,Dr.-Scherer-Straße 6,4840,Vöcklabruck,07672 726 91-1,s417112@schule-ooe.at,https://sites.google.com/hsvb.at/sinmsvb,Frau Regina Aigner,Nižší střední škola
+417121,Volksschule Fornach,Fornach 40,4892,Fornach,07682 50 02,s417121@schule-ooe.at,,Frau Theresia Riedl,Základní škola
+417122,Mittelschule Regau,Schulweg 6,4844,Regau,07672 723 44,s417122@schule-ooe.at,https://sites.google.com/nmsregau.com/info/startseite,Frau Eva Maria Felgitscher,Nižší střední škola
+417131,Volksschule Frankenburg,Hauptstraße 29,4873,Frankenburg am Hausruck,07683 82 86,s417131@schule-ooe.at,,Herr Christian Wielander,Základní škola
+417132,Musikmittelschule Vöcklamarkt<br>Musikschwerpunkt,Schulweg 8,4870,Vöcklamarkt,07682 62 31,s417132@schule-ooe.at,https://nmsvmarkt.wordpress.com/,Frau Regina Wendl,Nižší střední škola
+417141,Volksschule Frankenmarkt,Hauptstraße 31,4890,Frankenmarkt,07684 64 18,s417141@schule-ooe.at,,Frau Regina Fuchs,Základní škola
+417142,Sportmittelschule Wolfsegg,Hauptschulstraße 7,4902,Wolfsegg am Hausruck,07676 61 85,s417142@schule-ooe.at,http://www.nms-wolfsegg.at/,Frau Elisabeth Milacher,Nižší střední škola
+417151,Volksschule Gampern,Hauptstraße 6,4851,Gampern,07682 80 13,s417151@schule-ooe.at,,Frau Isabella Zehetner,Základní škola
+417152,Private Mittelschule Vöcklabruck des Vereins für Franziskanische Bildung,Graben 13,4840,Vöcklabruck,07672 726 80-30,s417152@schule-ooe.at,http://schulen.eduhi.at/pmhs.voecklabruck,Herr Alois Kienast,Nižší střední škola
+417154,Polytechnische Schule Schwanenstadt,Mühlfeldstraße 1,4690,Schwanenstadt,07673 23 84-12,s417154@schule-ooe.at,http://www.p-t-s.at,Frau Susanna Thallinger,Polytechnická škola
+417161,Volksschule Tiefgraben/St. Lorenz<br>Volksschule mit musikalischer Schwerpunktsetzung,Thalgaustraße 4,5310,Mondsee,06232 220 75-10,s417161@schule-ooe.at,,Frau Lisa Maria Mitter-Schmidberger,Základní škola
+417182,Musikmittelschule 2 Schwanenstadt,Mühlfeldstraße 1,4690,Schwanenstadt,07673 23 84-10,s417182@schule-ooe.at,https://mmsschwan.at,Frau Martina Decker,Nižší střední škola
+417191,Volksschule Lenzing,Thal 15,4860,Lenzing,07672 929 86,s417191@schule-ooe.at,,Herr Mario Maier,Základní škola
+417192,Mittelschule Seewalchen,Dr.-Rudolf-Schuh-Straße 2,4863,Seewalchen am Attersee,07662 27 71,s417192@schule-ooe.at,http://www.unesconms-mondsee.at,Herr Josef Dandler,Nižší střední škola
+417201,Volksschule Loibichl,Loibichl 8,5311,Innerschwand,06232 20 59-10,s417201@schule-ooe.at,,Frau Barbara Baresch,Základní škola
+417202,Mittelschule Mondsee,Schulweg 4,5310,Mondsee,06232 23 10-2,s417202@schule-ooe.at,http://www.unesconms-mondsee.at,Frau Monika Hofauer,Nižší střední škola
+417211,Volksschule Mondsee,Schulweg 4,5310,Mondsee,06232 232 414,s417211@schule-ooe.at,,Frau Regina Loibichler,Základní škola
+417212,Mittelschule Neukirchen an der Vöckla,Bahnhofstraße 10,4872,Neukirchen an der Vöckla,07682 76 31,s417212@schule-ooe.at,http://www.hsneukirchen.eduhi.at,Herr Herbert Muhr,Nižší střední škola
+417221,Volksschule Neukirchen,Kirchenplatz 3,4872,Neukirchen an der Vöckla,07682 71 47,s417221@schule-ooe.at,,Herr Thomas Reiter,Základní škola
+417231,Volksschule Niederthalheim,Kirchenstraße 1,4692,Niederthalheim,07673 70 96,s417231@schule-ooe.at,,Frau Christa Brandstötter,Základní škola
+417241,Volksschule Nußdorf,Dorfstraße 61,4865,Nussdorf am Attersee,07666 80 27,s417241@schule-ooe.at,,Frau Nadine Herzog,Základní škola
+417251,Volksschule Oberhofen am Irrsee,Oberhofen am Irrsee 25,4894,Oberhofen am Irrsee,06213 82 03,s417251@schule-ooe.at,,Frau Christine Seitner,Základní škola
+417261,Volksschule Oberwang,Oberwang 144,4882,Oberwang,06233 82 29,s417261@schule-ooe.at,,Frau Michaela Luft,Základní škola
+417271,Volksschule Ottnang am Hausruck,Schulstraße 1,4901,Ottnang am Hausruck,07676 75 41,s417271@schule-ooe.at,https://vs-ottnang-bruckmuehl.at,Frau Sigrid Bichl,Základní škola
+417281,Volksschule Pöndorf,Kirchham 44,4891,Pöndorf,07684 69 00,s417281@schule-ooe.at,,Frau Barbara Pattinger,Základní škola
+417291,Volksschule Puchkirchen am Trattberg,Puchkirchen 5,4849,Puchkirchen,07682 72 10,s417291@schule-ooe.at,,Frau Daniela Seiringer,Základní škola
+417301,Volksschule Regau,Schulweg 4,4844,Regau,07672 232 12,s417301@schule-ooe.at,,Frau Andrea Etzer,Základní škola
+417321,Volksschule Rüstorf,Rüstorf 68,4690,Schwanenstadt,07673 35 83-10,s417321@schule-ooe.at,,Frau Eva-Maria Putz,Základní škola
+417331,Volksschule Rutzenmoos,Schulstraße 1,4845,Rutzenmoos,0664 3482556,s417331@schule-ooe.at,https://www.vsrutzenmoos.at,Frau Nadine Schützinger,Základní škola
+417341,Volksschule Schörfling am Attersee,Gmundner Straße 21,4861,Schörfling am Attersee,0681 846 440 43,s417341@schule-ooe.at,,Frau Angela Feith,Základní škola
+417351,Volksschule Schwanenstadt<br>Volksschule mit musikalischer Schwerpunktsetzung,Linzer Straße 21,4690,Schwanenstadt,07673 22 37,s417351@schule-ooe.at,,Frau Silvia Hutterer,Základní škola
+417361,Volksschule Seewalchen am Attersee<br>Volksschule mit musikalischer Schwerpunktsetzung,Dr.-R.-Schuh-Straße 2a,4863,Seewalchen am Attersee,07662 80 70,s417361@schule-ooe.at,,Herr Thomas Josef Hauer,Základní škola
+417371,Volksschule Steinbach am Attersee,Steinbach 7,4853,Steinbach am Attersee,07663 329,s417371@schule-ooe.at,,Frau Elisabeth Felgitscher,Základní škola
+417381,Volksschule Straß im Attergau,Straß 22,4881,Straß im Attergau,07667 71 04,s417381@schule-ooe.at,,,Základní škola
+417401,Volksschule Timelkam<br>Volksschule mit musikalischer Schwerpunktsetzung,Schulweg 3,4850,Timelkam,07672 921 36,s417401@schule-ooe.at,,Frau Iris Mitterhauser,Základní škola
+417411,Volksschule Ungenach,Ungenach 50,4841,Ungenach,07672 80 19,s417411@schule-ooe.at,,Frau Romana Haslinger,Základní škola
+417418,Bundeshandelsakademie und Bundeshandelsschule Vöcklabruck,Englweg 2,4840,Vöcklabruck,07672 232 96,s417418@bildung.gv.at,http://www.hakvoecklabruck.at,Herr Helmut Hüttmaier,Obchodní škola
+417421,UNESCO Volksschule Unterach,Klostergasse 7,4866,Unterach,07665 82 55-3000,s417421@schule-ooe.at,http://www.vs-unterach.at,Frau Silvia Aumair,Základní škola
+417427,Höhere Technische Bundeslehranstalt Vöcklabruck,Bahnhofstraße 42,4840,Vöcklabruck,07672 246 05,s417427@bildung.gv.at,http://www.htlvb.at,Herr Gernot Weissensteiner,Technická škola
+417431,Volksschule 1 Vöcklabruck,Dr.-Scherer-Straße 8,4840,Vöcklabruck,07672 722 74,s417431@schule-ooe.at,http://www.vs-vb.net,Herr Tom Hutchison,Základní škola
+417441,Volksschule 2 Vöcklabruck,Salzburger Straße 37,4840,Vöcklabruck,0660 712 20 55,s417441@schule-ooe.at,,,Základní škola
+417449,Höhere Lehranstalt für wirtschaftliche Berufe Vöcklabruck des Vereins der Don Bosco Schwestern für Bildung und Erziehung,Linzer Straße 98,4840,Vöcklabruck,07672 248 15-33,s417449@bildung.gv.at,https://www.donboscoschulen.at,Herr Erich Rudolf Hinterleitner,Humanitně zaměřená škola
+417451,Volksschule Vöcklamarkt,Wultingergasse 20,4870,Vöcklamarkt,07682 66 29,s417451@schule-ooe.at,https://www.vs-voecklamarkt.at,Frau Simone Vogl,Základní škola
+417461,Volksschule Weißenkirchen,Weißenkirchen i.A. 3,4890,Weißenkirchen i.A.,07684 82 79,s417461@schule-ooe.at,,Frau Helmtrud Kletzl-Saminger,Základní škola
+417471,Volksschule Weyregg,Römergasse 11,4852,Weyregg am Attersee,07664 22 64,s417471@schule-ooe.at,,Frau Gundula Böhm,Základní škola
+417481,Volksschule Wolfsegg,Hauptschulstraße 5a,4902,Wolfsegg am Hausruck,07676 73 28-1,s417481@schule-ooe.at,http://www.vswolfsegg.com,Frau Anna Brandstötter,Základní škola
+417491,Volksschule Zell am Moos,Gassen 5,4893,Zell am Moos,06234 82 20,s417491@schule-ooe.at,,Frau Elisabeth Schweighofer,Základní škola
+417501,Volksschule Zell am Pettenfirst,Zell am Pettenfirst 12,4842,Zell a. Pettenfirst,07675 23 05,s417501@schule-ooe.at,,Frau Romana Haslinger,Základní škola
+417511,Volksschule Zipf,Zipf 16,4871,Zipf,07682 64 49,s417511@schule-ooe.at,,Herr Thomas Reiter,Základní škola
+417521,Priv. Volksschule Vöcklabruck des Vereins für Franziskanische Bildung,Graben 13,4840,Vöcklabruck,07672 726 80-20,s417521@schule-ooe.at,https://www.franziskusvolksschule-voecklabruck.at,Frau Michaela Seufer-Wasserthal,Základní škola
+417541,Private Volksschule Attnang-Puchheim des Vereins für Franziskanische Bildung,Maria-Theresien-Straße 5,4800,Attnang-Puchheim,07674 623 53,s417541@schule-ooe.at,,Herr Paul Diesslbacher,Základní škola
+417551,Volksschule St. Georgen<br>Volksschule mit musikalischer Schwerpunktsetzung,Dr.-Greil-Straße 8,4880,St. Georgen im Attergau,07667 67 82,s417551@schule-ooe.at,,Frau Helga Bauernfeind,Základní škola
+417561,"""Dorfschule - Integratives Schulprojekt"" - Privatschule des Vereins ""Mit Kindern wachsen - Initiative für aktives und offenes Lernen""",Rubensdorf 1,4880,St. Georgen im Attergau,07667 66 48,s417561@schule-ooe.at,http://www.mit-kindern-wachsen.at,,Základní škola
+417571,"Privatschule ""Lernschmiede"" d. Vereins ""Gemeinschaftsschmiede – Verein f. Kinder, Jugend u. Familie""",Vöcklatal 30,4890,Weißenkirchen im Attergau,0680 122 44 66,gemeinschaftsschmiede@gmx.at,https://www.privatschule-lernschmiede.at,Frau Eva Straßer,Základní škola
+417720,Landw. Berufs- und Fachschule Vöcklabruck,Höhenstraße 1,4840,Vöcklabruck,07672 729 23,lwbfs-voecklabruck.post@ooe.gv.at,http://https://www.ooe-landwirtschaftsschulen.at/878_DEU_HTML.htm,Herr Stefan Friedrich Heuberger,Zemědělská škola
+417810,Bildungsanstalt für Elementarpädagogik Vöcklabruck des Vereins der Don Bosco Schwestern für Bildung und Erziehung,Linzer Straße 98,4840,Vöcklabruck,07672 248 15 33,s417810@bildung.gv.at,https://www.donboscoschulen.at/dbs/bafep,Frau Margit Gangl,Humanitně zaměřená škola
+418011,Volksschule Aichkirchen,Aichkirchen 18,4671,Aichkirchen,07735 73 41,s418011@schule-ooe.at,,Frau Karin Grinzinger,Základní škola
+418012,Mittelschule Buchkirchen,Schulstraße 4,4611,Buchkirchen,07242 280 20,s418012@schule-ooe.at,http://nmsbuchkirchen.eduhi.at,Frau Erika Stark,Nižší střední škola
+418016,Realgymnasium Lambach des Schulvereins am Benediktinerstift Lambach,Klosterplatz 1,4650,Lambach,07245 217 10 601,s418016@bildung.gv.at,http://http://www.rglambach.org/RG-Lambach/index.php,Herr Rainer Jocher,Všeobecná střední škola (gymnázium)
+418021,Volksschule Bachmanning,Schulstraße 1,4672,Bachmanning,07735 71 30,s418021@schule-ooe.at,,Frau Viktoria Friedrich,Základní škola
+418022,Mittelschule Gunskirchen,Lambacher Straße 4,4623,Gunskirchen,07246 62 55-630,s418022@schule-ooe.at,https://nmsgunskirchen.jimdofree.com,Herr Sven Daubenmerkl,Nižší střední škola
+418024,"Polytechnische Schule Marchtrenk<br>Fachlehrgang für Berufsorientierung, Berufsfindung und Berufsvorbereitung",Schnopfhagenstraße 1,4614,Marchtrenk,07243 547 79-11,s418024@schule-ooe.at,http://schulen.eduhi.at/pts.marchtrenk,Herr Markus Zeller,Polytechnická škola
+418031,Volksschule Buchkirchen,Schulstraße 2,4611,Buchkirchen,07242 280 28,s418031@schule-ooe.at,,Frau Maria Zaininger,Základní škola
+418032,Mittelschule 1 Lambach,Hafferlstraße 7,4650,Lambach,07245 288 44-10,s418032@schule-ooe.at,http://www.sportmittelschule-lambach.at/sportmittelschulelambach/index.php/home.html,Herr Gerald Grecksamer,Nižší střední škola
+418041,Volksschule Eberstalzell,Am Schulberg 2,4653,Eberstalzell,07241 55 87,s418041@schule-ooe.at,,Frau Doris Rechberger,Základní škola
+418042,Musikmittelschule 2 Lambach,Hafferlstraße 7,4650,Lambach,07245 282 88-20,s418042@schule-ooe.at,http://musikmittelschule-lambach.at,Frau Michaela Baier,Nižší střední škola
+418051,Volksschule Fischlham<br>Angelika-Putzer-Hatschek-Schule,Schulstraße 14,4652,Fischlham,07241 22 65,s418051@schule-ooe.at,,Frau Martina Papek,Základní škola
+418052,Mittelschule 1 Marchtrenk,Schnopfhagenstraße 1,4614,Marchtrenk,07243 552 404,s418052@schule-ooe.at,https://www.ms1marchtrenk.at,Herr Gerold Mallinger,Nižší střední škola
+418061,Volksschule Gunskirchen,Lambacher Straße 4,4623,Gunskirchen,07246 62 55-610,s418061@schule-ooe.at,http://vs.gunskirchen.eduhi.at,Frau Bettina Fuchshuber,Základní škola
+418062,Musikmittelschule Pichl,Gemeindeplatz 8,4632,Pichl b. Wels,07247 86 12,s418062@schule-ooe.at,https://www.ms-pichl.at,Frau Elisabeth Huber,Nižší střední škola
+418071,Volksschule Holzhausen,Am Weinberg 1,4615,Holzhausen,07243 571 553-10,s418071@schule-ooe.at,https://vsholzhausen.jimdofree.com,Frau Barbara Gruber,Základní škola
+418072,Mittelschule Sattledt,Schulstraße 13,4642,Sattledt,07244 88 72-21,s418072@schule-ooe.at,http://www.nmssattledt.at,Frau Sieglinde Kaiser,Nižší střední škola
+418081,Volksschule Krenglbach,Krenglbacher Straße 21,4631,Krenglbach,07249 460 18,s418081@schule-ooe.at,,Frau Marianne Abel-Paukner,Základní škola
+418082,Mittelschule Eberstalzell,Spieldorferstraße 8,4653,Eberstalzell,07241 56 02,s418082@schule-ooe.at,http://nms-eberstalzell.eduhi.at,Frau Ingrid Marie Christian,Nižší střední škola
+418091,Volksschule Lambach,Hafferlstraße 7,4650,Lambach,07245 282 77-30,s418091@schule-ooe.at,,Frau Beatrix Zanghellini,Základní škola
+418092,Mittelschule Steinerkirchen,Landstraße 20,4652,Steinerkirchen,07241 23 40,s418092@schule-ooe.at,https://mittelschule-steinerkirchen.at/,Herr Roland Miniberger,Nižší střední škola
+418101,Volksschule 1 Marchtrenk<br>Dr.-Renner-Schule,Dr.-Karl-Renner-Straße 22,4614,Marchtrenk,07243 552 411,s418101@schule-ooe.at,http://www.vs1marchtrenk.at,Frau Susanne Holoubek,Základní škola
+418102,Mittelschule Stadl-Paura,Am Bräuberg 3,4651,Stadl-Paura,0699 158 011 70,s418102@schule-ooe.at,https://tnmsstadlpaura.edupage.org,Herr Aleksander Tunaj,Nižší střední škola
+418111,Volksschule 2 Marchtrenk<br>Dr.-Schärf-Schule,Roseggerstraße 67,4614,Marchtrenk,07243 552 413,s418111@schule-ooe.at,,Frau Brigitte Schmid,Základní škola
+418112,Sportmittelschule 2 Marchtrenk,Schnopfhagenstraße 1,4614,Marchtrenk,07243 552-406,s418112@schule-ooe.at,https://nms2marchtrenk.edupage.org,Frau Ruth Brunner,Nižší střední škola
+418121,Volksschule Neukirchen,Neukirchen 8,4671,Neukirchen,07245 271 04,s418121@schule-ooe.at,,Frau Gabriele Schwaberger,Základní škola
+418131,Volksschule Offenhausen,Schulstraße 1,4625,Offenhausen,07247 61 29,s418131@schule-ooe.at,,Frau Gudrun Stefan,Základní škola
+418141,Volksschule Pennewang,Pennewang 7,4624,Pennewang,07245 261 61,s418141@schule-ooe.at,https://vs-pennewang.wixsite.com/info,Frau Martina Hutterer,Základní škola
+418151,Volksschule Pichl,Gemeindeplatz 6,4632,Pichl b. Wels,07247 86 13,s418151@schule-ooe.at,,Frau Jutta Waltenberger,Základní škola
+418161,Volksschule Sattledt,Schulstraße 11,4642,Sattledt,07244 88 94-11,s418161@schule-ooe.at,,Frau Hannelore Brunner,Základní škola
+418171,Volksschule Schleißheim,Dorfstraße 3,4600,Schleißheim,07242 722 28,s418171@schule-ooe.at,,Frau Heliana Gruber,Základní škola
+418181,Volksschule Sipbachzell,Schulstraße 3,4621,Sipbachzell,07240 85 52,s418181@schule-ooe.at,,,Základní škola
+418191,Volksschule Stadl-Paura<br>Franz Keim-Schule,Maximilian-Pagl-Straße 36,4651,Stadl-Paura,07245 323 23,s418191@schule-ooe.at,,Frau Gabriele Werner,Základní škola
+418201,Volksschule Steinerkirchen,Landstraße 20,4652,Steinerkirchen,07241 23 40-15,s418201@schule-ooe.at,http://www.vs-steinerkirchen.com,Frau Eveline Griebaum,Základní škola
+418211,Volksschule Steinhaus,Kirchenplatz 1,4641,Steinhaus,07242 270 87-19,s418211@schule-ooe.at,,Frau Christine Reisegger-Röck,Základní škola
+418221,Volksschule Thalheim,Rodlbergstraße 37,4600,Thalheim b. Wels,07242 476 11-511,s418221@schule-ooe.at,,Frau Viola Isabella Radlinger,Základní škola
+418231,Volksschule Weißkirchen,Gemeindeplatz 3,4616,Weißkirchen,07243 562 21-50,s418231@schule-ooe.at,https://volksschule-weisskirchen.jimdosite.com,Frau Irmgard Keller,Základní škola
+418251,Volksschule Bad Wimsbach-Neydharting,Seulbergerstraße 2,4654,Bad Wimsbach-Neydharting,07245 254 54,s418251@schule-ooe.at,,Frau Nicole Moser,Základní škola
+418261,"""Sonnenhausschule"" des Sonnenhaus-Vereins für ganzheitliches Leben mit Kindern auf Basis der Montessori-Pädagogik",Sand 11,4650,Lambach,0650 870 19 98,s418261@schule-ooe.at,http://www.sonnenhaus.at,,Základní škola
+418271,"Privatschule ""Triangel+Co"" des Vereins für ganzheitliches Leben und Lernen",Oberneufahrn 6,4614,Marchtrenk,0664 524 02 80,s418271@schule-ooe.at,http://www.triangel.co.at,,Základní škola
+418418,Handelsakademie und Handelsschule Lambach des Schulvereins am Benediktinerstift Lambach,Klosterplatz 1,4650,Lambach,07245 217 10-602,office@haklambach.at,http://www.haklambach.at,Herr Stefan Leitner,Obchodní škola
+418710,Landw. Berufs- und Fachschule Lambach,An der Traun 1,4650,Lambach,07245 206 60,lwbfs-lambach.post@ooe.gv.at,http://https://www.ooe-landwirtschaftsschulen.at/484_DEU_HTML.htm,Herr Karl Kronberger,Zemědělská škola
+418720,Landw. Berufs- und Fachschule Mistelbach,Schlossweg 1,4613,Buchkirchen,07242 288 20,lwbfs-mistelbach.post@ooe.gv.at,http://https://www.ooe-landwirtschaftsschulen.at/596_DEU_HTML.htm,Frau Martina Theresa Fichtenbauer,Zemědělská škola
+479010,Schulcluster BBS Kirchdorf an der Krems,Weinzielerstraße 22,4560,Kirchdorf an der Krems,0043 7582 60681,office@bbs-kirchdorf.at,http://www.bbs-kirchdorf.at,,Jiné
